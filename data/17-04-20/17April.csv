@@ -1,0 +1,417 @@
+,states,districts,confirmed,delta,date
+0,Kerala,Thrissur,13,0,Fri Apr 17 19:32:29 2020
+1,Kerala,Alappuzha,5,0,Fri Apr 17 19:32:29 2020
+2,Kerala,Kasaragod,168,0,Fri Apr 17 19:32:29 2020
+3,Kerala,Pathanamthitta,17,0,Fri Apr 17 19:32:29 2020
+4,Kerala,Kannur,82,0,Fri Apr 17 19:32:29 2020
+5,Kerala,Ernakulam,24,0,Fri Apr 17 19:32:29 2020
+6,Kerala,Kottayam,3,0,Fri Apr 17 19:32:29 2020
+7,Kerala,Thiruvananthapuram,14,0,Fri Apr 17 19:32:29 2020
+8,Kerala,Idukki,10,0,Fri Apr 17 19:32:29 2020
+9,Kerala,Malappuram,20,0,Fri Apr 17 19:32:29 2020
+10,Kerala,Kozhikode,19,1,Fri Apr 17 19:32:29 2020
+11,Kerala,Palakkad,8,0,Fri Apr 17 19:32:29 2020
+12,Kerala,Wayanad,3,0,Fri Apr 17 19:32:29 2020
+13,Kerala,Kollam,9,0,Fri Apr 17 19:32:29 2020
+14,Delhi,East Delhi,1,0,Fri Apr 17 19:32:29 2020
+15,Delhi,South West Delhi,3,0,Fri Apr 17 19:32:29 2020
+16,Delhi,West Delhi,2,0,Fri Apr 17 19:32:29 2020
+17,Delhi,North Delhi,3,0,Fri Apr 17 19:32:29 2020
+18,Delhi,New Delhi,5,0,Fri Apr 17 19:32:29 2020
+19,Delhi,South Delhi,26,0,Fri Apr 17 19:32:29 2020
+20,Delhi,North East Delhi,1,0,Fri Apr 17 19:32:29 2020
+21,Delhi,North West Delhi,3,0,Fri Apr 17 19:32:29 2020
+22,Delhi,Unknown,1596,0,Fri Apr 17 19:32:29 2020
+23,Telangana,Hyderabad,307,0,Fri Apr 17 19:32:29 2020
+24,Telangana,Karimnagar,18,0,Fri Apr 17 19:32:29 2020
+25,Telangana,Bhadradri Kothagudem,4,0,Fri Apr 17 19:32:29 2020
+26,Telangana,Ranga Reddy,34,0,Fri Apr 17 19:32:29 2020
+27,Telangana,Medchal Malkajgiri,23,0,Fri Apr 17 19:32:29 2020
+28,Telangana,Unknown,66,0,Fri Apr 17 19:32:29 2020
+29,Telangana,Rajanna Sircilla,1,0,Fri Apr 17 19:32:29 2020
+30,Telangana,Khammam,7,0,Fri Apr 17 19:32:29 2020
+31,Telangana,Warangal Urban,25,0,Fri Apr 17 19:32:29 2020
+32,Telangana,Vikarabad,29,0,Fri Apr 17 19:32:29 2020
+33,Telangana,Suryapet,23,0,Fri Apr 17 19:32:29 2020
+34,Telangana,Siddipet,1,0,Fri Apr 17 19:32:29 2020
+35,Telangana,Sangareddy,7,0,Fri Apr 17 19:32:29 2020
+36,Telangana,Nizamabad,51,0,Fri Apr 17 19:32:29 2020
+37,Telangana,Medak,6,0,Fri Apr 17 19:32:29 2020
+38,Telangana,Mahabubnagar,11,0,Fri Apr 17 19:32:29 2020
+39,Telangana,Mahabubabad,1,0,Fri Apr 17 19:32:29 2020
+40,Telangana,Adilabad,11,0,Fri Apr 17 19:32:29 2020
+41,Telangana,Nirmal,17,0,Fri Apr 17 19:32:29 2020
+42,Telangana,Peddapalli,2,0,Fri Apr 17 19:32:29 2020
+43,Telangana,Jagitial,2,0,Fri Apr 17 19:32:29 2020
+44,Telangana,Jogulamba Gadwal,19,0,Fri Apr 17 19:32:29 2020
+45,Telangana,Nalgonda,12,0,Fri Apr 17 19:32:29 2020
+46,Telangana,Nagarkurnool,2,0,Fri Apr 17 19:32:29 2020
+47,Telangana,Mulugu,2,0,Fri Apr 17 19:32:29 2020
+48,Telangana,Kamareddy,11,0,Fri Apr 17 19:32:29 2020
+49,Telangana,Jayashankar,3,0,Fri Apr 17 19:32:29 2020
+50,Telangana,Jangoan,2,0,Fri Apr 17 19:32:29 2020
+51,Telangana,Kumuram Bheem Asifabad,3,0,Fri Apr 17 19:32:29 2020
+52,Rajasthan,Italians*,2,0,Fri Apr 17 19:32:29 2020
+53,Rajasthan,Jaipur,492,6,Fri Apr 17 19:32:29 2020
+54,Rajasthan,Jhunjhunu,36,1,Fri Apr 17 19:32:29 2020
+55,Rajasthan,Bhilwara,28,0,Fri Apr 17 19:32:29 2020
+56,Rajasthan,Jodhpur,144,28,Fri Apr 17 19:32:29 2020
+57,Rajasthan,Pali,2,0,Fri Apr 17 19:32:29 2020
+58,Rajasthan,Sikar,2,0,Fri Apr 17 19:32:29 2020
+59,Rajasthan,Pratapgarh,2,0,Fri Apr 17 19:32:29 2020
+60,Rajasthan,Dungarpur,5,0,Fri Apr 17 19:32:29 2020
+61,Rajasthan,Churu,14,0,Fri Apr 17 19:32:29 2020
+62,Rajasthan,Ajmer,7,1,Fri Apr 17 19:32:29 2020
+63,Rajasthan,Evacuees*,58,4,Fri Apr 17 19:32:29 2020
+64,Rajasthan,Alwar,7,0,Fri Apr 17 19:32:29 2020
+65,Rajasthan,Tonk,84,13,Fri Apr 17 19:32:29 2020
+66,Rajasthan,Dhaulpur,1,0,Fri Apr 17 19:32:29 2020
+67,Rajasthan,Udaipur,4,0,Fri Apr 17 19:32:29 2020
+68,Rajasthan,Bharatpur,43,0,Fri Apr 17 19:32:29 2020
+69,Rajasthan,Bikaner,35,0,Fri Apr 17 19:32:29 2020
+70,Rajasthan,Dausa,12,0,Fri Apr 17 19:32:29 2020
+71,Rajasthan,Banswara,59,0,Fri Apr 17 19:32:29 2020
+72,Rajasthan,Karauli,3,0,Fri Apr 17 19:32:29 2020
+73,Rajasthan,Nagaur,10,2,Fri Apr 17 19:32:29 2020
+74,Rajasthan,Jaisalmer,30,0,Fri Apr 17 19:32:29 2020
+75,Rajasthan,Kota,92,6,Fri Apr 17 19:32:29 2020
+76,Rajasthan,Jhalawar,18,1,Fri Apr 17 19:32:29 2020
+77,Rajasthan,Barmer,1,0,Fri Apr 17 19:32:29 2020
+78,Rajasthan,Hanumangarh,2,0,Fri Apr 17 19:32:29 2020
+79,Haryana,Italians*,14,0,Fri Apr 17 19:32:29 2020
+80,Haryana,Gurugram,32,0,Fri Apr 17 19:32:29 2020
+81,Haryana,Faridabad,33,0,Fri Apr 17 19:32:29 2020
+82,Haryana,Panipat,5,0,Fri Apr 17 19:32:29 2020
+83,Haryana,Panchkula,16,2,Fri Apr 17 19:32:29 2020
+84,Haryana,Sonipat,4,0,Fri Apr 17 19:32:29 2020
+85,Haryana,Palwal,30,0,Fri Apr 17 19:32:29 2020
+86,Haryana,Ambala,7,0,Fri Apr 17 19:32:29 2020
+87,Haryana,Sirsa,4,0,Fri Apr 17 19:32:29 2020
+88,Haryana,Hisar,2,0,Fri Apr 17 19:32:29 2020
+89,Haryana,Rohtak,1,0,Fri Apr 17 19:32:29 2020
+90,Haryana,Nuh,56,6,Fri Apr 17 19:32:29 2020
+91,Haryana,Karnal,6,0,Fri Apr 17 19:32:29 2020
+92,Haryana,Bhiwani,2,0,Fri Apr 17 19:32:29 2020
+93,Haryana,Kaithal,2,0,Fri Apr 17 19:32:29 2020
+94,Haryana,Charki Dadri,1,0,Fri Apr 17 19:32:29 2020
+95,Haryana,Jind,2,0,Fri Apr 17 19:32:29 2020
+96,Haryana,Fatehabad,1,0,Fri Apr 17 19:32:29 2020
+97,Haryana,Kurukshetra,2,0,Fri Apr 17 19:32:29 2020
+98,Haryana,Yamunanagar,3,0,Fri Apr 17 19:32:29 2020
+99,Uttar Pradesh,Agra,167,0,Fri Apr 17 19:32:29 2020
+100,Uttar Pradesh,Ghaziabad,28,0,Fri Apr 17 19:32:29 2020
+101,Uttar Pradesh,Lucknow,97,0,Fri Apr 17 19:32:29 2020
+102,Uttar Pradesh,Gautam Buddha Nagar,92,0,Fri Apr 17 19:32:29 2020
+103,Uttar Pradesh,Kheri,4,0,Fri Apr 17 19:32:29 2020
+104,Uttar Pradesh,Moradabad,21,0,Fri Apr 17 19:32:29 2020
+105,Uttar Pradesh,Varanasi,9,0,Fri Apr 17 19:32:29 2020
+106,Uttar Pradesh,Kanpur Nagar,22,0,Fri Apr 17 19:32:29 2020
+107,Uttar Pradesh,Pilibhit,2,0,Fri Apr 17 19:32:29 2020
+108,Uttar Pradesh,Jaunpur,5,0,Fri Apr 17 19:32:29 2020
+109,Uttar Pradesh,Baghpat,15,0,Fri Apr 17 19:32:29 2020
+110,Uttar Pradesh,Shamli,22,0,Fri Apr 17 19:32:29 2020
+111,Uttar Pradesh,Meerut,69,0,Fri Apr 17 19:32:29 2020
+112,Uttar Pradesh,Bareilly,6,0,Fri Apr 17 19:32:29 2020
+113,Uttar Pradesh,Bulandshahr,12,0,Fri Apr 17 19:32:29 2020
+114,Uttar Pradesh,Basti,16,0,Fri Apr 17 19:32:29 2020
+115,Uttar Pradesh,Hardoi,2,0,Fri Apr 17 19:32:29 2020
+116,Uttar Pradesh,Shahjahanpur,1,0,Fri Apr 17 19:32:29 2020
+117,Uttar Pradesh,Firozabad,27,0,Fri Apr 17 19:32:29 2020
+118,Uttar Pradesh,Azamgarh,6,0,Fri Apr 17 19:32:29 2020
+119,Uttar Pradesh,Saharanpur,53,0,Fri Apr 17 19:32:29 2020
+120,Uttar Pradesh,Pratapgarh,6,0,Fri Apr 17 19:32:29 2020
+121,Uttar Pradesh,Hapur,15,0,Fri Apr 17 19:32:29 2020
+122,Uttar Pradesh,Ghazipur,5,0,Fri Apr 17 19:32:29 2020
+123,Uttar Pradesh,Banda,3,0,Fri Apr 17 19:32:29 2020
+124,Uttar Pradesh,Mahrajganj,6,0,Fri Apr 17 19:32:29 2020
+125,Uttar Pradesh,Hathras,4,0,Fri Apr 17 19:32:29 2020
+126,Uttar Pradesh,Mirzapur,2,0,Fri Apr 17 19:32:29 2020
+127,Uttar Pradesh,Rae Bareli,2,0,Fri Apr 17 19:32:29 2020
+128,Uttar Pradesh,Bara Banki,1,0,Fri Apr 17 19:32:29 2020
+129,Uttar Pradesh,Auraiya,5,0,Fri Apr 17 19:32:29 2020
+130,Uttar Pradesh,Mathura,4,0,Fri Apr 17 19:32:29 2020
+131,Uttar Pradesh,Budaun,4,0,Fri Apr 17 19:32:29 2020
+132,Uttar Pradesh,Kaushambi,2,0,Fri Apr 17 19:32:29 2020
+133,Uttar Pradesh,Bijnor,13,0,Fri Apr 17 19:32:29 2020
+134,Uttar Pradesh,Prayagraj,1,0,Fri Apr 17 19:32:29 2020
+135,Uttar Pradesh,Sitapur,14,0,Fri Apr 17 19:32:29 2020
+136,Uttar Pradesh,Muzaffarnagar,7,0,Fri Apr 17 19:32:29 2020
+137,Uttar Pradesh,Amroha,10,0,Fri Apr 17 19:32:29 2020
+138,Uttar Pradesh,Rampur,6,0,Fri Apr 17 19:32:29 2020
+139,Uttar Pradesh,Bhadohi,1,0,Fri Apr 17 19:32:29 2020
+140,Uttar Pradesh,Kasganj,3,0,Fri Apr 17 19:32:29 2020
+141,Uttar Pradesh,Etawah,1,0,Fri Apr 17 19:32:29 2020
+142,Uttar Pradesh,Sambhal,6,0,Fri Apr 17 19:32:29 2020
+143,Uttar Pradesh,Unnao,1,0,Fri Apr 17 19:32:29 2020
+144,Uttar Pradesh,Kannauj,4,0,Fri Apr 17 19:32:29 2020
+145,Uttar Pradesh,Sant Kabir Nagar,1,0,Fri Apr 17 19:32:29 2020
+146,Uttar Pradesh,Mainpuri,2,0,Fri Apr 17 19:32:29 2020
+147,Uttar Pradesh,Unknown,41,41,Fri Apr 17 19:32:29 2020
+148,Ladakh,Leh,14,0,Fri Apr 17 19:32:29 2020
+149,Ladakh,Kargil,4,0,Fri Apr 17 19:32:29 2020
+150,Tamil Nadu,Kancheepuram,7,0,Fri Apr 17 19:32:29 2020
+151,Tamil Nadu,Chennai,233,11,Fri Apr 17 19:32:29 2020
+152,Tamil Nadu,Erode,70,0,Fri Apr 17 19:32:29 2020
+153,Tamil Nadu,Coimbatore,127,0,Fri Apr 17 19:32:29 2020
+154,Tamil Nadu,Tirunelveli,60,0,Fri Apr 17 19:32:29 2020
+155,Tamil Nadu,Tiruppur,80,0,Fri Apr 17 19:32:29 2020
+156,Tamil Nadu,Madurai,44,0,Fri Apr 17 19:32:29 2020
+157,Tamil Nadu,Chengalpattu,47,0,Fri Apr 17 19:32:29 2020
+158,Tamil Nadu,Salem,24,0,Fri Apr 17 19:32:29 2020
+159,Tamil Nadu,Ranipet,38,0,Fri Apr 17 19:32:29 2020
+160,Tamil Nadu,Thanjavur,34,17,Fri Apr 17 19:32:29 2020
+161,Tamil Nadu,Vellore,23,3,Fri Apr 17 19:32:29 2020
+162,Tamil Nadu,Virudhunagar,17,0,Fri Apr 17 19:32:29 2020
+163,Tamil Nadu,Karur,41,1,Fri Apr 17 19:32:29 2020
+164,Tamil Nadu,Tiruvannamalai,8,0,Fri Apr 17 19:32:29 2020
+165,Tamil Nadu,Viluppuram,30,2,Fri Apr 17 19:32:29 2020
+166,Tamil Nadu,Namakkal,50,0,Fri Apr 17 19:32:29 2020
+167,Tamil Nadu,Kanniyakumari,16,0,Fri Apr 17 19:32:29 2020
+168,Tamil Nadu,Thoothukkudi,26,0,Fri Apr 17 19:32:29 2020
+169,Tamil Nadu,Theni,44,2,Fri Apr 17 19:32:29 2020
+170,Tamil Nadu,Dindigul,66,1,Fri Apr 17 19:32:29 2020
+171,Tamil Nadu,Sivaganga,11,0,Fri Apr 17 19:32:29 2020
+172,Tamil Nadu,Tirupathur,17,0,Fri Apr 17 19:32:29 2020
+173,Tamil Nadu,Thiruvarur,22,4,Fri Apr 17 19:32:29 2020
+174,Tamil Nadu,Ramanathapuram,10,0,Fri Apr 17 19:32:29 2020
+175,Tamil Nadu,Thiruvallur,47,5,Fri Apr 17 19:32:29 2020
+176,Tamil Nadu,Nagapattinam,40,2,Fri Apr 17 19:32:29 2020
+177,Tamil Nadu,Cuddalore,20,0,Fri Apr 17 19:32:29 2020
+178,Tamil Nadu,Kallakurichi,3,0,Fri Apr 17 19:32:29 2020
+179,Tamil Nadu,Perambalur,1,0,Fri Apr 17 19:32:29 2020
+180,Tamil Nadu,Tiruchirappalli,46,3,Fri Apr 17 19:32:29 2020
+181,Tamil Nadu,The Nilgiris,9,0,Fri Apr 17 19:32:29 2020
+182,Tamil Nadu,Ariyalur,1,0,Fri Apr 17 19:32:29 2020
+183,Tamil Nadu,Tenkasi,11,5,Fri Apr 17 19:32:29 2020
+184,Jammu and Kashmir,Jammu,26,0,Fri Apr 17 19:32:29 2020
+185,Jammu and Kashmir,Srinagar,78,0,Fri Apr 17 19:32:29 2020
+186,Jammu and Kashmir,Bandipore,66,0,Fri Apr 17 19:32:29 2020
+187,Jammu and Kashmir,Rajouri,3,0,Fri Apr 17 19:32:29 2020
+188,Jammu and Kashmir,Badgam,12,0,Fri Apr 17 19:32:29 2020
+189,Jammu and Kashmir,Baramula,42,0,Fri Apr 17 19:32:29 2020
+190,Jammu and Kashmir,Shupiyan,14,0,Fri Apr 17 19:32:29 2020
+191,Jammu and Kashmir,Udhampur,20,0,Fri Apr 17 19:32:29 2020
+192,Jammu and Kashmir,Pulwama,3,0,Fri Apr 17 19:32:29 2020
+193,Jammu and Kashmir,Kupwara,25,0,Fri Apr 17 19:32:29 2020
+194,Jammu and Kashmir,Ganderbal,14,0,Fri Apr 17 19:32:29 2020
+195,Jammu and Kashmir,Kulgam,5,0,Fri Apr 17 19:32:29 2020
+196,Jammu and Kashmir,Kishtwar,1,0,Fri Apr 17 19:32:29 2020
+197,Jammu and Kashmir,Samba,4,0,Fri Apr 17 19:32:29 2020
+198,Jammu and Kashmir,Budaun,1,0,Fri Apr 17 19:32:29 2020
+199,Karnataka,Bengaluru,97,10,Fri Apr 17 19:32:29 2020
+200,Karnataka,Kalaburagi,20,0,Fri Apr 17 19:32:29 2020
+201,Karnataka,Kodagu,1,0,Fri Apr 17 19:32:29 2020
+202,Karnataka,Mysuru,73,12,Fri Apr 17 19:32:29 2020
+203,Karnataka,Dharwad,6,0,Fri Apr 17 19:32:29 2020
+204,Karnataka,Uttara Kannada,10,0,Fri Apr 17 19:32:29 2020
+205,Karnataka,Dakshina Kannada,13,1,Fri Apr 17 19:32:29 2020
+206,Karnataka,Chikkaballapura,13,3,Fri Apr 17 19:32:29 2020
+207,Karnataka,Udupi,3,0,Fri Apr 17 19:32:29 2020
+208,Karnataka,Davanagere,3,0,Fri Apr 17 19:32:29 2020
+209,Karnataka,Tumakuru,1,0,Fri Apr 17 19:32:29 2020
+210,Karnataka,Ballari,13,7,Fri Apr 17 19:32:29 2020
+211,Karnataka,Bidar,14,1,Fri Apr 17 19:32:29 2020
+212,Karnataka,Bagalkote,14,0,Fri Apr 17 19:32:29 2020
+213,Karnataka,Belagavi,41,5,Fri Apr 17 19:32:29 2020
+214,Karnataka,Bengaluru Rural,5,0,Fri Apr 17 19:32:29 2020
+215,Karnataka,Gadag,2,0,Fri Apr 17 19:32:29 2020
+216,Karnataka,Mandya,11,3,Fri Apr 17 19:32:29 2020
+217,Karnataka,Vijayapura,19,2,Fri Apr 17 19:32:29 2020
+218,Maharashtra,Pune,430,0,Fri Apr 17 19:32:29 2020
+219,Maharashtra,Mumbai,2003,0,Fri Apr 17 19:32:29 2020
+220,Maharashtra,Nagpur,66,0,Fri Apr 17 19:32:29 2020
+221,Maharashtra,Ahmadnagar,28,0,Fri Apr 17 19:32:29 2020
+222,Maharashtra,Thane,295,0,Fri Apr 17 19:32:29 2020
+223,Maharashtra,Raigarh,16,0,Fri Apr 17 19:32:29 2020
+224,Maharashtra,Yavatmal,5,0,Fri Apr 17 19:32:29 2020
+225,Maharashtra,Aurangabad,23,0,Fri Apr 17 19:32:29 2020
+226,Maharashtra,Ratnagiri,6,0,Fri Apr 17 19:32:29 2020
+227,Maharashtra,Palghar,39,0,Fri Apr 17 19:32:29 2020
+228,Maharashtra,Sangli,26,0,Fri Apr 17 19:32:29 2020
+229,Maharashtra,Satara,6,0,Fri Apr 17 19:32:29 2020
+230,Maharashtra,Sindhudurg,1,0,Fri Apr 17 19:32:29 2020
+231,Maharashtra,Gondiya,1,0,Fri Apr 17 19:32:29 2020
+232,Maharashtra,Kolhapur,6,0,Fri Apr 17 19:32:29 2020
+233,Maharashtra,Other States*,11,0,Fri Apr 17 19:32:29 2020
+234,Maharashtra,Jalgaon,2,0,Fri Apr 17 19:32:29 2020
+235,Maharashtra,Buldana,21,0,Fri Apr 17 19:32:29 2020
+236,Maharashtra,Nashik,56,0,Fri Apr 17 19:32:29 2020
+237,Maharashtra,Osmanabad,4,0,Fri Apr 17 19:32:29 2020
+238,Maharashtra,Washim,1,0,Fri Apr 17 19:32:29 2020
+239,Maharashtra,Hingoli,1,0,Fri Apr 17 19:32:29 2020
+240,Maharashtra,Amravati,6,0,Fri Apr 17 19:32:29 2020
+241,Maharashtra,Latur,8,0,Fri Apr 17 19:32:29 2020
+242,Maharashtra,Jalna,1,0,Fri Apr 17 19:32:29 2020
+243,Maharashtra,Akola,13,0,Fri Apr 17 19:32:29 2020
+244,Maharashtra,Bid,1,0,Fri Apr 17 19:32:29 2020
+245,Maharashtra,Dhule,2,0,Fri Apr 17 19:32:29 2020
+246,Maharashtra,Solapur,2,0,Fri Apr 17 19:32:29 2020
+247,Maharashtra,Chandrapur,1,0,Fri Apr 17 19:32:29 2020
+248,Maharashtra,Unknown,121,0,Fri Apr 17 19:32:29 2020
+249,Punjab,Amritsar,11,0,Fri Apr 17 19:32:29 2020
+250,Punjab,Shahid Bhagat Singh Nagar,19,0,Fri Apr 17 19:32:29 2020
+251,Punjab,S.A.S. Nagar,56,0,Fri Apr 17 19:32:29 2020
+252,Punjab,Hoshiarpur,7,0,Fri Apr 17 19:32:29 2020
+253,Punjab,Jalandhar,35,4,Fri Apr 17 19:32:29 2020
+254,Punjab,Ludhiana,15,4,Fri Apr 17 19:32:29 2020
+255,Punjab,Patiala,11,5,Fri Apr 17 19:32:29 2020
+256,Punjab,Rupnagar,3,0,Fri Apr 17 19:32:29 2020
+257,Punjab,Mansa,11,0,Fri Apr 17 19:32:29 2020
+258,Punjab,Pathankot,24,0,Fri Apr 17 19:32:29 2020
+259,Punjab,Faridkot,3,0,Fri Apr 17 19:32:29 2020
+260,Punjab,Barnala,2,0,Fri Apr 17 19:32:29 2020
+261,Punjab,Fatehgarh Sahib,2,0,Fri Apr 17 19:32:29 2020
+262,Punjab,Kapurthala,2,0,Fri Apr 17 19:32:29 2020
+263,Punjab,Moga,4,0,Fri Apr 17 19:32:29 2020
+264,Punjab,Sri Muktsar Sahib,1,0,Fri Apr 17 19:32:29 2020
+265,Punjab,Sangrur,3,0,Fri Apr 17 19:32:29 2020
+266,Punjab,Gurdaspur,1,0,Fri Apr 17 19:32:29 2020
+267,Punjab,Firozpur,1,1,Fri Apr 17 19:32:29 2020
+268,Andhra Pradesh,S.P.S. Nellore,65,6,Fri Apr 17 19:32:29 2020
+269,Andhra Pradesh,Prakasam,42,0,Fri Apr 17 19:32:29 2020
+270,Andhra Pradesh,Visakhapatnam,20,0,Fri Apr 17 19:32:29 2020
+271,Andhra Pradesh,East Godavari,17,0,Fri Apr 17 19:32:29 2020
+272,Andhra Pradesh,Krishna,52,4,Fri Apr 17 19:32:29 2020
+273,Andhra Pradesh,Chittoor,28,5,Fri Apr 17 19:32:29 2020
+274,Andhra Pradesh,Guntur,126,4,Fri Apr 17 19:32:29 2020
+275,Andhra Pradesh,Kurnool,125,13,Fri Apr 17 19:32:29 2020
+276,Andhra Pradesh,Anantapur,26,5,Fri Apr 17 19:32:29 2020
+277,Andhra Pradesh,West Godavari,34,0,Fri Apr 17 19:32:29 2020
+278,Andhra Pradesh,Y.S.R.,37,1,Fri Apr 17 19:32:29 2020
+279,Uttarakhand,Dehradun,20,2,Fri Apr 17 19:32:29 2020
+280,Uttarakhand,Pauri Garhwal,2,0,Fri Apr 17 19:32:29 2020
+281,Uttarakhand,Udham Singh Nagar,3,0,Fri Apr 17 19:32:29 2020
+282,Uttarakhand,Nainital,9,1,Fri Apr 17 19:32:29 2020
+283,Uttarakhand,Haridwar,5,0,Fri Apr 17 19:32:29 2020
+284,Uttarakhand,Almora,1,0,Fri Apr 17 19:32:29 2020
+285,Odisha,Khordha,46,0,Fri Apr 17 19:32:29 2020
+286,Odisha,Bhadrak,3,0,Fri Apr 17 19:32:29 2020
+287,Odisha,Cuttack,1,0,Fri Apr 17 19:32:29 2020
+288,Odisha,Puri,1,0,Fri Apr 17 19:32:29 2020
+289,Odisha,Jajapur,2,0,Fri Apr 17 19:32:29 2020
+290,Odisha,Kalahandi,2,0,Fri Apr 17 19:32:29 2020
+291,Odisha,Kendrapara,2,0,Fri Apr 17 19:32:29 2020
+292,Odisha,Dhenkanal,1,0,Fri Apr 17 19:32:29 2020
+293,Odisha,Sundargarh,2,0,Fri Apr 17 19:32:29 2020
+294,Puducherry,Mahe,1,0,Fri Apr 17 19:32:29 2020
+295,Puducherry,Puducherry,6,0,Fri Apr 17 19:32:29 2020
+296,West Bengal,Kolkata,11,0,Fri Apr 17 19:32:29 2020
+297,West Bengal,North 24 Parganas,4,0,Fri Apr 17 19:32:29 2020
+298,West Bengal,Nadia,5,0,Fri Apr 17 19:32:29 2020
+299,West Bengal,Medinipur East,3,0,Fri Apr 17 19:32:29 2020
+300,West Bengal,Kalimpong,1,0,Fri Apr 17 19:32:29 2020
+301,West Bengal,Hooghly,1,0,Fri Apr 17 19:32:29 2020
+302,West Bengal,Howrah,1,0,Fri Apr 17 19:32:29 2020
+303,West Bengal,South 24 Parganas,1,0,Fri Apr 17 19:32:29 2020
+304,West Bengal,Unknown,228,24,Fri Apr 17 19:32:29 2020
+305,Chandigarh,Chandigarh,21,0,Fri Apr 17 19:32:29 2020
+306,Chhattisgarh,Raipur,5,0,Fri Apr 17 19:32:29 2020
+307,Chhattisgarh,Rajnandgaon,1,0,Fri Apr 17 19:32:29 2020
+308,Chhattisgarh,Bilaspur,1,0,Fri Apr 17 19:32:29 2020
+309,Chhattisgarh,Durg,1,0,Fri Apr 17 19:32:29 2020
+310,Chhattisgarh,Korba,28,0,Fri Apr 17 19:32:29 2020
+311,Gujarat,Rajkot,28,0,Fri Apr 17 19:32:29 2020
+312,Gujarat,Surat,102,14,Fri Apr 17 19:32:29 2020
+313,Gujarat,Ahmadabad,590,45,Fri Apr 17 19:32:29 2020
+314,Gujarat,Vadodara,137,9,Fri Apr 17 19:32:29 2020
+315,Gujarat,Gandhinagar,17,0,Fri Apr 17 19:32:29 2020
+316,Gujarat,Kachchh,4,0,Fri Apr 17 19:32:29 2020
+317,Gujarat,Mahesana,4,0,Fri Apr 17 19:32:29 2020
+318,Gujarat,Bhavnagar,26,0,Fri Apr 17 19:32:29 2020
+319,Gujarat,Porbandar,3,0,Fri Apr 17 19:32:29 2020
+320,Gujarat,Gir Somnath,2,0,Fri Apr 17 19:32:29 2020
+321,Gujarat,Panch Mahals,8,2,Fri Apr 17 19:32:29 2020
+322,Gujarat,Patan,15,1,Fri Apr 17 19:32:29 2020
+323,Gujarat,Chota Udaipur,6,1,Fri Apr 17 19:32:29 2020
+324,Gujarat,Jamnagar,1,0,Fri Apr 17 19:32:29 2020
+325,Gujarat,Morbi,1,0,Fri Apr 17 19:32:29 2020
+326,Gujarat,Anand,26,1,Fri Apr 17 19:32:29 2020
+327,Gujarat,Sabar Kantha,1,0,Fri Apr 17 19:32:29 2020
+328,Gujarat,Dahod,3,1,Fri Apr 17 19:32:29 2020
+329,Gujarat,Bharuch,21,8,Fri Apr 17 19:32:29 2020
+330,Gujarat,Banas Kantha,6,0,Fri Apr 17 19:32:29 2020
+331,Gujarat,Botad,4,3,Fri Apr 17 19:32:29 2020
+332,Gujarat,Kheda,3,1,Fri Apr 17 19:32:29 2020
+333,Gujarat,Narmada,11,5,Fri Apr 17 19:32:29 2020
+334,Gujarat,Aravalli,1,0,Fri Apr 17 19:32:29 2020
+335,Gujarat,Mahisagar,1,1,Fri Apr 17 19:32:29 2020
+336,Himachal Pradesh,Kangra,4,0,Fri Apr 17 19:32:29 2020
+337,Himachal Pradesh,Una,15,0,Fri Apr 17 19:32:29 2020
+338,Himachal Pradesh,Solan,9,0,Fri Apr 17 19:32:29 2020
+339,Himachal Pradesh,Chamba,4,0,Fri Apr 17 19:32:29 2020
+340,Himachal Pradesh,Sirmaur,1,0,Fri Apr 17 19:32:29 2020
+341,Himachal Pradesh,Unknown,2,0,Fri Apr 17 19:32:29 2020
+342,Madhya Pradesh,Jabalpur,13,0,Fri Apr 17 19:32:29 2020
+343,Madhya Pradesh,Bhopal,196,0,Fri Apr 17 19:32:29 2020
+344,Madhya Pradesh,Indore,707,0,Fri Apr 17 19:32:29 2020
+345,Madhya Pradesh,Ujjain,30,0,Fri Apr 17 19:32:29 2020
+346,Madhya Pradesh,Gwalior,6,0,Fri Apr 17 19:32:29 2020
+347,Madhya Pradesh,Shivpuri,2,0,Fri Apr 17 19:32:29 2020
+348,Madhya Pradesh,Chhindwara,4,0,Fri Apr 17 19:32:29 2020
+349,Madhya Pradesh,Morena,14,0,Fri Apr 17 19:32:29 2020
+350,Madhya Pradesh,Khargone,39,0,Fri Apr 17 19:32:29 2020
+351,Madhya Pradesh,Barwani,22,0,Fri Apr 17 19:32:29 2020
+352,Madhya Pradesh,Betul,1,0,Fri Apr 17 19:32:29 2020
+353,Madhya Pradesh,Vidisha,13,0,Fri Apr 17 19:32:29 2020
+354,Madhya Pradesh,Other Region*,1,0,Fri Apr 17 19:32:29 2020
+355,Madhya Pradesh,Sheopur,3,0,Fri Apr 17 19:32:29 2020
+356,Madhya Pradesh,Khandwa,33,0,Fri Apr 17 19:32:29 2020
+357,Madhya Pradesh,Dhar,6,0,Fri Apr 17 19:32:29 2020
+358,Madhya Pradesh,Hoshangabad,16,0,Fri Apr 17 19:32:29 2020
+359,Madhya Pradesh,Raisen,8,0,Fri Apr 17 19:32:29 2020
+360,Madhya Pradesh,Dewas,17,0,Fri Apr 17 19:32:29 2020
+361,Madhya Pradesh,Sagar,1,0,Fri Apr 17 19:32:29 2020
+362,Madhya Pradesh,Shajapur,5,0,Fri Apr 17 19:32:29 2020
+363,Madhya Pradesh,Ratlam,12,0,Fri Apr 17 19:32:29 2020
+364,Madhya Pradesh,Mandsaur,7,0,Fri Apr 17 19:32:29 2020
+365,Madhya Pradesh,Satna,2,0,Fri Apr 17 19:32:29 2020
+366,Madhya Pradesh,Tikamgarh,1,0,Fri Apr 17 19:32:29 2020
+367,Madhya Pradesh,Alirajpur,1,0,Fri Apr 17 19:32:29 2020
+368,Madhya Pradesh,Agar Malwa,4,0,Fri Apr 17 19:32:29 2020
+369,Bihar,Munger,14,0,Fri Apr 17 19:32:29 2020
+370,Bihar,Patna,6,0,Fri Apr 17 19:32:29 2020
+371,Bihar,Siwan,29,0,Fri Apr 17 19:32:29 2020
+372,Bihar,Nalanda,6,0,Fri Apr 17 19:32:29 2020
+373,Bihar,Lakhisarai,1,0,Fri Apr 17 19:32:29 2020
+374,Bihar,Gopalganj,3,0,Fri Apr 17 19:32:29 2020
+375,Bihar,Gaya,5,0,Fri Apr 17 19:32:29 2020
+376,Bihar,Begusarai,8,0,Fri Apr 17 19:32:29 2020
+377,Bihar,Saran,1,0,Fri Apr 17 19:32:29 2020
+378,Bihar,Bhagalpur,1,0,Fri Apr 17 19:32:29 2020
+379,Bihar,Nawada,3,0,Fri Apr 17 19:32:29 2020
+380,Bihar,Vaishali,1,0,Fri Apr 17 19:32:29 2020
+381,Bihar,Buxar,2,0,Fri Apr 17 19:32:29 2020
+382,Bihar,Unknown,3,0,Fri Apr 17 19:32:29 2020
+383,Manipur,Imphal West,1,0,Fri Apr 17 19:32:29 2020
+384,Manipur,Unknown,1,0,Fri Apr 17 19:32:29 2020
+385,Mizoram,Aizawl,1,0,Fri Apr 17 19:32:29 2020
+386,Goa,North Goa,4,0,Fri Apr 17 19:32:29 2020
+387,Goa,Unknown,3,0,Fri Apr 17 19:32:29 2020
+388,Andaman and Nicobar Islands,South Andaman,5,0,Fri Apr 17 19:32:29 2020
+389,Andaman and Nicobar Islands,North and Middle Andaman,1,0,Fri Apr 17 19:32:29 2020
+390,Andaman and Nicobar Islands,Unknown,6,1,Fri Apr 17 19:32:29 2020
+391,Jharkhand,Ranchi,14,0,Fri Apr 17 19:32:29 2020
+392,Jharkhand,Hazaribagh,2,0,Fri Apr 17 19:32:29 2020
+393,Jharkhand,Bokaro,9,0,Fri Apr 17 19:32:29 2020
+394,Jharkhand,Kodarma,1,0,Fri Apr 17 19:32:29 2020
+395,Jharkhand,Giridih,1,0,Fri Apr 17 19:32:29 2020
+396,Jharkhand,Simdega,1,0,Fri Apr 17 19:32:29 2020
+397,Jharkhand,Dhanbad,1,0,Fri Apr 17 19:32:29 2020
+398,Assam,Cachar,2,0,Fri Apr 17 19:32:29 2020
+399,Assam,Kamrup Metropolitan,5,0,Fri Apr 17 19:32:29 2020
+400,Assam,Jorhat,8,0,Fri Apr 17 19:32:29 2020
+401,Assam,Goalpara,4,0,Fri Apr 17 19:32:29 2020
+402,Assam,Nalbari,3,0,Fri Apr 17 19:32:29 2020
+403,Assam,South Salmara Mancachar,1,0,Fri Apr 17 19:32:29 2020
+404,Assam,Kamrup,1,0,Fri Apr 17 19:32:29 2020
+405,Assam,Morigaon,3,0,Fri Apr 17 19:32:29 2020
+406,Assam,Golaghat,1,0,Fri Apr 17 19:32:29 2020
+407,Assam,Lakhimpur,1,0,Fri Apr 17 19:32:29 2020
+408,Assam,Dhubri,4,0,Fri Apr 17 19:32:29 2020
+409,Assam,Hailakandi,1,0,Fri Apr 17 19:32:29 2020
+410,Arunachal Pradesh,Lohit,1,0,Fri Apr 17 19:32:29 2020
+411,Tripura,Gomati,1,0,Fri Apr 17 19:32:29 2020
+412,Tripura,North Tripura,1,0,Fri Apr 17 19:32:29 2020
+413,Nagaland,Dimapur,1,0,Fri Apr 17 19:32:29 2020
+414,Meghalaya,East Khasi Hills,7,0,Fri Apr 17 19:32:29 2020
+415,Meghalaya,Unknown,2,0,Fri Apr 17 19:32:29 2020
