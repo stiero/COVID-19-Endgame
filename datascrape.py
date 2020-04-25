@@ -67,7 +67,7 @@ for statewise_record in response:
     
     
 df = pd.DataFrame(list(zip(states, districts, confirms, deltas, lastupdatedtimes)),
-                  columns = ["states", "districts", "confirmed", "delta", "date"])    
+                  columns = ["state", "district", "confirmed", "delta", "date"])    
 
 
 current_date = time.strftime("%d-%m-%y")
