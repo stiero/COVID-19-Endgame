@@ -64,7 +64,7 @@ for statewise_record in response:
             lastupdatedtimes.append(time.ctime())
         
     
-# Write everything to a data frame
+# Combine everything in a data frame
 df = pd.DataFrame(list(zip(states, districts, confirms, deltas, lastupdatedtimes)),
                   columns = ["state", "district", "confirmed", "delta", "date"])    
 
