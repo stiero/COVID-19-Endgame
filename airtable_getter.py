@@ -25,12 +25,23 @@ def red_districts():
     
     red_districts = []
     for district in data:
-        
-        zone_type = district['fields']['Zone Type']
+           
+        try:
+            zone_type = district['fields']['Zone Type']
+            state = district['fields']['State']
+            district_api = district['fields']['DistrictAPI']
+            district_original = district['fields']['District']
+        except:
+            continue
+            
+        payload = {"district_api": district_api,
+                    "district_original": district_original,
+                    "state": state,
+                    "zone_type": zone_type}
         
         
         if zone_type == 'Red':
-            red_districts.append(district['fields']['DistrictAPI'])
+            red_districts.append(payload)
             
     
     return red_districts
