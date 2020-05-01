@@ -164,8 +164,11 @@ def prepare_cases_district(district, data):
         state = district['state']
         district_api = district['district_api']
         
-        delta = int(sub_df[(sub_df['district']==district_api)
+        try:
+            delta = int(sub_df[(sub_df['district']==district_api)
                            & (sub_df['state']==state)]['delta'])
+        except:
+            continue
         deltas.append(delta)
     
     

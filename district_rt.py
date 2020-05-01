@@ -9,7 +9,7 @@ Created on Thu Apr 23 18:06:57 2020
 import os
 import pandas as pd
 import numpy as np
-from airtable_getter import red_districts, write_to_airtable
+from airtable_getter import get_districts, write_to_airtable
 
 
 
@@ -92,41 +92,50 @@ for i, sub_df in enumerate(data.values()):
 
 
 
-red_districts = red_districts()
+all_districts = get_districts()
 
 outputs = []
 
-for district in red_districts:
+skipped = []
+
+for i, district in enumerate(all_districts):
     
     district_api = district['district_api']
     state =  district['state']
     
-    if district_api in usable_districts:
-        output = prepare_cases_district(district, data)
-        
-        if output['status'] == 'use':
+    try:
+        if district_api in usable_districts:
+            output = prepare_cases_district(district, data)
             
-            smoothed = output['smoothed_data']
-            
-            posteriors, log_likelihood = get_posteriors(smoothed, sigma=.25)
-            
-            
-            # Note that this takes a while to execute - it's not the most efficient algorithm
-            hdis = highest_density_interval(posteriors, p=.9)
-            
-            most_likely = posteriors.idxmax().rename('ML')
-
-            result = pd.concat([most_likely, hdis], axis=1)
-
-            latest_rt = result.iloc[-1]['ML']
-            
-            output['all_rt'] = result
-            output['latest_rt'] = latest_rt
-            
-            outputs.append(output)
-            
-            write_to_airtable(output)
-
+            if output['status'] == 'use':
+                
+                smoothed = output['smoothed_data']
+                
+                posteriors, log_likelihood = get_posteriors(smoothed, sigma=.25)
+                
+                
+                # Note that this takes a while to execute - it's not the most efficient algorithm
+                hdis = highest_density_interval(posteriors, p=.9)
+                
+                most_likely = posteriors.idxmax().rename('ML')
+    
+                result = pd.concat([most_likely, hdis], axis=1)
+    
+                latest_rt = result.iloc[-1]['ML']
+                
+    #            latest_rt = tuple(elem for elem in latest_rt)
+                
+                output['all_rt'] = result
+                output['latest_rt'] = latest_rt
+                
+                outputs.append(output)
+                
+                write_to_airtable(output)
+    
+    except:
+        print(i)
+        skipped.append(i)
+        continue
 
 
 # district = red_districts[54]

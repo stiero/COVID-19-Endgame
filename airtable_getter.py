@@ -19,11 +19,13 @@ def airtable():
     return data
 
 
-def red_districts():
+def get_districts(zone_type='all'):
     
     data = airtable()
     
-    red_districts = []
+    payload_districts = []
+
+    
     for district in data:
            
         try:
@@ -42,11 +44,21 @@ def red_districts():
                     "district_id": district_id}
         
         
+        if zone_type == 'Yellow':
+            payload_districts.append(payload)
+            continue
+        
         if zone_type == 'Red':
-            red_districts.append(payload)
+            payload_districts.append(payload)
+            continue
             
-    
-    return red_districts
+        if zone_type == 'Green':
+            payload_districts.append(payload)
+            continue
+        
+        payload_districts.append(payload)
+        
+    return payload_districts
 
 
 def write_to_airtable(district_payload):
