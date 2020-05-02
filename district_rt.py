@@ -11,13 +11,8 @@ import pandas as pd
 import numpy as np
 from airtable_getter import get_districts, write_to_airtable
 
-
-
-
-
 from helperfuncs import prepare_cases_district, get_posteriors,\
     highest_density_interval, get_latest_file
-
 
 
 # Setting up the filepaths - change this if you get an error

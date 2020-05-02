@@ -8,12 +8,19 @@ Created on Sat Apr 25 14:14:49 2020
 
 import os
 from airtable import Airtable
+from configparser import ConfigParser
 
-os.environ['AIRTABLE_API_KEY'] = 'keyMvfzeLUynQHhdG'
+config = ConfigParser()
+config.read('config.ini')
+
+API_key = config['airtable']['AirtableAPIKey']
+base_key = config['airtable']['AirtableBaseKey']
+
+os.environ['AIRTABLE_API_KEY'] = API_key
 
 
 def airtable():
-    table = Airtable('appNoMhZ2h3BqsBvd', 'Districts')
+    table = Airtable(base_key, 'Districts')
     data = table.get_all()
     
     return data
