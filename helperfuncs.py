@@ -212,6 +212,15 @@ def prepare_cases_district(district, data):
 
 
 
+def get_latest_file(list_of_files):
+
+    ext_removed = [file.split(".")[0] for file in list_of_files]
+    split_by_hms = [file.split(":") for file in ext_removed]
+    scores = list((map(lambda x: int(x[0])*100+int(x[1])*10+int(x[2])*1, 
+                       split_by_hms)))
+    latest_file_index = scores.index(max(scores))
+    
+    return latest_file_index
 
 
 

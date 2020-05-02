@@ -15,7 +15,8 @@ from airtable_getter import get_districts, write_to_airtable
 
 
 
-from helperfuncs import prepare_cases_district, get_posteriors, highest_density_interval
+from helperfuncs import prepare_cases_district, get_posteriors,\
+    highest_density_interval, get_latest_file
 
 
 
@@ -35,8 +36,10 @@ to_open = {}
 for _dir in list_of_dirs:
     list_of_files = [x[2] for x in os.walk(_dir)][0]
     paths = [os.path.join(cwd+"/"+_dir, file) for file in list_of_files]
-    latest = max(paths, key = os.path.getctime)
-    to_open[_dir] = latest
+    
+    latest_file_index = get_latest_file(list_of_files)
+    latest_file = paths[latest_file_index]
+    to_open[_dir] = latest_file
 
 data = {}
 
@@ -122,8 +125,6 @@ for i, district in enumerate(all_districts):
                 result = pd.concat([most_likely, hdis], axis=1)
     
                 latest_rt = result.iloc[-1]['ML']
-                
-    #            latest_rt = tuple(elem for elem in latest_rt)
                 
                 output['all_rt'] = result
                 output['latest_rt'] = latest_rt
