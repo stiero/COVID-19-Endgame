@@ -201,6 +201,7 @@ def prepare_cases_district(district, data):
     print("Added :", district)
     
     payload = {"district_api": district_api,
+               "raw_data": district_data,
                "state": state,
                "smoothed_data": smoothed,
                "status": "use",
