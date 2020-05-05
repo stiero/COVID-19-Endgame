@@ -9,6 +9,7 @@ Created on Thu Apr 23 18:06:57 2020
 import os
 import pandas as pd
 import numpy as np
+from datetime import datetime
 from airtable_getter import get_districts, write_to_airtable
 
 from helperfuncs import prepare_cases_district, get_posteriors,\
@@ -22,7 +23,11 @@ try:
 except:
     cwd = os.getcwd()
 
-list_of_dirs = sorted([x[1] for x in os.walk(cwd)][0])
+list_of_dirs = [x[1] for x in os.walk(cwd)][0]
+list_of_dirs = {date: datetime.strptime(date, "%d-%m-%y") for date in list_of_dirs}
+
+list_of_dirs = {k: v for k, v in sorted(list_of_dirs.items(), key = lambda x: x[1])}
+list_of_dirs = [key for key in list_of_dirs.keys()]
 
 
 # Each directory can have multiple files. Fetching only the latest ones
