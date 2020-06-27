@@ -1,0 +1,765 @@
+,state,district,confirmed,delta,date
+0,State Unassigned,Unassigned,1899,279,Sun May 24 07:00:02 2020
+1,Andaman and Nicobar Islands,Nicobars,0,0,Sun May 24 07:00:02 2020
+2,Andaman and Nicobar Islands,North and Middle Andaman,1,0,Sun May 24 07:00:02 2020
+3,Andaman and Nicobar Islands,South Andaman,32,0,Sun May 24 07:00:02 2020
+4,Andhra Pradesh,Anantapur,136,0,Sun May 24 07:00:02 2020
+5,Andhra Pradesh,Chittoor,208,0,Sun May 24 07:00:02 2020
+6,Andhra Pradesh,East Godavari,59,0,Sun May 24 07:00:02 2020
+7,Andhra Pradesh,Guntur,426,0,Sun May 24 07:00:02 2020
+8,Andhra Pradesh,Krishna,396,0,Sun May 24 07:00:02 2020
+9,Andhra Pradesh,Kurnool,638,0,Sun May 24 07:00:02 2020
+10,Andhra Pradesh,Other State,153,0,Sun May 24 07:00:02 2020
+11,Andhra Pradesh,Prakasam,67,0,Sun May 24 07:00:02 2020
+12,Andhra Pradesh,S.P.S. Nellore,182,0,Sun May 24 07:00:02 2020
+13,Andhra Pradesh,Srikakulam,16,0,Sun May 24 07:00:02 2020
+14,Andhra Pradesh,Visakhapatnam,81,0,Sun May 24 07:00:02 2020
+15,Andhra Pradesh,Vizianagaram,16,0,Sun May 24 07:00:02 2020
+16,Andhra Pradesh,West Godavari,75,0,Sun May 24 07:00:02 2020
+17,Andhra Pradesh,Y.S.R. Kadapa,107,0,Sun May 24 07:00:02 2020
+18,Andhra Pradesh,Unknown,154,0,Sun May 24 07:00:02 2020
+19,Arunachal Pradesh,Anjaw,0,0,Sun May 24 07:00:02 2020
+20,Arunachal Pradesh,Changlang,0,0,Sun May 24 07:00:02 2020
+21,Arunachal Pradesh,East Kameng,0,0,Sun May 24 07:00:02 2020
+22,Arunachal Pradesh,East Siang,0,0,Sun May 24 07:00:02 2020
+23,Arunachal Pradesh,Kamle,0,0,Sun May 24 07:00:02 2020
+24,Arunachal Pradesh,Kra Daadi,0,0,Sun May 24 07:00:02 2020
+25,Arunachal Pradesh,Kurung Kumey,0,0,Sun May 24 07:00:02 2020
+26,Arunachal Pradesh,Lepa Rada,0,0,Sun May 24 07:00:02 2020
+27,Arunachal Pradesh,Lohit,1,0,Sun May 24 07:00:02 2020
+28,Arunachal Pradesh,Longding,0,0,Sun May 24 07:00:02 2020
+29,Arunachal Pradesh,Lower Dibang Valley,0,0,Sun May 24 07:00:02 2020
+30,Arunachal Pradesh,Lower Siang,0,0,Sun May 24 07:00:02 2020
+31,Arunachal Pradesh,Lower Subansiri,0,0,Sun May 24 07:00:02 2020
+32,Arunachal Pradesh,Namsai,0,0,Sun May 24 07:00:02 2020
+33,Arunachal Pradesh,Pakke Kessang,0,0,Sun May 24 07:00:02 2020
+34,Arunachal Pradesh,Papum Pare,0,0,Sun May 24 07:00:02 2020
+35,Arunachal Pradesh,Shi Yomi,0,0,Sun May 24 07:00:02 2020
+36,Arunachal Pradesh,Siang,0,0,Sun May 24 07:00:02 2020
+37,Arunachal Pradesh,Tawang,0,0,Sun May 24 07:00:02 2020
+38,Arunachal Pradesh,Tirap,0,0,Sun May 24 07:00:02 2020
+39,Arunachal Pradesh,Upper Dibang Valley,0,0,Sun May 24 07:00:02 2020
+40,Arunachal Pradesh,Upper Siang,0,0,Sun May 24 07:00:02 2020
+41,Arunachal Pradesh,Upper Subansiri,0,0,Sun May 24 07:00:02 2020
+42,Arunachal Pradesh,West Kameng,0,0,Sun May 24 07:00:02 2020
+43,Arunachal Pradesh,West Siang,0,0,Sun May 24 07:00:02 2020
+44,Assam,Baksa,0,0,Sun May 24 07:00:02 2020
+45,Assam,Barpeta,4,4,Sun May 24 07:00:02 2020
+46,Assam,Biswanath,2,0,Sun May 24 07:00:02 2020
+47,Assam,Bongaigaon,5,0,Sun May 24 07:00:02 2020
+48,Assam,Cachar,27,6,Sun May 24 07:00:02 2020
+49,Assam,Charaideo,0,0,Sun May 24 07:00:02 2020
+50,Assam,Chirang,4,4,Sun May 24 07:00:02 2020
+51,Assam,Darrang,1,0,Sun May 24 07:00:02 2020
+52,Assam,Dhemaji,0,0,Sun May 24 07:00:02 2020
+53,Assam,Dhubri,8,1,Sun May 24 07:00:02 2020
+54,Assam,Dibrugarh,1,0,Sun May 24 07:00:02 2020
+55,Assam,Dima Hasao,7,7,Sun May 24 07:00:02 2020
+56,Assam,Goalpara,7,1,Sun May 24 07:00:02 2020
+57,Assam,Golaghat,16,1,Sun May 24 07:00:02 2020
+58,Assam,Hailakandi,5,3,Sun May 24 07:00:02 2020
+59,Assam,Hojai,15,5,Sun May 24 07:00:02 2020
+60,Assam,Jorhat,8,1,Sun May 24 07:00:02 2020
+61,Assam,Kamrup,10,0,Sun May 24 07:00:02 2020
+62,Assam,Kamrup Metropolitan,154,73,Sun May 24 07:00:02 2020
+63,Assam,Karbi Anglong,0,0,Sun May 24 07:00:02 2020
+64,Assam,Karimganj,5,0,Sun May 24 07:00:02 2020
+65,Assam,Kokrajhar,7,1,Sun May 24 07:00:02 2020
+66,Assam,Lakhimpur,4,0,Sun May 24 07:00:02 2020
+67,Assam,Majuli,0,0,Sun May 24 07:00:02 2020
+68,Assam,Morigaon,10,4,Sun May 24 07:00:02 2020
+69,Assam,Nagaon,6,1,Sun May 24 07:00:02 2020
+70,Assam,Nalbari,8,2,Sun May 24 07:00:02 2020
+71,Assam,Other State,1,0,Sun May 24 07:00:02 2020
+72,Assam,Sivasagar,7,1,Sun May 24 07:00:02 2020
+73,Assam,Sonitpur,14,0,Sun May 24 07:00:02 2020
+74,Assam,South Salmara Mankachar,1,0,Sun May 24 07:00:02 2020
+75,Assam,Tinsukia,4,3,Sun May 24 07:00:02 2020
+76,Assam,Udalguri,2,0,Sun May 24 07:00:02 2020
+77,Assam,West Karbi Anglong,2,1,Sun May 24 07:00:02 2020
+78,Assam,Unknown,2,0,Sun May 24 07:00:02 2020
+79,Bihar,Araria,5,0,Sun May 24 07:00:02 2020
+80,Bihar,Arwal,23,2,Sun May 24 07:00:02 2020
+81,Bihar,Aurangabad,48,14,Sun May 24 07:00:02 2020
+82,Bihar,Banka,70,6,Sun May 24 07:00:02 2020
+83,Bihar,Begusarai,130,5,Sun May 24 07:00:02 2020
+84,Bihar,Bhagalpur,72,3,Sun May 24 07:00:02 2020
+85,Bihar,Bhojpur,39,0,Sun May 24 07:00:02 2020
+86,Bihar,Buxar,114,1,Sun May 24 07:00:02 2020
+87,Bihar,Darbhanga,40,9,Sun May 24 07:00:02 2020
+88,Bihar,East Champaran,62,0,Sun May 24 07:00:02 2020
+89,Bihar,Gaya,41,10,Sun May 24 07:00:02 2020
+90,Bihar,Gopalganj,89,0,Sun May 24 07:00:02 2020
+91,Bihar,Jamui,27,1,Sun May 24 07:00:02 2020
+92,Bihar,Jehanabad,106,0,Sun May 24 07:00:02 2020
+93,Bihar,Kaimur,46,0,Sun May 24 07:00:02 2020
+94,Bihar,Katihar,85,13,Sun May 24 07:00:02 2020
+95,Bihar,Khagaria,117,12,Sun May 24 07:00:02 2020
+96,Bihar,Kishanganj,14,0,Sun May 24 07:00:02 2020
+97,Bihar,Lakhisarai,26,2,Sun May 24 07:00:02 2020
+98,Bihar,Madhepura,41,19,Sun May 24 07:00:02 2020
+99,Bihar,Madhubani,133,18,Sun May 24 07:00:02 2020
+100,Bihar,Munger,140,0,Sun May 24 07:00:02 2020
+101,Bihar,Muzaffarpur,35,0,Sun May 24 07:00:02 2020
+102,Bihar,Nalanda,83,3,Sun May 24 07:00:02 2020
+103,Bihar,Nawada,58,8,Sun May 24 07:00:02 2020
+104,Bihar,Patna,196,10,Sun May 24 07:00:02 2020
+105,Bihar,Purnia,36,0,Sun May 24 07:00:02 2020
+106,Bihar,Rohtas,154,31,Sun May 24 07:00:02 2020
+107,Bihar,Saharsa,21,0,Sun May 24 07:00:02 2020
+108,Bihar,Samastipur,56,0,Sun May 24 07:00:02 2020
+109,Bihar,Saran,29,4,Sun May 24 07:00:02 2020
+110,Bihar,Sheikhpura,41,0,Sun May 24 07:00:02 2020
+111,Bihar,Sheohar,6,0,Sun May 24 07:00:02 2020
+112,Bihar,Sitamarhi,28,13,Sun May 24 07:00:02 2020
+113,Bihar,Siwan,56,3,Sun May 24 07:00:02 2020
+114,Bihar,Supaul,44,15,Sun May 24 07:00:02 2020
+115,Bihar,Vaishali,49,24,Sun May 24 07:00:02 2020
+116,Bihar,West Champaran,34,2,Sun May 24 07:00:02 2020
+117,Chandigarh,Chandigarh,225,6,Sun May 24 07:00:02 2020
+118,Chhattisgarh,Balod,18,0,Sun May 24 07:00:02 2020
+119,Chhattisgarh,Baloda Bazar,15,3,Sun May 24 07:00:02 2020
+120,Chhattisgarh,Balrampur,1,0,Sun May 24 07:00:02 2020
+121,Chhattisgarh,Bametara,1,0,Sun May 24 07:00:02 2020
+122,Chhattisgarh,Bastar,0,0,Sun May 24 07:00:02 2020
+123,Chhattisgarh,Bijapur,0,0,Sun May 24 07:00:02 2020
+124,Chhattisgarh,Bilaspur,19,8,Sun May 24 07:00:02 2020
+125,Chhattisgarh,Dakshin Bastar Dantewada,0,0,Sun May 24 07:00:02 2020
+126,Chhattisgarh,Dhamtari,0,0,Sun May 24 07:00:02 2020
+127,Chhattisgarh,Durg,10,-2,Sun May 24 07:00:02 2020
+128,Chhattisgarh,Gariaband,4,0,Sun May 24 07:00:02 2020
+129,Chhattisgarh,Janjgir Champa,15,0,Sun May 24 07:00:02 2020
+130,Chhattisgarh,Jashpur,1,1,Sun May 24 07:00:02 2020
+131,Chhattisgarh,Kabeerdham,13,0,Sun May 24 07:00:02 2020
+132,Chhattisgarh,Kondagaon,0,0,Sun May 24 07:00:02 2020
+133,Chhattisgarh,Korba,41,0,Sun May 24 07:00:02 2020
+134,Chhattisgarh,Koriya,5,4,Sun May 24 07:00:02 2020
+135,Chhattisgarh,Mahasamund,0,0,Sun May 24 07:00:02 2020
+136,Chhattisgarh,Mungeli,12,9,Sun May 24 07:00:02 2020
+137,Chhattisgarh,Narayanpur,0,0,Sun May 24 07:00:02 2020
+138,Chhattisgarh,Raigarh,9,4,Sun May 24 07:00:02 2020
+139,Chhattisgarh,Raipur,8,0,Sun May 24 07:00:02 2020
+140,Chhattisgarh,Rajnandgaon,22,10,Sun May 24 07:00:02 2020
+141,Chhattisgarh,Sukma,0,0,Sun May 24 07:00:02 2020
+142,Chhattisgarh,Surajpur,7,0,Sun May 24 07:00:02 2020
+143,Chhattisgarh,Surguja,6,3,Sun May 24 07:00:02 2020
+144,Chhattisgarh,Uttar Bastar Kanker,5,0,Sun May 24 07:00:02 2020
+145,Chhattisgarh,Unknown,2,0,Sun May 24 07:00:02 2020
+146,Delhi,Central Delhi,184,0,Sun May 24 07:00:02 2020
+147,Delhi,East Delhi,38,0,Sun May 24 07:00:02 2020
+148,Delhi,New Delhi,37,0,Sun May 24 07:00:02 2020
+149,Delhi,North Delhi,60,0,Sun May 24 07:00:02 2020
+150,Delhi,North East Delhi,25,0,Sun May 24 07:00:02 2020
+151,Delhi,North West Delhi,32,0,Sun May 24 07:00:02 2020
+152,Delhi,Shahdara,48,0,Sun May 24 07:00:02 2020
+153,Delhi,South Delhi,70,0,Sun May 24 07:00:02 2020
+154,Delhi,South East Delhi,130,0,Sun May 24 07:00:02 2020
+155,Delhi,South West Delhi,42,0,Sun May 24 07:00:02 2020
+156,Delhi,West Delhi,122,0,Sun May 24 07:00:02 2020
+157,Delhi,Unknown,12122,0,Sun May 24 07:00:02 2020
+158,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1,0,Sun May 24 07:00:02 2020
+159,Dadra and Nagar Haveli and Daman and Diu,Daman,0,0,Sun May 24 07:00:02 2020
+160,Dadra and Nagar Haveli and Daman and Diu,Diu,0,0,Sun May 24 07:00:02 2020
+161,Dadra and Nagar Haveli and Daman and Diu,Unknown,1,0,Sun May 24 07:00:02 2020
+162,Goa,North Goa,6,0,Sun May 24 07:00:02 2020
+163,Goa,South Goa,18,0,Sun May 24 07:00:02 2020
+164,Goa,Unknown,31,0,Sun May 24 07:00:02 2020
+165,Gujarat,Other State,5,0,Sun May 24 07:00:02 2020
+166,Gujarat,Ahmedabad,10001,277,Sun May 24 07:00:02 2020
+167,Gujarat,Amreli,4,2,Sun May 24 07:00:02 2020
+168,Gujarat,Anand,90,3,Sun May 24 07:00:02 2020
+169,Gujarat,Aravalli,98,5,Sun May 24 07:00:02 2020
+170,Gujarat,Banaskantha,99,0,Sun May 24 07:00:02 2020
+171,Gujarat,Bharuch,37,0,Sun May 24 07:00:02 2020
+172,Gujarat,Bhavnagar,114,0,Sun May 24 07:00:02 2020
+173,Gujarat,Botad,56,0,Sun May 24 07:00:02 2020
+174,Gujarat,Chhota Udaipur,22,0,Sun May 24 07:00:02 2020
+175,Gujarat,Dahod,32,0,Sun May 24 07:00:02 2020
+176,Gujarat,Dang,2,0,Sun May 24 07:00:02 2020
+177,Gujarat,Devbhumi Dwarka,12,0,Sun May 24 07:00:02 2020
+178,Gujarat,Gandhinagar,210,9,Sun May 24 07:00:02 2020
+179,Gujarat,Gir Somnath,44,6,Sun May 24 07:00:02 2020
+180,Gujarat,Jamnagar,46,0,Sun May 24 07:00:02 2020
+181,Gujarat,Junagadh,26,8,Sun May 24 07:00:02 2020
+182,Gujarat,Kheda,59,2,Sun May 24 07:00:02 2020
+183,Gujarat,Kutch,64,0,Sun May 24 07:00:02 2020
+184,Gujarat,Mahisagar,79,2,Sun May 24 07:00:02 2020
+185,Gujarat,Mehsana,99,4,Sun May 24 07:00:02 2020
+186,Gujarat,Morbi,3,1,Sun May 24 07:00:02 2020
+187,Gujarat,Narmada,15,0,Sun May 24 07:00:02 2020
+188,Gujarat,Navsari,15,1,Sun May 24 07:00:02 2020
+189,Gujarat,Panchmahal,72,0,Sun May 24 07:00:02 2020
+190,Gujarat,Patan,71,2,Sun May 24 07:00:02 2020
+191,Gujarat,Porbandar,6,1,Sun May 24 07:00:02 2020
+192,Gujarat,Rajkot,87,4,Sun May 24 07:00:02 2020
+193,Gujarat,Sabarkantha,63,0,Sun May 24 07:00:02 2020
+194,Gujarat,Surat,1285,29,Sun May 24 07:00:02 2020
+195,Gujarat,Surendranagar,23,2,Sun May 24 07:00:02 2020
+196,Gujarat,Tapi,6,3,Sun May 24 07:00:02 2020
+197,Gujarat,Vadodara,806,35,Sun May 24 07:00:02 2020
+198,Gujarat,Valsad,18,0,Sun May 24 07:00:02 2020
+199,Himachal Pradesh,Bilaspur,7,0,Sun May 24 07:00:02 2020
+200,Himachal Pradesh,Chamba,13,0,Sun May 24 07:00:02 2020
+201,Himachal Pradesh,Hamirpur,60,0,Sun May 24 07:00:02 2020
+202,Himachal Pradesh,Kangra,49,6,Sun May 24 07:00:02 2020
+203,Himachal Pradesh,Kinnaur,0,0,Sun May 24 07:00:02 2020
+204,Himachal Pradesh,Kullu,1,0,Sun May 24 07:00:02 2020
+205,Himachal Pradesh,Lahaul and Spiti,0,0,Sun May 24 07:00:02 2020
+206,Himachal Pradesh,Mandi,10,4,Sun May 24 07:00:02 2020
+207,Himachal Pradesh,Shimla,2,1,Sun May 24 07:00:02 2020
+208,Himachal Pradesh,Sirmaur,4,0,Sun May 24 07:00:02 2020
+209,Himachal Pradesh,Solan,19,5,Sun May 24 07:00:02 2020
+210,Himachal Pradesh,Una,20,1,Sun May 24 07:00:02 2020
+211,Haryana,Ambala,42,0,Sun May 24 07:00:02 2020
+212,Haryana,Bhiwani,8,2,Sun May 24 07:00:02 2020
+213,Haryana,Charkhi Dadri,6,0,Sun May 24 07:00:02 2020
+214,Haryana,Faridabad,195,10,Sun May 24 07:00:02 2020
+215,Haryana,Fatehabad,8,0,Sun May 24 07:00:02 2020
+216,Haryana,Gurugram,262,12,Sun May 24 07:00:02 2020
+217,Haryana,Hisar,12,3,Sun May 24 07:00:02 2020
+218,Haryana,Italians,14,0,Sun May 24 07:00:02 2020
+219,Haryana,Jhajjar,91,0,Sun May 24 07:00:02 2020
+220,Haryana,Jind,26,3,Sun May 24 07:00:02 2020
+221,Haryana,Kaithal,5,0,Sun May 24 07:00:02 2020
+222,Haryana,Karnal,24,1,Sun May 24 07:00:02 2020
+223,Haryana,Kurukshetra,15,1,Sun May 24 07:00:02 2020
+224,Haryana,Mahendragarh,21,0,Sun May 24 07:00:02 2020
+225,Haryana,Nuh,65,0,Sun May 24 07:00:02 2020
+226,Haryana,Palwal,41,1,Sun May 24 07:00:02 2020
+227,Haryana,Panchkula,25,0,Sun May 24 07:00:02 2020
+228,Haryana,Panipat,53,7,Sun May 24 07:00:02 2020
+229,Haryana,Rewari,11,0,Sun May 24 07:00:02 2020
+230,Haryana,Rohtak,15,0,Sun May 24 07:00:02 2020
+231,Haryana,Sirsa,9,0,Sun May 24 07:00:02 2020
+232,Haryana,Sonipat,154,3,Sun May 24 07:00:02 2020
+233,Haryana,Yamunanagar,8,0,Sun May 24 07:00:02 2020
+234,Haryana,Unknown,21,0,Sun May 24 07:00:02 2020
+235,Jharkhand,Bokaro,15,0,Sun May 24 07:00:02 2020
+236,Jharkhand,Chatra,2,1,Sun May 24 07:00:02 2020
+237,Jharkhand,Deoghar,5,0,Sun May 24 07:00:02 2020
+238,Jharkhand,Dhanbad,7,0,Sun May 24 07:00:02 2020
+239,Jharkhand,Dumka,2,0,Sun May 24 07:00:02 2020
+240,Jharkhand,East Singhbhum,20,3,Sun May 24 07:00:02 2020
+241,Jharkhand,Garhwa,47,0,Sun May 24 07:00:02 2020
+242,Jharkhand,Giridih,16,0,Sun May 24 07:00:02 2020
+243,Jharkhand,Godda,1,0,Sun May 24 07:00:02 2020
+244,Jharkhand,Gumla,10,7,Sun May 24 07:00:02 2020
+245,Jharkhand,Hazaribagh,41,0,Sun May 24 07:00:02 2020
+246,Jharkhand,Jamtara,2,0,Sun May 24 07:00:02 2020
+247,Jharkhand,Khunti,0,0,Sun May 24 07:00:02 2020
+248,Jharkhand,Koderma,26,10,Sun May 24 07:00:02 2020
+249,Jharkhand,Latehar,4,0,Sun May 24 07:00:02 2020
+250,Jharkhand,Lohardaga,2,0,Sun May 24 07:00:02 2020
+251,Jharkhand,Pakur,0,0,Sun May 24 07:00:02 2020
+252,Jharkhand,Palamu,15,0,Sun May 24 07:00:02 2020
+253,Jharkhand,Ramgarh,6,0,Sun May 24 07:00:02 2020
+254,Jharkhand,Ranchi,114,2,Sun May 24 07:00:02 2020
+255,Jharkhand,Sahibganj,0,0,Sun May 24 07:00:02 2020
+256,Jharkhand,Saraikela-Kharsawan,4,0,Sun May 24 07:00:02 2020
+257,Jharkhand,Simdega,7,4,Sun May 24 07:00:02 2020
+258,Jharkhand,West Singhbhum,4,0,Sun May 24 07:00:02 2020
+259,Jammu and Kashmir,Anantnag,272,6,Sun May 24 07:00:02 2020
+260,Jammu and Kashmir,Bandipora,140,1,Sun May 24 07:00:02 2020
+261,Jammu and Kashmir,Baramulla,136,4,Sun May 24 07:00:02 2020
+262,Jammu and Kashmir,Budgam,64,0,Sun May 24 07:00:02 2020
+263,Jammu and Kashmir,Doda,1,0,Sun May 24 07:00:02 2020
+264,Jammu and Kashmir,Ganderbal,27,0,Sun May 24 07:00:02 2020
+265,Jammu and Kashmir,Jammu,72,4,Sun May 24 07:00:02 2020
+266,Jammu and Kashmir,Kathua,41,1,Sun May 24 07:00:02 2020
+267,Jammu and Kashmir,Kishtwar,7,1,Sun May 24 07:00:02 2020
+268,Jammu and Kashmir,Kulgam,198,5,Sun May 24 07:00:02 2020
+269,Jammu and Kashmir,Kupwara,164,36,Sun May 24 07:00:02 2020
+270,Jammu and Kashmir,Mirpur,0,0,Sun May 24 07:00:02 2020
+271,Jammu and Kashmir,Muzaffarabad,0,0,Sun May 24 07:00:02 2020
+272,Jammu and Kashmir,Pulwama,25,4,Sun May 24 07:00:02 2020
+273,Jammu and Kashmir,Punch,6,1,Sun May 24 07:00:02 2020
+274,Jammu and Kashmir,Rajouri,10,0,Sun May 24 07:00:02 2020
+275,Jammu and Kashmir,Ramban,44,14,Sun May 24 07:00:02 2020
+276,Jammu and Kashmir,Reasi,4,0,Sun May 24 07:00:02 2020
+277,Jammu and Kashmir,Samba,20,0,Sun May 24 07:00:02 2020
+278,Jammu and Kashmir,Shopiyan,127,0,Sun May 24 07:00:02 2020
+279,Jammu and Kashmir,Srinagar,178,3,Sun May 24 07:00:02 2020
+280,Jammu and Kashmir,Udhampur,33,0,Sun May 24 07:00:02 2020
+281,Karnataka,Bagalkote,77,0,Sun May 24 07:00:02 2020
+282,Karnataka,Ballari,33,3,Sun May 24 07:00:02 2020
+283,Karnataka,Belagavi,127,1,Sun May 24 07:00:02 2020
+284,Karnataka,Bengaluru Rural,11,0,Sun May 24 07:00:02 2020
+285,Karnataka,Bengaluru Urban,267,4,Sun May 24 07:00:02 2020
+286,Karnataka,Bidar,79,3,Sun May 24 07:00:02 2020
+287,Karnataka,Chamarajanagara,0,0,Sun May 24 07:00:02 2020
+288,Karnataka,Chikkaballapura,99,26,Sun May 24 07:00:02 2020
+289,Karnataka,Chikkamagaluru,10,0,Sun May 24 07:00:02 2020
+290,Karnataka,Chitradurga,11,0,Sun May 24 07:00:02 2020
+291,Karnataka,Dakshina Kannada,59,3,Sun May 24 07:00:02 2020
+292,Karnataka,Davanagere,119,3,Sun May 24 07:00:02 2020
+293,Karnataka,Dharwad,38,5,Sun May 24 07:00:02 2020
+294,Karnataka,Gadag,35,15,Sun May 24 07:00:02 2020
+295,Karnataka,Hassan,85,4,Sun May 24 07:00:02 2020
+296,Karnataka,Haveri,6,0,Sun May 24 07:00:02 2020
+297,Karnataka,Kalaburagi,136,1,Sun May 24 07:00:02 2020
+298,Karnataka,Kodagu,2,0,Sun May 24 07:00:02 2020
+299,Karnataka,Kolar,14,3,Sun May 24 07:00:02 2020
+300,Karnataka,Koppal,3,0,Sun May 24 07:00:02 2020
+301,Karnataka,Mandya,237,28,Sun May 24 07:00:02 2020
+302,Karnataka,Mysuru,90,0,Sun May 24 07:00:02 2020
+303,Karnataka,Other State,22,0,Sun May 24 07:00:02 2020
+304,Karnataka,Raichur,66,40,Sun May 24 07:00:02 2020
+305,Karnataka,Ramanagara,0,0,Sun May 24 07:00:02 2020
+306,Karnataka,Shivamogga,34,0,Sun May 24 07:00:02 2020
+307,Karnataka,Tumakuru,24,0,Sun May 24 07:00:02 2020
+308,Karnataka,Udupi,53,3,Sun May 24 07:00:02 2020
+309,Karnataka,Uttara Kannada,68,2,Sun May 24 07:00:02 2020
+310,Karnataka,Vijayapura,68,0,Sun May 24 07:00:02 2020
+311,Karnataka,Yadgir,84,72,Sun May 24 07:00:02 2020
+312,Karnataka,Unknown,2,0,Sun May 24 07:00:02 2020
+313,Kerala,Alappuzha,18,5,Sun May 24 07:00:02 2020
+314,Kerala,Ernakulam,30,0,Sun May 24 07:00:02 2020
+315,Kerala,Idukki,25,0,Sun May 24 07:00:02 2020
+316,Kerala,Kannur,164,16,Sun May 24 07:00:02 2020
+317,Kerala,Kasaragod,210,4,Sun May 24 07:00:02 2020
+318,Kerala,Kollam,34,3,Sun May 24 07:00:02 2020
+319,Kerala,Kottayam,32,2,Sun May 24 07:00:02 2020
+320,Kerala,Kozhikode,46,4,Sun May 24 07:00:02 2020
+321,Kerala,Malappuram,72,8,Sun May 24 07:00:02 2020
+322,Kerala,Palakkad,58,19,Sun May 24 07:00:02 2020
+323,Kerala,Pathanamthitta,25,0,Sun May 24 07:00:02 2020
+324,Kerala,Thiruvananthapuram,24,0,Sun May 24 07:00:02 2020
+325,Kerala,Thrissur,34,0,Sun May 24 07:00:02 2020
+326,Kerala,Wayanad,23,1,Sun May 24 07:00:02 2020
+327,Ladakh,Kargil,14,3,Sun May 24 07:00:02 2020
+328,Ladakh,Leh,35,0,Sun May 24 07:00:02 2020
+329,Lakshadweep,Lakshadweep,0,0,Sun May 24 07:00:02 2020
+330,Maharashtra,Ahmednagar,72,1,Sun May 24 07:00:02 2020
+331,Maharashtra,Akola,373,6,Sun May 24 07:00:02 2020
+332,Maharashtra,Amravati,156,11,Sun May 24 07:00:02 2020
+333,Maharashtra,Aurangabad,1219,32,Sun May 24 07:00:02 2020
+334,Maharashtra,Beed,26,0,Sun May 24 07:00:02 2020
+335,Maharashtra,Bhandara,9,0,Sun May 24 07:00:02 2020
+336,Maharashtra,Buldhana,39,0,Sun May 24 07:00:02 2020
+337,Maharashtra,Chandrapur,16,1,Sun May 24 07:00:02 2020
+338,Maharashtra,Dhule,97,0,Sun May 24 07:00:02 2020
+339,Maharashtra,Gadchiroli,13,4,Sun May 24 07:00:02 2020
+340,Maharashtra,Gondia,39,11,Sun May 24 07:00:02 2020
+341,Maharashtra,Hingoli,112,0,Sun May 24 07:00:02 2020
+342,Maharashtra,Jalgaon,403,8,Sun May 24 07:00:02 2020
+343,Maharashtra,Jalna,54,8,Sun May 24 07:00:02 2020
+344,Maharashtra,Kolhapur,229,34,Sun May 24 07:00:02 2020
+345,Maharashtra,Latur,67,6,Sun May 24 07:00:02 2020
+346,Maharashtra,Mumbai,28817,1566,Sun May 24 07:00:02 2020
+347,Maharashtra,Mumbai Suburban,0,0,Sun May 24 07:00:02 2020
+348,Maharashtra,Nagpur,465,5,Sun May 24 07:00:02 2020
+349,Maharashtra,Nanded,98,0,Sun May 24 07:00:02 2020
+350,Maharashtra,Nandurbar,32,0,Sun May 24 07:00:02 2020
+351,Maharashtra,Nashik,931,13,Sun May 24 07:00:02 2020
+352,Maharashtra,Osmanabad,29,3,Sun May 24 07:00:02 2020
+353,Maharashtra,Other State,48,0,Sun May 24 07:00:02 2020
+354,Maharashtra,Palghar,610,52,Sun May 24 07:00:02 2020
+355,Maharashtra,Parbhani,22,0,Sun May 24 07:00:02 2020
+356,Maharashtra,Pune,5347,354,Sun May 24 07:00:02 2020
+357,Maharashtra,Raigad,616,35,Sun May 24 07:00:02 2020
+358,Maharashtra,Ratnagiri,142,7,Sun May 24 07:00:02 2020
+359,Maharashtra,Sangli,74,3,Sun May 24 07:00:02 2020
+360,Maharashtra,Satara,204,0,Sun May 24 07:00:02 2020
+361,Maharashtra,Sindhudurg,10,0,Sun May 24 07:00:02 2020
+362,Maharashtra,Solapur,567,35,Sun May 24 07:00:02 2020
+363,Maharashtra,Thane,6130,413,Sun May 24 07:00:02 2020
+364,Maharashtra,Wardha,3,0,Sun May 24 07:00:02 2020
+365,Maharashtra,Washim,8,0,Sun May 24 07:00:02 2020
+366,Maharashtra,Yavatmal,113,0,Sun May 24 07:00:02 2020
+367,Meghalaya,East Garo Hills,0,0,Sun May 24 07:00:02 2020
+368,Meghalaya,East Jaintia Hills,0,0,Sun May 24 07:00:02 2020
+369,Meghalaya,East Khasi Hills,13,0,Sun May 24 07:00:02 2020
+370,Meghalaya,North Garo Hills,0,0,Sun May 24 07:00:02 2020
+371,Meghalaya,Ribhoi,0,0,Sun May 24 07:00:02 2020
+372,Meghalaya,South Garo Hills,0,0,Sun May 24 07:00:02 2020
+373,Meghalaya,South West Garo Hills,0,0,Sun May 24 07:00:02 2020
+374,Meghalaya,South West Khasi Hills,0,0,Sun May 24 07:00:02 2020
+375,Meghalaya,West Garo Hills,1,0,Sun May 24 07:00:02 2020
+376,Meghalaya,West Jaintia Hills,0,0,Sun May 24 07:00:02 2020
+377,Meghalaya,West Khasi Hills,0,0,Sun May 24 07:00:02 2020
+378,Manipur,Bishnupur,0,0,Sun May 24 07:00:02 2020
+379,Manipur,Chandel,0,0,Sun May 24 07:00:02 2020
+380,Manipur,Churachandpur,16,0,Sun May 24 07:00:02 2020
+381,Manipur,Imphal East,3,0,Sun May 24 07:00:02 2020
+382,Manipur,Imphal West,7,0,Sun May 24 07:00:02 2020
+383,Manipur,Jiribam,0,0,Sun May 24 07:00:02 2020
+384,Manipur,Kakching,0,0,Sun May 24 07:00:02 2020
+385,Manipur,Kamjong,0,0,Sun May 24 07:00:02 2020
+386,Manipur,Kangpokpi,0,0,Sun May 24 07:00:02 2020
+387,Manipur,Noney,0,0,Sun May 24 07:00:02 2020
+388,Manipur,Pherzawl,0,0,Sun May 24 07:00:02 2020
+389,Manipur,Senapati,0,0,Sun May 24 07:00:02 2020
+390,Manipur,Tamenglong,0,0,Sun May 24 07:00:02 2020
+391,Manipur,Tengnoupal,0,0,Sun May 24 07:00:02 2020
+392,Manipur,Thoubal,0,0,Sun May 24 07:00:02 2020
+393,Manipur,Ukhrul,0,0,Sun May 24 07:00:02 2020
+394,Manipur,Unknown,1,0,Sun May 24 07:00:02 2020
+395,Madhya Pradesh,Agar Malwa,13,0,Sun May 24 07:00:02 2020
+396,Madhya Pradesh,Alirajpur,3,0,Sun May 24 07:00:02 2020
+397,Madhya Pradesh,Anuppur,3,0,Sun May 24 07:00:02 2020
+398,Madhya Pradesh,Ashoknagar,10,4,Sun May 24 07:00:02 2020
+399,Madhya Pradesh,Balaghat,3,2,Sun May 24 07:00:02 2020
+400,Madhya Pradesh,Barwani,39,0,Sun May 24 07:00:02 2020
+401,Madhya Pradesh,Betul,13,4,Sun May 24 07:00:02 2020
+402,Madhya Pradesh,Bhind,44,0,Sun May 24 07:00:02 2020
+403,Madhya Pradesh,Bhopal,1191,38,Sun May 24 07:00:02 2020
+404,Madhya Pradesh,Burhanpur,213,4,Sun May 24 07:00:02 2020
+405,Madhya Pradesh,Chhatarpur,2,0,Sun May 24 07:00:02 2020
+406,Madhya Pradesh,Chhindwara,5,0,Sun May 24 07:00:02 2020
+407,Madhya Pradesh,Damoh,6,0,Sun May 24 07:00:02 2020
+408,Madhya Pradesh,Datia,5,1,Sun May 24 07:00:02 2020
+409,Madhya Pradesh,Dewas,80,7,Sun May 24 07:00:02 2020
+410,Madhya Pradesh,Dhar,109,2,Sun May 24 07:00:02 2020
+411,Madhya Pradesh,Dindori,9,4,Sun May 24 07:00:02 2020
+412,Madhya Pradesh,Guna,2,1,Sun May 24 07:00:02 2020
+413,Madhya Pradesh,Gwalior,92,2,Sun May 24 07:00:02 2020
+414,Madhya Pradesh,Harda,3,0,Sun May 24 07:00:02 2020
+415,Madhya Pradesh,Hoshangabad,37,0,Sun May 24 07:00:02 2020
+416,Madhya Pradesh,Indore,2933,83,Sun May 24 07:00:02 2020
+417,Madhya Pradesh,Jabalpur,199,5,Sun May 24 07:00:02 2020
+418,Madhya Pradesh,Jhabua,12,1,Sun May 24 07:00:02 2020
+419,Madhya Pradesh,Katni,0,0,Sun May 24 07:00:02 2020
+420,Madhya Pradesh,Khandwa,216,8,Sun May 24 07:00:02 2020
+421,Madhya Pradesh,Khargone,115,1,Sun May 24 07:00:02 2020
+422,Madhya Pradesh,Mandla,1,0,Sun May 24 07:00:02 2020
+423,Madhya Pradesh,Mandsaur,85,2,Sun May 24 07:00:02 2020
+424,Madhya Pradesh,Morena,67,0,Sun May 24 07:00:02 2020
+425,Madhya Pradesh,Narsinghpur,0,0,Sun May 24 07:00:02 2020
+426,Madhya Pradesh,Neemuch,58,0,Sun May 24 07:00:02 2020
+427,Madhya Pradesh,Niwari,0,0,Sun May 24 07:00:02 2020
+428,Madhya Pradesh,Other Region,0,0,Sun May 24 07:00:02 2020
+429,Madhya Pradesh,Panna,3,0,Sun May 24 07:00:02 2020
+430,Madhya Pradesh,Raisen,67,0,Sun May 24 07:00:02 2020
+431,Madhya Pradesh,Rajgarh,2,0,Sun May 24 07:00:02 2020
+432,Madhya Pradesh,Ratlam,31,1,Sun May 24 07:00:02 2020
+433,Madhya Pradesh,Rewa,26,0,Sun May 24 07:00:02 2020
+434,Madhya Pradesh,Sagar,59,2,Sun May 24 07:00:02 2020
+435,Madhya Pradesh,Satna,12,0,Sun May 24 07:00:02 2020
+436,Madhya Pradesh,Sehore,5,0,Sun May 24 07:00:02 2020
+437,Madhya Pradesh,Seoni,2,0,Sun May 24 07:00:02 2020
+438,Madhya Pradesh,Shahdol,4,0,Sun May 24 07:00:02 2020
+439,Madhya Pradesh,Shajapur,9,0,Sun May 24 07:00:02 2020
+440,Madhya Pradesh,Sheopur,6,1,Sun May 24 07:00:02 2020
+441,Madhya Pradesh,Shivpuri,6,1,Sun May 24 07:00:02 2020
+442,Madhya Pradesh,Sidhi,8,0,Sun May 24 07:00:02 2020
+443,Madhya Pradesh,Singrauli,7,0,Sun May 24 07:00:02 2020
+444,Madhya Pradesh,Tikamgarh,6,0,Sun May 24 07:00:02 2020
+445,Madhya Pradesh,Ujjain,531,27,Sun May 24 07:00:02 2020
+446,Madhya Pradesh,Umaria,2,0,Sun May 24 07:00:02 2020
+447,Madhya Pradesh,Vidisha,17,0,Sun May 24 07:00:02 2020
+448,Mizoram,Aizawl,1,0,Sun May 24 07:00:02 2020
+449,Mizoram,Champhai,0,0,Sun May 24 07:00:02 2020
+450,Mizoram,Hnahthial,0,0,Sun May 24 07:00:02 2020
+451,Mizoram,Khawzawl,0,0,Sun May 24 07:00:02 2020
+452,Mizoram,Kolasib,0,0,Sun May 24 07:00:02 2020
+453,Mizoram,Lawngtlai,0,0,Sun May 24 07:00:02 2020
+454,Mizoram,Lunglei,0,0,Sun May 24 07:00:02 2020
+455,Mizoram,Mamit,0,0,Sun May 24 07:00:02 2020
+456,Mizoram,Saiha,0,0,Sun May 24 07:00:02 2020
+457,Mizoram,Saitual,0,0,Sun May 24 07:00:02 2020
+458,Mizoram,Serchhip,0,0,Sun May 24 07:00:02 2020
+459,Nagaland,Dimapur,0,0,Sun May 24 07:00:02 2020
+460,Nagaland,Kiphire,0,0,Sun May 24 07:00:02 2020
+461,Nagaland,Kohima,0,0,Sun May 24 07:00:02 2020
+462,Nagaland,Longleng,0,0,Sun May 24 07:00:02 2020
+463,Nagaland,Mokokchung,0,0,Sun May 24 07:00:02 2020
+464,Nagaland,Mon,0,0,Sun May 24 07:00:02 2020
+465,Nagaland,Peren,0,0,Sun May 24 07:00:02 2020
+466,Nagaland,Phek,0,0,Sun May 24 07:00:02 2020
+467,Nagaland,Tuensang,0,0,Sun May 24 07:00:02 2020
+468,Nagaland,Wokha,0,0,Sun May 24 07:00:02 2020
+469,Nagaland,Zunheboto,0,0,Sun May 24 07:00:02 2020
+470,Odisha,Angul,19,0,Sun May 24 07:00:02 2020
+471,Odisha,Balangir,9,3,Sun May 24 07:00:02 2020
+472,Odisha,Balasore,128,1,Sun May 24 07:00:02 2020
+473,Odisha,Bargarh,0,0,Sun May 24 07:00:02 2020
+474,Odisha,Bhadrak,98,0,Sun May 24 07:00:02 2020
+475,Odisha,Boudh,33,0,Sun May 24 07:00:02 2020
+476,Odisha,Cuttack,57,1,Sun May 24 07:00:02 2020
+477,Odisha,Deogarh,2,0,Sun May 24 07:00:02 2020
+478,Odisha,Dhenkanal,2,0,Sun May 24 07:00:02 2020
+479,Odisha,Gajapati,4,4,Sun May 24 07:00:02 2020
+480,Odisha,Ganjam,341,19,Sun May 24 07:00:02 2020
+481,Odisha,Jagatsinghpur,30,0,Sun May 24 07:00:02 2020
+482,Odisha,Jajpur,239,14,Sun May 24 07:00:02 2020
+483,Odisha,Jharsuguda,5,3,Sun May 24 07:00:02 2020
+484,Odisha,Kalahandi,13,0,Sun May 24 07:00:02 2020
+485,Odisha,Kandhamal,5,2,Sun May 24 07:00:02 2020
+486,Odisha,Kendrapara,40,0,Sun May 24 07:00:02 2020
+487,Odisha,Kendujhar,11,0,Sun May 24 07:00:02 2020
+488,Odisha,Khordha,74,0,Sun May 24 07:00:02 2020
+489,Odisha,Koraput,1,0,Sun May 24 07:00:02 2020
+490,Odisha,Malkangiri,8,5,Sun May 24 07:00:02 2020
+491,Odisha,Mayurbhanj,14,0,Sun May 24 07:00:02 2020
+492,Odisha,Nabarangapur,1,1,Sun May 24 07:00:02 2020
+493,Odisha,Nayagarh,32,5,Sun May 24 07:00:02 2020
+494,Odisha,Nuapada,0,0,Sun May 24 07:00:02 2020
+495,Odisha,Puri,65,17,Sun May 24 07:00:02 2020
+496,Odisha,Rayagada,0,0,Sun May 24 07:00:02 2020
+497,Odisha,Sambalpur,5,0,Sun May 24 07:00:02 2020
+498,Odisha,Subarnapur,0,0,Sun May 24 07:00:02 2020
+499,Odisha,Sundargarh,33,5,Sun May 24 07:00:02 2020
+500,Punjab,Amritsar,318,4,Sun May 24 07:00:02 2020
+501,Punjab,Barnala,22,0,Sun May 24 07:00:02 2020
+502,Punjab,Bathinda,42,1,Sun May 24 07:00:02 2020
+503,Punjab,Faridkot,61,0,Sun May 24 07:00:02 2020
+504,Punjab,Fatehgarh Sahib,57,0,Sun May 24 07:00:02 2020
+505,Punjab,Fazilka,44,0,Sun May 24 07:00:02 2020
+506,Punjab,Ferozepur,44,0,Sun May 24 07:00:02 2020
+507,Punjab,Gurdaspur,130,1,Sun May 24 07:00:02 2020
+508,Punjab,Hoshiarpur,102,0,Sun May 24 07:00:02 2020
+509,Punjab,Jalandhar,213,3,Sun May 24 07:00:02 2020
+510,Punjab,Kapurthala,35,1,Sun May 24 07:00:02 2020
+511,Punjab,Ludhiana,173,1,Sun May 24 07:00:02 2020
+512,Punjab,Mansa,32,0,Sun May 24 07:00:02 2020
+513,Punjab,Moga,59,0,Sun May 24 07:00:02 2020
+514,Punjab,Pathankot,32,1,Sun May 24 07:00:02 2020
+515,Punjab,Patiala,107,3,Sun May 24 07:00:02 2020
+516,Punjab,Rupnagar,60,0,Sun May 24 07:00:02 2020
+517,Punjab,S.A.S. Nagar,102,0,Sun May 24 07:00:02 2020
+518,Punjab,Sangrur,88,0,Sun May 24 07:00:02 2020
+519,Punjab,Shahid Bhagat Singh Nagar,105,0,Sun May 24 07:00:02 2020
+520,Punjab,Sri Muktsar Sahib,66,1,Sun May 24 07:00:02 2020
+521,Punjab,Tarn Taran,153,0,Sun May 24 07:00:02 2020
+522,Puducherry,Karaikal,2,0,Sun May 24 07:00:02 2020
+523,Puducherry,Mahe,4,0,Sun May 24 07:00:02 2020
+524,Puducherry,Puducherry,20,0,Sun May 24 07:00:02 2020
+525,Puducherry,Yanam,0,0,Sun May 24 07:00:02 2020
+526,Rajasthan,Ajmer,285,6,Sun May 24 07:00:02 2020
+527,Rajasthan,Alwar,45,5,Sun May 24 07:00:02 2020
+528,Rajasthan,Banswara,85,1,Sun May 24 07:00:02 2020
+529,Rajasthan,Baran,5,0,Sun May 24 07:00:02 2020
+530,Rajasthan,Barmer,76,6,Sun May 24 07:00:02 2020
+531,Rajasthan,Bharatpur,135,1,Sun May 24 07:00:02 2020
+532,Rajasthan,Bhilwara,111,12,Sun May 24 07:00:02 2020
+533,Rajasthan,Bikaner,75,3,Sun May 24 07:00:02 2020
+534,Rajasthan,BSF Camp,50,0,Sun May 24 07:00:02 2020
+535,Rajasthan,Bundi,0,0,Sun May 24 07:00:02 2020
+536,Rajasthan,Chittorgarh,170,1,Sun May 24 07:00:02 2020
+537,Rajasthan,Churu,68,4,Sun May 24 07:00:02 2020
+538,Rajasthan,Dausa,41,0,Sun May 24 07:00:02 2020
+539,Rajasthan,Dholpur,38,2,Sun May 24 07:00:02 2020
+540,Rajasthan,Dungarpur,314,12,Sun May 24 07:00:02 2020
+541,Rajasthan,Evacuees,61,0,Sun May 24 07:00:02 2020
+542,Rajasthan,Ganganagar,1,0,Sun May 24 07:00:02 2020
+543,Rajasthan,Hanumangarh,14,0,Sun May 24 07:00:02 2020
+544,Rajasthan,Italians,2,0,Sun May 24 07:00:02 2020
+545,Rajasthan,Jaipur,1737,22,Sun May 24 07:00:02 2020
+546,Rajasthan,Jaisalmer,64,0,Sun May 24 07:00:02 2020
+547,Rajasthan,Jalore,149,13,Sun May 24 07:00:02 2020
+548,Rajasthan,Jhalawar,59,7,Sun May 24 07:00:02 2020
+549,Rajasthan,Jhunjhunu,85,8,Sun May 24 07:00:02 2020
+550,Rajasthan,Jodhpur,1189,26,Sun May 24 07:00:02 2020
+551,Rajasthan,Karauli,10,0,Sun May 24 07:00:02 2020
+552,Rajasthan,Kota,373,14,Sun May 24 07:00:02 2020
+553,Rajasthan,Nagaur,296,40,Sun May 24 07:00:02 2020
+554,Rajasthan,Other State,10,0,Sun May 24 07:00:02 2020
+555,Rajasthan,Pali,280,23,Sun May 24 07:00:02 2020
+556,Rajasthan,Pratapgarh,12,0,Sun May 24 07:00:02 2020
+557,Rajasthan,Rajsamand,88,19,Sun May 24 07:00:02 2020
+558,Rajasthan,Sawai Madhopur,17,0,Sun May 24 07:00:02 2020
+559,Rajasthan,Sikar,79,2,Sun May 24 07:00:02 2020
+560,Rajasthan,Sirohi,100,4,Sun May 24 07:00:02 2020
+561,Rajasthan,Tonk,159,3,Sun May 24 07:00:02 2020
+562,Rajasthan,Udaipur,459,14,Sun May 24 07:00:02 2020
+563,Sikkim,East District,0,0,Sun May 24 07:00:02 2020
+564,Sikkim,North District,0,0,Sun May 24 07:00:02 2020
+565,Sikkim,South District,0,0,Sun May 24 07:00:02 2020
+566,Sikkim,West District,0,0,Sun May 24 07:00:02 2020
+567,Sikkim,Unknown,1,0,Sun May 24 07:00:02 2020
+568,Telangana,Other State,116,0,Sun May 24 07:00:02 2020
+569,Telangana,Adilabad,21,0,Sun May 24 07:00:02 2020
+570,Telangana,Bhadradri Kothagudem,4,0,Sun May 24 07:00:02 2020
+571,Telangana,Hyderabad,1124,0,Sun May 24 07:00:02 2020
+572,Telangana,Jagtial,4,0,Sun May 24 07:00:02 2020
+573,Telangana,Jangaon,3,0,Sun May 24 07:00:02 2020
+574,Telangana,Jayashankar Bhupalapally,3,0,Sun May 24 07:00:02 2020
+575,Telangana,Jogulamba Gadwal,45,0,Sun May 24 07:00:02 2020
+576,Telangana,Kamareddy,12,0,Sun May 24 07:00:02 2020
+577,Telangana,Karimnagar,19,0,Sun May 24 07:00:02 2020
+578,Telangana,Khammam,8,0,Sun May 24 07:00:02 2020
+579,Telangana,Komaram Bheem,7,0,Sun May 24 07:00:02 2020
+580,Telangana,Mahabubabad,1,0,Sun May 24 07:00:02 2020
+581,Telangana,Mahabubnagar,11,0,Sun May 24 07:00:02 2020
+582,Telangana,Mancherial,1,0,Sun May 24 07:00:02 2020
+583,Telangana,Medak,5,0,Sun May 24 07:00:02 2020
+584,Telangana,Medchal Malkajgiri,25,0,Sun May 24 07:00:02 2020
+585,Telangana,Mulugu,2,0,Sun May 24 07:00:02 2020
+586,Telangana,Nagarkurnool,2,0,Sun May 24 07:00:02 2020
+587,Telangana,Nalgonda,17,0,Sun May 24 07:00:02 2020
+588,Telangana,Narayanpet,1,0,Sun May 24 07:00:02 2020
+589,Telangana,Nirmal,20,0,Sun May 24 07:00:02 2020
+590,Telangana,Nizamabad,61,0,Sun May 24 07:00:02 2020
+591,Telangana,Peddapalli,2,0,Sun May 24 07:00:02 2020
+592,Telangana,Rajanna Sircilla,3,0,Sun May 24 07:00:02 2020
+593,Telangana,Ranga Reddy,47,0,Sun May 24 07:00:02 2020
+594,Telangana,Sangareddy,9,0,Sun May 24 07:00:02 2020
+595,Telangana,Siddipet,1,0,Sun May 24 07:00:02 2020
+596,Telangana,Suryapet,83,0,Sun May 24 07:00:02 2020
+597,Telangana,Vikarabad,37,0,Sun May 24 07:00:02 2020
+598,Telangana,Wanaparthy,0,0,Sun May 24 07:00:02 2020
+599,Telangana,Warangal Rural,0,0,Sun May 24 07:00:02 2020
+600,Telangana,Warangal Urban,27,0,Sun May 24 07:00:02 2020
+601,Telangana,Yadadri Bhuvanagiri,0,0,Sun May 24 07:00:02 2020
+602,Telangana,Unknown,92,0,Sun May 24 07:00:02 2020
+603,Tamil Nadu,Railway Quarantine,5,0,Sun May 24 07:00:02 2020
+604,Tamil Nadu,Airport Quarantine,74,12,Sun May 24 07:00:02 2020
+605,Tamil Nadu,Other State,1,0,Sun May 24 07:00:02 2020
+606,Tamil Nadu,Ariyalur,355,0,Sun May 24 07:00:02 2020
+607,Tamil Nadu,Chengalpattu,730,39,Sun May 24 07:00:02 2020
+608,Tamil Nadu,Chennai,9995,625,Sun May 24 07:00:02 2020
+609,Tamil Nadu,Coimbatore,145,0,Sun May 24 07:00:02 2020
+610,Tamil Nadu,Cuddalore,423,2,Sun May 24 07:00:02 2020
+611,Tamil Nadu,Dharmapuri,5,0,Sun May 24 07:00:02 2020
+612,Tamil Nadu,Dindigul,133,0,Sun May 24 07:00:02 2020
+613,Tamil Nadu,Erode,71,0,Sun May 24 07:00:02 2020
+614,Tamil Nadu,Kallakurichi,121,0,Sun May 24 07:00:02 2020
+615,Tamil Nadu,Kancheepuram,259,13,Sun May 24 07:00:02 2020
+616,Tamil Nadu,Kanyakumari,49,0,Sun May 24 07:00:02 2020
+617,Tamil Nadu,Karur,80,0,Sun May 24 07:00:02 2020
+618,Tamil Nadu,Krishnagiri,22,0,Sun May 24 07:00:02 2020
+619,Tamil Nadu,Madurai,226,2,Sun May 24 07:00:02 2020
+620,Tamil Nadu,Nagapattinam,51,0,Sun May 24 07:00:02 2020
+621,Tamil Nadu,Namakkal,77,0,Sun May 24 07:00:02 2020
+622,Tamil Nadu,Nilgiris,14,0,Sun May 24 07:00:02 2020
+623,Tamil Nadu,Perambalur,139,0,Sun May 24 07:00:02 2020
+624,Tamil Nadu,Pudukkottai,20,1,Sun May 24 07:00:02 2020
+625,Tamil Nadu,Ramanathapuram,55,3,Sun May 24 07:00:02 2020
+626,Tamil Nadu,Ranipet,90,1,Sun May 24 07:00:02 2020
+627,Tamil Nadu,Salem,52,3,Sun May 24 07:00:02 2020
+628,Tamil Nadu,Sivaganga,28,0,Sun May 24 07:00:02 2020
+629,Tamil Nadu,Tenkasi,85,2,Sun May 24 07:00:02 2020
+630,Tamil Nadu,Thanjavur,80,0,Sun May 24 07:00:02 2020
+631,Tamil Nadu,Theni,102,1,Sun May 24 07:00:02 2020
+632,Tamil Nadu,Thiruvallur,697,22,Sun May 24 07:00:02 2020
+633,Tamil Nadu,Thiruvarur,35,0,Sun May 24 07:00:02 2020
+634,Tamil Nadu,Thoothukkudi,148,5,Sun May 24 07:00:02 2020
+635,Tamil Nadu,Tiruchirappalli,72,0,Sun May 24 07:00:02 2020
+636,Tamil Nadu,Tirunelveli,283,11,Sun May 24 07:00:02 2020
+637,Tamil Nadu,Tirupathur,30,0,Sun May 24 07:00:02 2020
+638,Tamil Nadu,Tiruppur,114,0,Sun May 24 07:00:02 2020
+639,Tamil Nadu,Tiruvannamalai,183,11,Sun May 24 07:00:02 2020
+640,Tamil Nadu,Vellore,39,0,Sun May 24 07:00:02 2020
+641,Tamil Nadu,Viluppuram,327,4,Sun May 24 07:00:02 2020
+642,Tamil Nadu,Virudhunagar,97,2,Sun May 24 07:00:02 2020
+643,Tripura,Dhalai,164,2,Sun May 24 07:00:02 2020
+644,Tripura,Gomati,6,4,Sun May 24 07:00:02 2020
+645,Tripura,Khowai,2,1,Sun May 24 07:00:02 2020
+646,Tripura,North Tripura,5,1,Sun May 24 07:00:02 2020
+647,Tripura,Sipahijala,5,3,Sun May 24 07:00:02 2020
+648,Tripura,South Tripura,2,2,Sun May 24 07:00:02 2020
+649,Tripura,Unokoti,1,1,Sun May 24 07:00:02 2020
+650,Tripura,West Tripura,6,6,Sun May 24 07:00:02 2020
+651,Uttar Pradesh,Agra,845,6,Sun May 24 07:00:02 2020
+652,Uttar Pradesh,Aligarh,121,6,Sun May 24 07:00:02 2020
+653,Uttar Pradesh,Ambedkar Nagar,35,4,Sun May 24 07:00:02 2020
+654,Uttar Pradesh,Amethi,40,9,Sun May 24 07:00:02 2020
+655,Uttar Pradesh,Amroha,43,0,Sun May 24 07:00:02 2020
+656,Uttar Pradesh,Auraiya,22,0,Sun May 24 07:00:02 2020
+657,Uttar Pradesh,Ayodhya,57,4,Sun May 24 07:00:02 2020
+658,Uttar Pradesh,Azamgarh,31,0,Sun May 24 07:00:02 2020
+659,Uttar Pradesh,Baghpat,27,0,Sun May 24 07:00:02 2020
+660,Uttar Pradesh,Bahraich,68,0,Sun May 24 07:00:02 2020
+661,Uttar Pradesh,Ballia,15,1,Sun May 24 07:00:02 2020
+662,Uttar Pradesh,Balrampur,34,0,Sun May 24 07:00:02 2020
+663,Uttar Pradesh,Banda,23,0,Sun May 24 07:00:02 2020
+664,Uttar Pradesh,Barabanki,133,0,Sun May 24 07:00:02 2020
+665,Uttar Pradesh,Bareilly,39,9,Sun May 24 07:00:02 2020
+666,Uttar Pradesh,Basti,119,-1,Sun May 24 07:00:02 2020
+667,Uttar Pradesh,Bhadohi,14,0,Sun May 24 07:00:02 2020
+668,Uttar Pradesh,Bijnor,70,5,Sun May 24 07:00:02 2020
+669,Uttar Pradesh,Budaun,34,0,Sun May 24 07:00:02 2020
+670,Uttar Pradesh,Bulandshahr,104,1,Sun May 24 07:00:02 2020
+671,Uttar Pradesh,Chandauli,17,2,Sun May 24 07:00:02 2020
+672,Uttar Pradesh,Chitrakoot,20,0,Sun May 24 07:00:02 2020
+673,Uttar Pradesh,Deoria,38,8,Sun May 24 07:00:02 2020
+674,Uttar Pradesh,Etah,13,0,Sun May 24 07:00:02 2020
+675,Uttar Pradesh,Etawah,37,9,Sun May 24 07:00:02 2020
+676,Uttar Pradesh,Farrukhabad,24,2,Sun May 24 07:00:02 2020
+677,Uttar Pradesh,Fatehpur,33,0,Sun May 24 07:00:02 2020
+678,Uttar Pradesh,Firozabad,208,0,Sun May 24 07:00:02 2020
+679,Uttar Pradesh,Gautam Buddha Nagar,334,17,Sun May 24 07:00:02 2020
+680,Uttar Pradesh,Ghaziabad,226,12,Sun May 24 07:00:02 2020
+681,Uttar Pradesh,Ghazipur,77,2,Sun May 24 07:00:02 2020
+682,Uttar Pradesh,Gonda,39,0,Sun May 24 07:00:02 2020
+683,Uttar Pradesh,Gorakhpur,38,9,Sun May 24 07:00:02 2020
+684,Uttar Pradesh,Hamirpur,4,0,Sun May 24 07:00:02 2020
+685,Uttar Pradesh,Hapur,91,0,Sun May 24 07:00:02 2020
+686,Uttar Pradesh,Hardoi,33,10,Sun May 24 07:00:02 2020
+687,Uttar Pradesh,Hathras,22,1,Sun May 24 07:00:02 2020
+688,Uttar Pradesh,Jalaun,42,0,Sun May 24 07:00:02 2020
+689,Uttar Pradesh,Jaunpur,123,32,Sun May 24 07:00:02 2020
+690,Uttar Pradesh,Jhansi,31,1,Sun May 24 07:00:02 2020
+691,Uttar Pradesh,Kannauj,30,2,Sun May 24 07:00:02 2020
+692,Uttar Pradesh,Kanpur Dehat,9,1,Sun May 24 07:00:02 2020
+693,Uttar Pradesh,Kanpur Nagar,327,4,Sun May 24 07:00:02 2020
+694,Uttar Pradesh,Kasganj,13,0,Sun May 24 07:00:02 2020
+695,Uttar Pradesh,Kaushambi,44,0,Sun May 24 07:00:02 2020
+696,Uttar Pradesh,Kushinagar,8,1,Sun May 24 07:00:02 2020
+697,Uttar Pradesh,Lakhimpur Kheri,48,0,Sun May 24 07:00:02 2020
+698,Uttar Pradesh,Lalitpur,1,0,Sun May 24 07:00:02 2020
+699,Uttar Pradesh,Lucknow,325,11,Sun May 24 07:00:02 2020
+700,Uttar Pradesh,Maharajganj,37,5,Sun May 24 07:00:02 2020
+701,Uttar Pradesh,Mahoba,4,1,Sun May 24 07:00:02 2020
+702,Uttar Pradesh,Mainpuri,25,0,Sun May 24 07:00:02 2020
+703,Uttar Pradesh,Mathura,60,0,Sun May 24 07:00:02 2020
+704,Uttar Pradesh,Mau,14,1,Sun May 24 07:00:02 2020
+705,Uttar Pradesh,Meerut,362,15,Sun May 24 07:00:02 2020
+706,Uttar Pradesh,Mirzapur,30,5,Sun May 24 07:00:02 2020
+707,Uttar Pradesh,Moradabad,181,6,Sun May 24 07:00:02 2020
+708,Uttar Pradesh,Muzaffarnagar,40,1,Sun May 24 07:00:02 2020
+709,Uttar Pradesh,Pilibhit,41,3,Sun May 24 07:00:02 2020
+710,Uttar Pradesh,Pratapgarh,59,0,Sun May 24 07:00:02 2020
+711,Uttar Pradesh,Prayagraj,67,2,Sun May 24 07:00:02 2020
+712,Uttar Pradesh,Rae Bareli,62,1,Sun May 24 07:00:02 2020
+713,Uttar Pradesh,Rampur,136,25,Sun May 24 07:00:02 2020
+714,Uttar Pradesh,Saharanpur,227,0,Sun May 24 07:00:02 2020
+715,Uttar Pradesh,Sambhal,61,4,Sun May 24 07:00:02 2020
+716,Uttar Pradesh,Sant Kabir Nagar,60,8,Sun May 24 07:00:02 2020
+717,Uttar Pradesh,Shahjahanpur,17,3,Sun May 24 07:00:02 2020
+718,Uttar Pradesh,Shamli,39,2,Sun May 24 07:00:02 2020
+719,Uttar Pradesh,Shrawasti,29,0,Sun May 24 07:00:02 2020
+720,Uttar Pradesh,Siddharthnagar,77,2,Sun May 24 07:00:02 2020
+721,Uttar Pradesh,Sitapur,39,0,Sun May 24 07:00:02 2020
+722,Uttar Pradesh,Sonbhadra,3,0,Sun May 24 07:00:02 2020
+723,Uttar Pradesh,Sultanpur,60,18,Sun May 24 07:00:02 2020
+724,Uttar Pradesh,Unnao,22,0,Sun May 24 07:00:02 2020
+725,Uttar Pradesh,Varanasi,136,12,Sun May 24 07:00:02 2020
+726,Uttarakhand,Almora,7,3,Sun May 24 07:00:02 2020
+727,Uttarakhand,Bageshwar,6,0,Sun May 24 07:00:02 2020
+728,Uttarakhand,Chamoli,1,0,Sun May 24 07:00:02 2020
+729,Uttarakhand,Champawat,7,7,Sun May 24 07:00:02 2020
+730,Uttarakhand,Dehradun,63,9,Sun May 24 07:00:02 2020
+731,Uttarakhand,Haridwar,14,2,Sun May 24 07:00:02 2020
+732,Uttarakhand,Nainital,85,57,Sun May 24 07:00:02 2020
+733,Uttarakhand,Pauri Garhwal,6,2,Sun May 24 07:00:02 2020
+734,Uttarakhand,Pithoragarh,2,2,Sun May 24 07:00:02 2020
+735,Uttarakhand,Rudraprayag,3,3,Sun May 24 07:00:02 2020
+736,Uttarakhand,Tehri Garhwal,6,0,Sun May 24 07:00:02 2020
+737,Uttarakhand,Udham Singh Nagar,34,3,Sun May 24 07:00:02 2020
+738,Uttarakhand,Uttarkashi,10,3,Sun May 24 07:00:02 2020
+739,West Bengal,Alipurduar,0,0,Sun May 24 07:00:02 2020
+740,West Bengal,Bankura,1,1,Sun May 24 07:00:02 2020
+741,West Bengal,Birbhum,18,1,Sun May 24 07:00:02 2020
+742,West Bengal,Cooch Behar,0,0,Sun May 24 07:00:02 2020
+743,West Bengal,Dakshin Dinajpur,4,1,Sun May 24 07:00:02 2020
+744,West Bengal,Darjeeling,10,0,Sun May 24 07:00:02 2020
+745,West Bengal,Hooghly,191,21,Sun May 24 07:00:02 2020
+746,West Bengal,Howrah,751,19,Sun May 24 07:00:02 2020
+747,West Bengal,Jalpaiguri,4,0,Sun May 24 07:00:02 2020
+748,West Bengal,Jhargram,3,0,Sun May 24 07:00:02 2020
+749,West Bengal,Kalimpong,7,0,Sun May 24 07:00:02 2020
+750,West Bengal,Kolkata,1613,43,Sun May 24 07:00:02 2020
+751,West Bengal,Malda,50,2,Sun May 24 07:00:02 2020
+752,West Bengal,Murshidabad,35,7,Sun May 24 07:00:02 2020
+753,West Bengal,Nadia,25,6,Sun May 24 07:00:02 2020
+754,West Bengal,North 24 Parganas,445,8,Sun May 24 07:00:02 2020
+755,West Bengal,Other State,27,2,Sun May 24 07:00:02 2020
+756,West Bengal,Paschim Bardhaman,21,1,Sun May 24 07:00:02 2020
+757,West Bengal,Paschim Medinipur,26,0,Sun May 24 07:00:02 2020
+758,West Bengal,Purba Bardhaman,25,4,Sun May 24 07:00:02 2020
+759,West Bengal,Purba Medinipur,52,0,Sun May 24 07:00:02 2020
+760,West Bengal,Purulia,0,0,Sun May 24 07:00:02 2020
+761,West Bengal,South 24 Parganas,120,7,Sun May 24 07:00:02 2020
+762,West Bengal,Uttar Dinajpur,20,4,Sun May 24 07:00:02 2020
+763,West Bengal,Unknown,11,0,Sun May 24 07:00:02 2020

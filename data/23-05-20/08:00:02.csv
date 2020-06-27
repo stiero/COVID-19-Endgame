@@ -1,0 +1,763 @@
+,state,district,confirmed,delta,date
+0,State Unassigned,Unassigned,1620,217,Sat May 23 08:00:02 2020
+1,Andaman and Nicobar Islands,Nicobars,0,0,Sat May 23 08:00:02 2020
+2,Andaman and Nicobar Islands,North and Middle Andaman,1,0,Sat May 23 08:00:02 2020
+3,Andaman and Nicobar Islands,South Andaman,32,0,Sat May 23 08:00:02 2020
+4,Andhra Pradesh,Anantapur,136,0,Sat May 23 08:00:02 2020
+5,Andhra Pradesh,Chittoor,208,0,Sat May 23 08:00:02 2020
+6,Andhra Pradesh,East Godavari,59,0,Sat May 23 08:00:02 2020
+7,Andhra Pradesh,Guntur,426,0,Sat May 23 08:00:02 2020
+8,Andhra Pradesh,Krishna,396,0,Sat May 23 08:00:02 2020
+9,Andhra Pradesh,Kurnool,638,0,Sat May 23 08:00:02 2020
+10,Andhra Pradesh,Other State,153,0,Sat May 23 08:00:02 2020
+11,Andhra Pradesh,Prakasam,67,0,Sat May 23 08:00:02 2020
+12,Andhra Pradesh,S.P.S. Nellore,182,0,Sat May 23 08:00:02 2020
+13,Andhra Pradesh,Srikakulam,16,0,Sat May 23 08:00:02 2020
+14,Andhra Pradesh,Visakhapatnam,81,0,Sat May 23 08:00:02 2020
+15,Andhra Pradesh,Vizianagaram,16,0,Sat May 23 08:00:02 2020
+16,Andhra Pradesh,West Godavari,75,0,Sat May 23 08:00:02 2020
+17,Andhra Pradesh,Y.S.R. Kadapa,107,0,Sat May 23 08:00:02 2020
+18,Andhra Pradesh,Unknown,107,0,Sat May 23 08:00:02 2020
+19,Arunachal Pradesh,Anjaw,0,0,Sat May 23 08:00:02 2020
+20,Arunachal Pradesh,Changlang,0,0,Sat May 23 08:00:02 2020
+21,Arunachal Pradesh,East Kameng,0,0,Sat May 23 08:00:02 2020
+22,Arunachal Pradesh,East Siang,0,0,Sat May 23 08:00:02 2020
+23,Arunachal Pradesh,Kamle,0,0,Sat May 23 08:00:02 2020
+24,Arunachal Pradesh,Kra Daadi,0,0,Sat May 23 08:00:02 2020
+25,Arunachal Pradesh,Kurung Kumey,0,0,Sat May 23 08:00:02 2020
+26,Arunachal Pradesh,Lepa Rada,0,0,Sat May 23 08:00:02 2020
+27,Arunachal Pradesh,Lohit,1,0,Sat May 23 08:00:02 2020
+28,Arunachal Pradesh,Longding,0,0,Sat May 23 08:00:02 2020
+29,Arunachal Pradesh,Lower Dibang Valley,0,0,Sat May 23 08:00:02 2020
+30,Arunachal Pradesh,Lower Siang,0,0,Sat May 23 08:00:02 2020
+31,Arunachal Pradesh,Lower Subansiri,0,0,Sat May 23 08:00:02 2020
+32,Arunachal Pradesh,Namsai,0,0,Sat May 23 08:00:02 2020
+33,Arunachal Pradesh,Pakke Kessang,0,0,Sat May 23 08:00:02 2020
+34,Arunachal Pradesh,Papum Pare,0,0,Sat May 23 08:00:02 2020
+35,Arunachal Pradesh,Shi Yomi,0,0,Sat May 23 08:00:02 2020
+36,Arunachal Pradesh,Siang,0,0,Sat May 23 08:00:02 2020
+37,Arunachal Pradesh,Tawang,0,0,Sat May 23 08:00:02 2020
+38,Arunachal Pradesh,Tirap,0,0,Sat May 23 08:00:02 2020
+39,Arunachal Pradesh,Upper Dibang Valley,0,0,Sat May 23 08:00:02 2020
+40,Arunachal Pradesh,Upper Siang,0,0,Sat May 23 08:00:02 2020
+41,Arunachal Pradesh,Upper Subansiri,0,0,Sat May 23 08:00:02 2020
+42,Arunachal Pradesh,West Kameng,0,0,Sat May 23 08:00:02 2020
+43,Arunachal Pradesh,West Siang,0,0,Sat May 23 08:00:02 2020
+44,Assam,Baksa,0,0,Sat May 23 08:00:02 2020
+45,Assam,Barpeta,0,0,Sat May 23 08:00:02 2020
+46,Assam,Biswanath,2,0,Sat May 23 08:00:02 2020
+47,Assam,Bongaigaon,5,0,Sat May 23 08:00:02 2020
+48,Assam,Cachar,21,7,Sat May 23 08:00:02 2020
+49,Assam,Charaideo,0,0,Sat May 23 08:00:02 2020
+50,Assam,Chirang,0,0,Sat May 23 08:00:02 2020
+51,Assam,Darrang,1,0,Sat May 23 08:00:02 2020
+52,Assam,Dhemaji,0,0,Sat May 23 08:00:02 2020
+53,Assam,Dhubri,7,0,Sat May 23 08:00:02 2020
+54,Assam,Dibrugarh,1,0,Sat May 23 08:00:02 2020
+55,Assam,Dima Hasao,0,0,Sat May 23 08:00:02 2020
+56,Assam,Goalpara,6,0,Sat May 23 08:00:02 2020
+57,Assam,Golaghat,15,0,Sat May 23 08:00:02 2020
+58,Assam,Hailakandi,2,1,Sat May 23 08:00:02 2020
+59,Assam,Hojai,10,0,Sat May 23 08:00:02 2020
+60,Assam,Jorhat,7,0,Sat May 23 08:00:02 2020
+61,Assam,Kamrup,10,0,Sat May 23 08:00:02 2020
+62,Assam,Kamrup Metropolitan,81,0,Sat May 23 08:00:02 2020
+63,Assam,Karbi Anglong,0,0,Sat May 23 08:00:02 2020
+64,Assam,Karimganj,5,0,Sat May 23 08:00:02 2020
+65,Assam,Kokrajhar,6,0,Sat May 23 08:00:02 2020
+66,Assam,Lakhimpur,4,1,Sat May 23 08:00:02 2020
+67,Assam,Majuli,0,0,Sat May 23 08:00:02 2020
+68,Assam,Morigaon,6,0,Sat May 23 08:00:02 2020
+69,Assam,Nagaon,5,1,Sat May 23 08:00:02 2020
+70,Assam,Nalbari,6,0,Sat May 23 08:00:02 2020
+71,Assam,Other State,1,0,Sat May 23 08:00:02 2020
+72,Assam,Sivasagar,6,3,Sat May 23 08:00:02 2020
+73,Assam,Sonitpur,14,6,Sat May 23 08:00:02 2020
+74,Assam,South Salmara Mankachar,1,0,Sat May 23 08:00:02 2020
+75,Assam,Tinsukia,1,1,Sat May 23 08:00:02 2020
+76,Assam,Udalguri,2,1,Sat May 23 08:00:02 2020
+77,Assam,West Karbi Anglong,1,0,Sat May 23 08:00:02 2020
+78,Assam,Unknown,34,0,Sat May 23 08:00:02 2020
+79,Bihar,Araria,5,1,Sat May 23 08:00:02 2020
+80,Bihar,Arwal,21,4,Sat May 23 08:00:02 2020
+81,Bihar,Aurangabad,34,8,Sat May 23 08:00:02 2020
+82,Bihar,Banka,64,12,Sat May 23 08:00:02 2020
+83,Bihar,Begusarai,125,35,Sat May 23 08:00:02 2020
+84,Bihar,Bhagalpur,69,10,Sat May 23 08:00:02 2020
+85,Bihar,Bhojpur,39,1,Sat May 23 08:00:02 2020
+86,Bihar,Buxar,113,38,Sat May 23 08:00:02 2020
+87,Bihar,Darbhanga,31,9,Sat May 23 08:00:02 2020
+88,Bihar,East Champaran,62,32,Sat May 23 08:00:02 2020
+89,Bihar,Gaya,31,13,Sat May 23 08:00:02 2020
+90,Bihar,Gopalganj,89,8,Sat May 23 08:00:02 2020
+91,Bihar,Jamui,26,11,Sat May 23 08:00:02 2020
+92,Bihar,Jehanabad,106,-2,Sat May 23 08:00:02 2020
+93,Bihar,Kaimur,46,2,Sat May 23 08:00:02 2020
+94,Bihar,Katihar,72,18,Sat May 23 08:00:02 2020
+95,Bihar,Khagaria,105,14,Sat May 23 08:00:02 2020
+96,Bihar,Kishanganj,14,0,Sat May 23 08:00:02 2020
+97,Bihar,Lakhisarai,24,1,Sat May 23 08:00:02 2020
+98,Bihar,Madhepura,22,2,Sat May 23 08:00:02 2020
+99,Bihar,Madhubani,115,34,Sat May 23 08:00:02 2020
+100,Bihar,Munger,140,4,Sat May 23 08:00:02 2020
+101,Bihar,Muzaffarpur,35,5,Sat May 23 08:00:02 2020
+102,Bihar,Nalanda,80,2,Sat May 23 08:00:02 2020
+103,Bihar,Nawada,50,9,Sat May 23 08:00:02 2020
+104,Bihar,Patna,186,18,Sat May 23 08:00:02 2020
+105,Bihar,Purnia,36,-2,Sat May 23 08:00:02 2020
+106,Bihar,Rohtas,123,14,Sat May 23 08:00:02 2020
+107,Bihar,Saharsa,21,-1,Sat May 23 08:00:02 2020
+108,Bihar,Samastipur,56,15,Sat May 23 08:00:02 2020
+109,Bihar,Saran,25,11,Sat May 23 08:00:02 2020
+110,Bihar,Sheikhpura,41,4,Sat May 23 08:00:02 2020
+111,Bihar,Sheohar,6,1,Sat May 23 08:00:02 2020
+112,Bihar,Sitamarhi,15,6,Sat May 23 08:00:02 2020
+113,Bihar,Siwan,53,8,Sat May 23 08:00:02 2020
+114,Bihar,Supaul,29,0,Sat May 23 08:00:02 2020
+115,Bihar,Vaishali,25,6,Sat May 23 08:00:02 2020
+116,Bihar,West Champaran,32,5,Sat May 23 08:00:02 2020
+117,Chandigarh,Chandigarh,219,1,Sat May 23 08:00:02 2020
+118,Chhattisgarh,Balod,18,4,Sat May 23 08:00:02 2020
+119,Chhattisgarh,Baloda Bazar,12,4,Sat May 23 08:00:02 2020
+120,Chhattisgarh,Balrampur,1,1,Sat May 23 08:00:02 2020
+121,Chhattisgarh,Bametara,1,1,Sat May 23 08:00:02 2020
+122,Chhattisgarh,Bastar,0,0,Sat May 23 08:00:02 2020
+123,Chhattisgarh,Bijapur,0,0,Sat May 23 08:00:02 2020
+124,Chhattisgarh,Bilaspur,11,3,Sat May 23 08:00:02 2020
+125,Chhattisgarh,Dakshin Bastar Dantewada,0,0,Sat May 23 08:00:02 2020
+126,Chhattisgarh,Dhamtari,0,0,Sat May 23 08:00:02 2020
+127,Chhattisgarh,Durg,12,2,Sat May 23 08:00:02 2020
+128,Chhattisgarh,Gariaband,4,3,Sat May 23 08:00:02 2020
+129,Chhattisgarh,Janjgir Champa,15,1,Sat May 23 08:00:02 2020
+130,Chhattisgarh,Jashpur,0,0,Sat May 23 08:00:02 2020
+131,Chhattisgarh,Kabeerdham,13,5,Sat May 23 08:00:02 2020
+132,Chhattisgarh,Kondagaon,0,0,Sat May 23 08:00:02 2020
+133,Chhattisgarh,Korba,41,12,Sat May 23 08:00:02 2020
+134,Chhattisgarh,Koriya,1,0,Sat May 23 08:00:02 2020
+135,Chhattisgarh,Mahasamund,0,0,Sat May 23 08:00:02 2020
+136,Chhattisgarh,Mungeli,3,2,Sat May 23 08:00:02 2020
+137,Chhattisgarh,Narayanpur,0,0,Sat May 23 08:00:02 2020
+138,Chhattisgarh,Raigarh,5,0,Sat May 23 08:00:02 2020
+139,Chhattisgarh,Raipur,8,0,Sat May 23 08:00:02 2020
+140,Chhattisgarh,Rajnandgaon,12,2,Sat May 23 08:00:02 2020
+141,Chhattisgarh,Sukma,0,0,Sat May 23 08:00:02 2020
+142,Chhattisgarh,Surajpur,7,0,Sat May 23 08:00:02 2020
+143,Chhattisgarh,Surguja,3,0,Sat May 23 08:00:02 2020
+144,Chhattisgarh,Uttar Bastar Kanker,5,4,Sat May 23 08:00:02 2020
+145,Delhi,Central Delhi,184,0,Sat May 23 08:00:02 2020
+146,Delhi,East Delhi,38,0,Sat May 23 08:00:02 2020
+147,Delhi,New Delhi,37,0,Sat May 23 08:00:02 2020
+148,Delhi,North Delhi,60,0,Sat May 23 08:00:02 2020
+149,Delhi,North East Delhi,25,0,Sat May 23 08:00:02 2020
+150,Delhi,North West Delhi,32,0,Sat May 23 08:00:02 2020
+151,Delhi,Shahdara,48,0,Sat May 23 08:00:02 2020
+152,Delhi,South Delhi,70,0,Sat May 23 08:00:02 2020
+153,Delhi,South East Delhi,130,0,Sat May 23 08:00:02 2020
+154,Delhi,South West Delhi,42,0,Sat May 23 08:00:02 2020
+155,Delhi,West Delhi,122,0,Sat May 23 08:00:02 2020
+156,Delhi,Unknown,11531,0,Sat May 23 08:00:02 2020
+157,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1,0,Sat May 23 08:00:02 2020
+158,Dadra and Nagar Haveli and Daman and Diu,Daman,0,0,Sat May 23 08:00:02 2020
+159,Dadra and Nagar Haveli and Daman and Diu,Diu,0,0,Sat May 23 08:00:02 2020
+160,Goa,North Goa,6,0,Sat May 23 08:00:02 2020
+161,Goa,South Goa,18,0,Sat May 23 08:00:02 2020
+162,Goa,Unknown,30,0,Sat May 23 08:00:02 2020
+163,Gujarat,Other State,5,0,Sat May 23 08:00:02 2020
+164,Gujarat,Ahmedabad,9724,275,Sat May 23 08:00:02 2020
+165,Gujarat,Amreli,2,0,Sat May 23 08:00:02 2020
+166,Gujarat,Anand,87,2,Sat May 23 08:00:02 2020
+167,Gujarat,Aravalli,93,0,Sat May 23 08:00:02 2020
+168,Gujarat,Banaskantha,99,0,Sat May 23 08:00:02 2020
+169,Gujarat,Bharuch,37,0,Sat May 23 08:00:02 2020
+170,Gujarat,Bhavnagar,114,0,Sat May 23 08:00:02 2020
+171,Gujarat,Botad,56,0,Sat May 23 08:00:02 2020
+172,Gujarat,Chhota Udaipur,22,0,Sat May 23 08:00:02 2020
+173,Gujarat,Dahod,32,0,Sat May 23 08:00:02 2020
+174,Gujarat,Dang,2,0,Sat May 23 08:00:02 2020
+175,Gujarat,Devbhumi Dwarka,12,0,Sat May 23 08:00:02 2020
+176,Gujarat,Gandhinagar,201,3,Sat May 23 08:00:02 2020
+177,Gujarat,Gir Somnath,38,4,Sat May 23 08:00:02 2020
+178,Gujarat,Jamnagar,46,0,Sat May 23 08:00:02 2020
+179,Gujarat,Junagadh,18,3,Sat May 23 08:00:02 2020
+180,Gujarat,Kheda,57,3,Sat May 23 08:00:02 2020
+181,Gujarat,Kutch,64,3,Sat May 23 08:00:02 2020
+182,Gujarat,Mahisagar,77,0,Sat May 23 08:00:02 2020
+183,Gujarat,Mehsana,95,2,Sat May 23 08:00:02 2020
+184,Gujarat,Morbi,2,0,Sat May 23 08:00:02 2020
+185,Gujarat,Narmada,15,0,Sat May 23 08:00:02 2020
+186,Gujarat,Navsari,14,0,Sat May 23 08:00:02 2020
+187,Gujarat,Panchmahal,72,0,Sat May 23 08:00:02 2020
+188,Gujarat,Patan,69,0,Sat May 23 08:00:02 2020
+189,Gujarat,Porbandar,5,0,Sat May 23 08:00:02 2020
+190,Gujarat,Rajkot,83,1,Sat May 23 08:00:02 2020
+191,Gujarat,Sabarkantha,63,11,Sat May 23 08:00:02 2020
+192,Gujarat,Surat,1256,29,Sat May 23 08:00:02 2020
+193,Gujarat,Surendranagar,21,5,Sat May 23 08:00:02 2020
+194,Gujarat,Tapi,3,0,Sat May 23 08:00:02 2020
+195,Gujarat,Vadodara,771,21,Sat May 23 08:00:02 2020
+196,Gujarat,Valsad,18,1,Sat May 23 08:00:02 2020
+197,Himachal Pradesh,Bilaspur,7,0,Sat May 23 08:00:02 2020
+198,Himachal Pradesh,Chamba,13,0,Sat May 23 08:00:02 2020
+199,Himachal Pradesh,Hamirpur,60,14,Sat May 23 08:00:02 2020
+200,Himachal Pradesh,Kangra,43,2,Sat May 23 08:00:02 2020
+201,Himachal Pradesh,Kinnaur,0,0,Sat May 23 08:00:02 2020
+202,Himachal Pradesh,Kullu,1,0,Sat May 23 08:00:02 2020
+203,Himachal Pradesh,Lahaul and Spiti,0,0,Sat May 23 08:00:02 2020
+204,Himachal Pradesh,Mandi,6,0,Sat May 23 08:00:02 2020
+205,Himachal Pradesh,Shimla,1,0,Sat May 23 08:00:02 2020
+206,Himachal Pradesh,Sirmaur,4,0,Sat May 23 08:00:02 2020
+207,Himachal Pradesh,Solan,14,0,Sat May 23 08:00:02 2020
+208,Himachal Pradesh,Una,19,0,Sat May 23 08:00:02 2020
+209,Haryana,Ambala,42,0,Sat May 23 08:00:02 2020
+210,Haryana,Bhiwani,6,0,Sat May 23 08:00:02 2020
+211,Haryana,Charkhi Dadri,6,0,Sat May 23 08:00:02 2020
+212,Haryana,Faridabad,185,4,Sat May 23 08:00:02 2020
+213,Haryana,Fatehabad,8,0,Sat May 23 08:00:02 2020
+214,Haryana,Gurugram,250,11,Sat May 23 08:00:02 2020
+215,Haryana,Hisar,9,0,Sat May 23 08:00:02 2020
+216,Haryana,Italians,14,0,Sat May 23 08:00:02 2020
+217,Haryana,Jhajjar,91,0,Sat May 23 08:00:02 2020
+218,Haryana,Jind,23,0,Sat May 23 08:00:02 2020
+219,Haryana,Kaithal,5,0,Sat May 23 08:00:02 2020
+220,Haryana,Karnal,23,2,Sat May 23 08:00:02 2020
+221,Haryana,Kurukshetra,14,5,Sat May 23 08:00:02 2020
+222,Haryana,Mahendragarh,21,10,Sat May 23 08:00:02 2020
+223,Haryana,Nuh,65,0,Sat May 23 08:00:02 2020
+224,Haryana,Palwal,40,0,Sat May 23 08:00:02 2020
+225,Haryana,Panchkula,25,0,Sat May 23 08:00:02 2020
+226,Haryana,Panipat,46,0,Sat May 23 08:00:02 2020
+227,Haryana,Rewari,11,2,Sat May 23 08:00:02 2020
+228,Haryana,Rohtak,15,1,Sat May 23 08:00:02 2020
+229,Haryana,Sirsa,9,1,Sat May 23 08:00:02 2020
+230,Haryana,Sonipat,151,1,Sat May 23 08:00:02 2020
+231,Haryana,Yamunanagar,8,0,Sat May 23 08:00:02 2020
+232,Jharkhand,Bokaro,15,5,Sat May 23 08:00:02 2020
+233,Jharkhand,Chatra,1,0,Sat May 23 08:00:02 2020
+234,Jharkhand,Deoghar,5,0,Sat May 23 08:00:02 2020
+235,Jharkhand,Dhanbad,7,0,Sat May 23 08:00:02 2020
+236,Jharkhand,Dumka,2,0,Sat May 23 08:00:02 2020
+237,Jharkhand,East Singhbhum,17,1,Sat May 23 08:00:02 2020
+238,Jharkhand,Garhwa,47,0,Sat May 23 08:00:02 2020
+239,Jharkhand,Giridih,16,0,Sat May 23 08:00:02 2020
+240,Jharkhand,Godda,1,0,Sat May 23 08:00:02 2020
+241,Jharkhand,Gumla,3,0,Sat May 23 08:00:02 2020
+242,Jharkhand,Hazaribagh,41,8,Sat May 23 08:00:02 2020
+243,Jharkhand,Jamtara,2,0,Sat May 23 08:00:02 2020
+244,Jharkhand,Khunti,0,0,Sat May 23 08:00:02 2020
+245,Jharkhand,Koderma,16,0,Sat May 23 08:00:02 2020
+246,Jharkhand,Latehar,4,0,Sat May 23 08:00:02 2020
+247,Jharkhand,Lohardaga,2,0,Sat May 23 08:00:02 2020
+248,Jharkhand,Pakur,0,0,Sat May 23 08:00:02 2020
+249,Jharkhand,Palamu,15,0,Sat May 23 08:00:02 2020
+250,Jharkhand,Ramgarh,6,3,Sat May 23 08:00:02 2020
+251,Jharkhand,Ranchi,112,0,Sat May 23 08:00:02 2020
+252,Jharkhand,Sahibganj,0,0,Sat May 23 08:00:02 2020
+253,Jharkhand,Saraikela-Kharsawan,4,0,Sat May 23 08:00:02 2020
+254,Jharkhand,Simdega,3,0,Sat May 23 08:00:02 2020
+255,Jharkhand,West Singhbhum,4,3,Sat May 23 08:00:02 2020
+256,Jammu and Kashmir,Anantnag,266,2,Sat May 23 08:00:02 2020
+257,Jammu and Kashmir,Bandipora,139,1,Sat May 23 08:00:02 2020
+258,Jammu and Kashmir,Baramulla,132,3,Sat May 23 08:00:02 2020
+259,Jammu and Kashmir,Budgam,64,1,Sat May 23 08:00:02 2020
+260,Jammu and Kashmir,Doda,1,0,Sat May 23 08:00:02 2020
+261,Jammu and Kashmir,Ganderbal,27,0,Sat May 23 08:00:02 2020
+262,Jammu and Kashmir,Jammu,68,0,Sat May 23 08:00:02 2020
+263,Jammu and Kashmir,Kathua,40,0,Sat May 23 08:00:02 2020
+264,Jammu and Kashmir,Kishtwar,6,0,Sat May 23 08:00:02 2020
+265,Jammu and Kashmir,Kulgam,193,1,Sat May 23 08:00:02 2020
+266,Jammu and Kashmir,Kupwara,128,3,Sat May 23 08:00:02 2020
+267,Jammu and Kashmir,Mirpur,0,0,Sat May 23 08:00:02 2020
+268,Jammu and Kashmir,Muzaffarabad,0,0,Sat May 23 08:00:02 2020
+269,Jammu and Kashmir,Pulwama,21,2,Sat May 23 08:00:02 2020
+270,Jammu and Kashmir,Punch,5,1,Sat May 23 08:00:02 2020
+271,Jammu and Kashmir,Rajouri,10,2,Sat May 23 08:00:02 2020
+272,Jammu and Kashmir,Ramban,30,0,Sat May 23 08:00:02 2020
+273,Jammu and Kashmir,Reasi,4,0,Sat May 23 08:00:02 2020
+274,Jammu and Kashmir,Samba,20,4,Sat May 23 08:00:02 2020
+275,Jammu and Kashmir,Shopiyan,127,18,Sat May 23 08:00:02 2020
+276,Jammu and Kashmir,Srinagar,175,2,Sat May 23 08:00:02 2020
+277,Jammu and Kashmir,Udhampur,33,0,Sat May 23 08:00:02 2020
+278,Karnataka,Bagalkote,77,1,Sat May 23 08:00:02 2020
+279,Karnataka,Ballari,30,0,Sat May 23 08:00:02 2020
+280,Karnataka,Belagavi,126,1,Sat May 23 08:00:02 2020
+281,Karnataka,Bengaluru Rural,11,5,Sat May 23 08:00:02 2020
+282,Karnataka,Bengaluru Urban,263,5,Sat May 23 08:00:02 2020
+283,Karnataka,Bidar,76,9,Sat May 23 08:00:02 2020
+284,Karnataka,Chamarajanagara,0,0,Sat May 23 08:00:02 2020
+285,Karnataka,Chikkaballapura,73,47,Sat May 23 08:00:02 2020
+286,Karnataka,Chikkamagaluru,10,5,Sat May 23 08:00:02 2020
+287,Karnataka,Chitradurga,11,1,Sat May 23 08:00:02 2020
+288,Karnataka,Dakshina Kannada,56,1,Sat May 23 08:00:02 2020
+289,Karnataka,Davanagere,116,3,Sat May 23 08:00:02 2020
+290,Karnataka,Dharwad,33,2,Sat May 23 08:00:02 2020
+291,Karnataka,Gadag,20,0,Sat May 23 08:00:02 2020
+292,Karnataka,Hassan,81,14,Sat May 23 08:00:02 2020
+293,Karnataka,Haveri,6,3,Sat May 23 08:00:02 2020
+294,Karnataka,Kalaburagi,135,0,Sat May 23 08:00:02 2020
+295,Karnataka,Kodagu,2,0,Sat May 23 08:00:02 2020
+296,Karnataka,Kolar,11,0,Sat May 23 08:00:02 2020
+297,Karnataka,Koppal,3,0,Sat May 23 08:00:02 2020
+298,Karnataka,Mandya,209,8,Sat May 23 08:00:02 2020
+299,Karnataka,Mysuru,90,0,Sat May 23 08:00:02 2020
+300,Karnataka,Other State,22,0,Sat May 23 08:00:02 2020
+301,Karnataka,Raichur,26,10,Sat May 23 08:00:02 2020
+302,Karnataka,Ramanagara,0,0,Sat May 23 08:00:02 2020
+303,Karnataka,Shivamogga,34,2,Sat May 23 08:00:02 2020
+304,Karnataka,Tumakuru,24,8,Sat May 23 08:00:02 2020
+305,Karnataka,Udupi,50,3,Sat May 23 08:00:02 2020
+306,Karnataka,Uttara Kannada,66,1,Sat May 23 08:00:02 2020
+307,Karnataka,Vijayapura,68,7,Sat May 23 08:00:02 2020
+308,Karnataka,Yadgir,12,0,Sat May 23 08:00:02 2020
+309,Karnataka,Unknown,2,0,Sat May 23 08:00:02 2020
+310,Kerala,Alappuzha,13,0,Sat May 23 08:00:02 2020
+311,Kerala,Ernakulam,30,0,Sat May 23 08:00:02 2020
+312,Kerala,Idukki,25,0,Sat May 23 08:00:02 2020
+313,Kerala,Kannur,148,12,Sat May 23 08:00:02 2020
+314,Kerala,Kasaragod,206,7,Sat May 23 08:00:02 2020
+315,Kerala,Kollam,31,1,Sat May 23 08:00:02 2020
+316,Kerala,Kottayam,30,2,Sat May 23 08:00:02 2020
+317,Kerala,Kozhikode,42,5,Sat May 23 08:00:02 2020
+318,Kerala,Malappuram,64,4,Sat May 23 08:00:02 2020
+319,Kerala,Palakkad,39,5,Sat May 23 08:00:02 2020
+320,Kerala,Pathanamthitta,25,1,Sat May 23 08:00:02 2020
+321,Kerala,Thiruvananthapuram,24,0,Sat May 23 08:00:02 2020
+322,Kerala,Thrissur,34,4,Sat May 23 08:00:02 2020
+323,Kerala,Wayanad,22,1,Sat May 23 08:00:02 2020
+324,Ladakh,Kargil,11,2,Sat May 23 08:00:02 2020
+325,Ladakh,Leh,35,0,Sat May 23 08:00:02 2020
+326,Lakshadweep,Lakshadweep,0,0,Sat May 23 08:00:02 2020
+327,Maharashtra,Ahmednagar,71,5,Sat May 23 08:00:02 2020
+328,Maharashtra,Akola,367,23,Sat May 23 08:00:02 2020
+329,Maharashtra,Amravati,145,5,Sat May 23 08:00:02 2020
+330,Maharashtra,Aurangabad,1187,61,Sat May 23 08:00:02 2020
+331,Maharashtra,Beed,26,13,Sat May 23 08:00:02 2020
+332,Maharashtra,Bhandara,9,0,Sat May 23 08:00:02 2020
+333,Maharashtra,Buldhana,39,1,Sat May 23 08:00:02 2020
+334,Maharashtra,Chandrapur,15,0,Sat May 23 08:00:02 2020
+335,Maharashtra,Dhule,97,2,Sat May 23 08:00:02 2020
+336,Maharashtra,Gadchiroli,9,2,Sat May 23 08:00:02 2020
+337,Maharashtra,Gondia,28,25,Sat May 23 08:00:02 2020
+338,Maharashtra,Hingoli,112,2,Sat May 23 08:00:02 2020
+339,Maharashtra,Jalgaon,395,64,Sat May 23 08:00:02 2020
+340,Maharashtra,Jalna,46,3,Sat May 23 08:00:02 2020
+341,Maharashtra,Kolhapur,195,34,Sat May 23 08:00:02 2020
+342,Maharashtra,Latur,61,7,Sat May 23 08:00:02 2020
+343,Maharashtra,Mumbai,27251,1751,Sat May 23 08:00:02 2020
+344,Maharashtra,Mumbai Suburban,0,0,Sat May 23 08:00:02 2020
+345,Maharashtra,Nagpur,460,23,Sat May 23 08:00:02 2020
+346,Maharashtra,Nanded,98,6,Sat May 23 08:00:02 2020
+347,Maharashtra,Nandurbar,32,6,Sat May 23 08:00:02 2020
+348,Maharashtra,Nashik,918,11,Sat May 23 08:00:02 2020
+349,Maharashtra,Osmanabad,26,7,Sat May 23 08:00:02 2020
+350,Maharashtra,Other State,48,0,Sat May 23 08:00:02 2020
+351,Maharashtra,Palghar,558,31,Sat May 23 08:00:02 2020
+352,Maharashtra,Parbhani,22,4,Sat May 23 08:00:02 2020
+353,Maharashtra,Pune,4993,328,Sat May 23 08:00:02 2020
+354,Maharashtra,Raigad,581,25,Sat May 23 08:00:02 2020
+355,Maharashtra,Ratnagiri,135,12,Sat May 23 08:00:02 2020
+356,Maharashtra,Sangli,71,8,Sat May 23 08:00:02 2020
+357,Maharashtra,Satara,204,20,Sat May 23 08:00:02 2020
+358,Maharashtra,Sindhudurg,10,0,Sat May 23 08:00:02 2020
+359,Maharashtra,Solapur,532,10,Sat May 23 08:00:02 2020
+360,Maharashtra,Thane,5717,449,Sat May 23 08:00:02 2020
+361,Maharashtra,Wardha,3,0,Sat May 23 08:00:02 2020
+362,Maharashtra,Washim,8,0,Sat May 23 08:00:02 2020
+363,Maharashtra,Yavatmal,113,2,Sat May 23 08:00:02 2020
+364,Maharashtra,Unknown,0,0,Sat May 23 08:00:02 2020
+365,Meghalaya,East Garo Hills,0,0,Sat May 23 08:00:02 2020
+366,Meghalaya,East Jaintia Hills,0,0,Sat May 23 08:00:02 2020
+367,Meghalaya,East Khasi Hills,13,0,Sat May 23 08:00:02 2020
+368,Meghalaya,North Garo Hills,0,0,Sat May 23 08:00:02 2020
+369,Meghalaya,Ribhoi,0,0,Sat May 23 08:00:02 2020
+370,Meghalaya,South Garo Hills,0,0,Sat May 23 08:00:02 2020
+371,Meghalaya,South West Garo Hills,0,0,Sat May 23 08:00:02 2020
+372,Meghalaya,South West Khasi Hills,0,0,Sat May 23 08:00:02 2020
+373,Meghalaya,West Garo Hills,1,0,Sat May 23 08:00:02 2020
+374,Meghalaya,West Jaintia Hills,0,0,Sat May 23 08:00:02 2020
+375,Meghalaya,West Khasi Hills,0,0,Sat May 23 08:00:02 2020
+376,Manipur,Bishnupur,0,0,Sat May 23 08:00:02 2020
+377,Manipur,Chandel,0,0,Sat May 23 08:00:02 2020
+378,Manipur,Churachandpur,16,0,Sat May 23 08:00:02 2020
+379,Manipur,Imphal East,3,0,Sat May 23 08:00:02 2020
+380,Manipur,Imphal West,5,0,Sat May 23 08:00:02 2020
+381,Manipur,Jiribam,0,0,Sat May 23 08:00:02 2020
+382,Manipur,Kakching,0,0,Sat May 23 08:00:02 2020
+383,Manipur,Kamjong,0,0,Sat May 23 08:00:02 2020
+384,Manipur,Kangpokpi,0,0,Sat May 23 08:00:02 2020
+385,Manipur,Noney,0,0,Sat May 23 08:00:02 2020
+386,Manipur,Pherzawl,0,0,Sat May 23 08:00:02 2020
+387,Manipur,Senapati,0,0,Sat May 23 08:00:02 2020
+388,Manipur,Tamenglong,0,0,Sat May 23 08:00:02 2020
+389,Manipur,Tengnoupal,0,0,Sat May 23 08:00:02 2020
+390,Manipur,Thoubal,0,0,Sat May 23 08:00:02 2020
+391,Manipur,Ukhrul,0,0,Sat May 23 08:00:02 2020
+392,Manipur,Unknown,2,0,Sat May 23 08:00:02 2020
+393,Madhya Pradesh,Agar Malwa,13,0,Sat May 23 08:00:02 2020
+394,Madhya Pradesh,Alirajpur,3,0,Sat May 23 08:00:02 2020
+395,Madhya Pradesh,Anuppur,3,0,Sat May 23 08:00:02 2020
+396,Madhya Pradesh,Ashoknagar,6,0,Sat May 23 08:00:02 2020
+397,Madhya Pradesh,Balaghat,1,0,Sat May 23 08:00:02 2020
+398,Madhya Pradesh,Barwani,39,0,Sat May 23 08:00:02 2020
+399,Madhya Pradesh,Betul,9,0,Sat May 23 08:00:02 2020
+400,Madhya Pradesh,Bhind,44,2,Sat May 23 08:00:02 2020
+401,Madhya Pradesh,Bhopal,1153,38,Sat May 23 08:00:02 2020
+402,Madhya Pradesh,Burhanpur,209,3,Sat May 23 08:00:02 2020
+403,Madhya Pradesh,Chhatarpur,2,0,Sat May 23 08:00:02 2020
+404,Madhya Pradesh,Chhindwara,5,0,Sat May 23 08:00:02 2020
+405,Madhya Pradesh,Damoh,6,0,Sat May 23 08:00:02 2020
+406,Madhya Pradesh,Datia,4,0,Sat May 23 08:00:02 2020
+407,Madhya Pradesh,Dewas,73,4,Sat May 23 08:00:02 2020
+408,Madhya Pradesh,Dhar,107,0,Sat May 23 08:00:02 2020
+409,Madhya Pradesh,Dindori,5,1,Sat May 23 08:00:02 2020
+410,Madhya Pradesh,Guna,1,0,Sat May 23 08:00:02 2020
+411,Madhya Pradesh,Gwalior,90,7,Sat May 23 08:00:02 2020
+412,Madhya Pradesh,Harda,3,0,Sat May 23 08:00:02 2020
+413,Madhya Pradesh,Hoshangabad,37,0,Sat May 23 08:00:02 2020
+414,Madhya Pradesh,Indore,2850,76,Sat May 23 08:00:02 2020
+415,Madhya Pradesh,Jabalpur,194,2,Sat May 23 08:00:02 2020
+416,Madhya Pradesh,Jhabua,11,0,Sat May 23 08:00:02 2020
+417,Madhya Pradesh,Katni,0,0,Sat May 23 08:00:02 2020
+418,Madhya Pradesh,Khandwa,208,0,Sat May 23 08:00:02 2020
+419,Madhya Pradesh,Khargone,114,0,Sat May 23 08:00:02 2020
+420,Madhya Pradesh,Mandla,1,0,Sat May 23 08:00:02 2020
+421,Madhya Pradesh,Mandsaur,83,1,Sat May 23 08:00:02 2020
+422,Madhya Pradesh,Morena,67,9,Sat May 23 08:00:02 2020
+423,Madhya Pradesh,Narsinghpur,0,0,Sat May 23 08:00:02 2020
+424,Madhya Pradesh,Neemuch,58,0,Sat May 23 08:00:02 2020
+425,Madhya Pradesh,Niwari,0,0,Sat May 23 08:00:02 2020
+426,Madhya Pradesh,Other Region,0,0,Sat May 23 08:00:02 2020
+427,Madhya Pradesh,Panna,3,0,Sat May 23 08:00:02 2020
+428,Madhya Pradesh,Raisen,67,0,Sat May 23 08:00:02 2020
+429,Madhya Pradesh,Rajgarh,2,0,Sat May 23 08:00:02 2020
+430,Madhya Pradesh,Ratlam,30,1,Sat May 23 08:00:02 2020
+431,Madhya Pradesh,Rewa,26,4,Sat May 23 08:00:02 2020
+432,Madhya Pradesh,Sagar,57,6,Sat May 23 08:00:02 2020
+433,Madhya Pradesh,Satna,12,2,Sat May 23 08:00:02 2020
+434,Madhya Pradesh,Sehore,5,0,Sat May 23 08:00:02 2020
+435,Madhya Pradesh,Seoni,2,1,Sat May 23 08:00:02 2020
+436,Madhya Pradesh,Shahdol,4,0,Sat May 23 08:00:02 2020
+437,Madhya Pradesh,Shajapur,9,0,Sat May 23 08:00:02 2020
+438,Madhya Pradesh,Sheopur,5,0,Sat May 23 08:00:02 2020
+439,Madhya Pradesh,Shivpuri,5,1,Sat May 23 08:00:02 2020
+440,Madhya Pradesh,Sidhi,8,0,Sat May 23 08:00:02 2020
+441,Madhya Pradesh,Singrauli,7,6,Sat May 23 08:00:02 2020
+442,Madhya Pradesh,Tikamgarh,6,0,Sat May 23 08:00:02 2020
+443,Madhya Pradesh,Ujjain,504,23,Sat May 23 08:00:02 2020
+444,Madhya Pradesh,Umaria,2,1,Sat May 23 08:00:02 2020
+445,Madhya Pradesh,Vidisha,17,1,Sat May 23 08:00:02 2020
+446,Mizoram,Aizawl,1,0,Sat May 23 08:00:02 2020
+447,Mizoram,Champhai,0,0,Sat May 23 08:00:02 2020
+448,Mizoram,Hnahthial,0,0,Sat May 23 08:00:02 2020
+449,Mizoram,Khawzawl,0,0,Sat May 23 08:00:02 2020
+450,Mizoram,Kolasib,0,0,Sat May 23 08:00:02 2020
+451,Mizoram,Lawngtlai,0,0,Sat May 23 08:00:02 2020
+452,Mizoram,Lunglei,0,0,Sat May 23 08:00:02 2020
+453,Mizoram,Mamit,0,0,Sat May 23 08:00:02 2020
+454,Mizoram,Saiha,0,0,Sat May 23 08:00:02 2020
+455,Mizoram,Saitual,0,0,Sat May 23 08:00:02 2020
+456,Mizoram,Serchhip,0,0,Sat May 23 08:00:02 2020
+457,Nagaland,Dimapur,0,0,Sat May 23 08:00:02 2020
+458,Nagaland,Kiphire,0,0,Sat May 23 08:00:02 2020
+459,Nagaland,Kohima,0,0,Sat May 23 08:00:02 2020
+460,Nagaland,Longleng,0,0,Sat May 23 08:00:02 2020
+461,Nagaland,Mokokchung,0,0,Sat May 23 08:00:02 2020
+462,Nagaland,Mon,0,0,Sat May 23 08:00:02 2020
+463,Nagaland,Peren,0,0,Sat May 23 08:00:02 2020
+464,Nagaland,Phek,0,0,Sat May 23 08:00:02 2020
+465,Nagaland,Tuensang,0,0,Sat May 23 08:00:02 2020
+466,Nagaland,Wokha,0,0,Sat May 23 08:00:02 2020
+467,Nagaland,Zunheboto,0,0,Sat May 23 08:00:02 2020
+468,Odisha,Angul,19,0,Sat May 23 08:00:02 2020
+469,Odisha,Balangir,6,0,Sat May 23 08:00:02 2020
+470,Odisha,Balasore,127,5,Sat May 23 08:00:02 2020
+471,Odisha,Bargarh,0,0,Sat May 23 08:00:02 2020
+472,Odisha,Bhadrak,98,3,Sat May 23 08:00:02 2020
+473,Odisha,Boudh,33,0,Sat May 23 08:00:02 2020
+474,Odisha,Cuttack,56,11,Sat May 23 08:00:02 2020
+475,Odisha,Deogarh,2,0,Sat May 23 08:00:02 2020
+476,Odisha,Dhenkanal,2,0,Sat May 23 08:00:02 2020
+477,Odisha,Gajapati,0,0,Sat May 23 08:00:02 2020
+478,Odisha,Ganjam,322,5,Sat May 23 08:00:02 2020
+479,Odisha,Jagatsinghpur,30,0,Sat May 23 08:00:02 2020
+480,Odisha,Jajpur,225,46,Sat May 23 08:00:02 2020
+481,Odisha,Jharsuguda,2,0,Sat May 23 08:00:02 2020
+482,Odisha,Kalahandi,13,0,Sat May 23 08:00:02 2020
+483,Odisha,Kandhamal,3,0,Sat May 23 08:00:02 2020
+484,Odisha,Kendrapara,40,0,Sat May 23 08:00:02 2020
+485,Odisha,Kendujhar,11,3,Sat May 23 08:00:02 2020
+486,Odisha,Khordha,74,3,Sat May 23 08:00:02 2020
+487,Odisha,Koraput,1,0,Sat May 23 08:00:02 2020
+488,Odisha,Malkangiri,3,0,Sat May 23 08:00:02 2020
+489,Odisha,Mayurbhanj,14,0,Sat May 23 08:00:02 2020
+490,Odisha,Nabarangapur,0,0,Sat May 23 08:00:02 2020
+491,Odisha,Nayagarh,27,6,Sat May 23 08:00:02 2020
+492,Odisha,Nuapada,0,0,Sat May 23 08:00:02 2020
+493,Odisha,Puri,48,3,Sat May 23 08:00:02 2020
+494,Odisha,Rayagada,0,0,Sat May 23 08:00:02 2020
+495,Odisha,Sambalpur,5,0,Sat May 23 08:00:02 2020
+496,Odisha,Subarnapur,0,0,Sat May 23 08:00:02 2020
+497,Odisha,Sundargarh,28,1,Sat May 23 08:00:02 2020
+498,Punjab,Amritsar,312,-1,Sat May 23 08:00:02 2020
+499,Punjab,Barnala,22,0,Sat May 23 08:00:02 2020
+500,Punjab,Bathinda,41,0,Sat May 23 08:00:02 2020
+501,Punjab,Faridkot,61,0,Sat May 23 08:00:02 2020
+502,Punjab,Fatehgarh Sahib,57,1,Sat May 23 08:00:02 2020
+503,Punjab,Fazilka,44,0,Sat May 23 08:00:02 2020
+504,Punjab,Ferozepur,44,0,Sat May 23 08:00:02 2020
+505,Punjab,Gurdaspur,129,0,Sat May 23 08:00:02 2020
+506,Punjab,Hoshiarpur,102,0,Sat May 23 08:00:02 2020
+507,Punjab,Jalandhar,210,0,Sat May 23 08:00:02 2020
+508,Punjab,Kapurthala,34,0,Sat May 23 08:00:02 2020
+509,Punjab,Ludhiana,172,1,Sat May 23 08:00:02 2020
+510,Punjab,Mansa,32,0,Sat May 23 08:00:02 2020
+511,Punjab,Moga,59,0,Sat May 23 08:00:02 2020
+512,Punjab,Pathankot,31,0,Sat May 23 08:00:02 2020
+513,Punjab,Patiala,104,0,Sat May 23 08:00:02 2020
+514,Punjab,Rupnagar,60,0,Sat May 23 08:00:02 2020
+515,Punjab,S.A.S. Nagar,102,0,Sat May 23 08:00:02 2020
+516,Punjab,Sangrur,88,0,Sat May 23 08:00:02 2020
+517,Punjab,Shahid Bhagat Singh Nagar,105,0,Sat May 23 08:00:02 2020
+518,Punjab,Sri Muktsar Sahib,65,0,Sat May 23 08:00:02 2020
+519,Punjab,Tarn Taran,155,0,Sat May 23 08:00:02 2020
+520,Puducherry,Karaikal,2,0,Sat May 23 08:00:02 2020
+521,Puducherry,Mahe,4,1,Sat May 23 08:00:02 2020
+522,Puducherry,Puducherry,20,2,Sat May 23 08:00:02 2020
+523,Puducherry,Yanam,0,0,Sat May 23 08:00:02 2020
+524,Rajasthan,Ajmer,279,6,Sat May 23 08:00:02 2020
+525,Rajasthan,Alwar,40,0,Sat May 23 08:00:02 2020
+526,Rajasthan,Banswara,84,9,Sat May 23 08:00:02 2020
+527,Rajasthan,Baran,5,0,Sat May 23 08:00:02 2020
+528,Rajasthan,Barmer,70,14,Sat May 23 08:00:02 2020
+529,Rajasthan,Bharatpur,134,4,Sat May 23 08:00:02 2020
+530,Rajasthan,Bhilwara,99,7,Sat May 23 08:00:02 2020
+531,Rajasthan,Bikaner,72,1,Sat May 23 08:00:02 2020
+532,Rajasthan,BSF Camp,50,0,Sat May 23 08:00:02 2020
+533,Rajasthan,Bundi,0,0,Sat May 23 08:00:02 2020
+534,Rajasthan,Chittorgarh,169,1,Sat May 23 08:00:02 2020
+535,Rajasthan,Churu,64,4,Sat May 23 08:00:02 2020
+536,Rajasthan,Dausa,41,2,Sat May 23 08:00:02 2020
+537,Rajasthan,Dholpur,36,8,Sat May 23 08:00:02 2020
+538,Rajasthan,Dungarpur,302,27,Sat May 23 08:00:02 2020
+539,Rajasthan,Evacuees,61,0,Sat May 23 08:00:02 2020
+540,Rajasthan,Ganganagar,1,0,Sat May 23 08:00:02 2020
+541,Rajasthan,Hanumangarh,14,0,Sat May 23 08:00:02 2020
+542,Rajasthan,Italians,2,0,Sat May 23 08:00:02 2020
+543,Rajasthan,Jaipur,1715,29,Sat May 23 08:00:02 2020
+544,Rajasthan,Jaisalmer,64,3,Sat May 23 08:00:02 2020
+545,Rajasthan,Jalore,136,6,Sat May 23 08:00:02 2020
+546,Rajasthan,Jhalawar,52,0,Sat May 23 08:00:02 2020
+547,Rajasthan,Jhunjhunu,77,6,Sat May 23 08:00:02 2020
+548,Rajasthan,Jodhpur,1163,21,Sat May 23 08:00:02 2020
+549,Rajasthan,Karauli,10,0,Sat May 23 08:00:02 2020
+550,Rajasthan,Kota,359,20,Sat May 23 08:00:02 2020
+551,Rajasthan,Nagaur,256,27,Sat May 23 08:00:02 2020
+552,Rajasthan,Other State,10,1,Sat May 23 08:00:02 2020
+553,Rajasthan,Pali,257,30,Sat May 23 08:00:02 2020
+554,Rajasthan,Pratapgarh,12,2,Sat May 23 08:00:02 2020
+555,Rajasthan,Rajsamand,69,1,Sat May 23 08:00:02 2020
+556,Rajasthan,Sawai Madhopur,17,0,Sat May 23 08:00:02 2020
+557,Rajasthan,Sikar,77,8,Sat May 23 08:00:02 2020
+558,Rajasthan,Sirohi,96,18,Sat May 23 08:00:02 2020
+559,Rajasthan,Tonk,156,0,Sat May 23 08:00:02 2020
+560,Rajasthan,Udaipur,445,12,Sat May 23 08:00:02 2020
+561,Sikkim,East District,0,0,Sat May 23 08:00:02 2020
+562,Sikkim,North District,0,0,Sat May 23 08:00:02 2020
+563,Sikkim,South District,0,0,Sat May 23 08:00:02 2020
+564,Sikkim,West District,0,0,Sat May 23 08:00:02 2020
+565,Telangana,Other State,116,19,Sat May 23 08:00:02 2020
+566,Telangana,Adilabad,21,0,Sat May 23 08:00:02 2020
+567,Telangana,Bhadradri Kothagudem,4,0,Sat May 23 08:00:02 2020
+568,Telangana,Hyderabad,1124,42,Sat May 23 08:00:02 2020
+569,Telangana,Jagtial,4,0,Sat May 23 08:00:02 2020
+570,Telangana,Jangaon,3,0,Sat May 23 08:00:02 2020
+571,Telangana,Jayashankar Bhupalapally,3,0,Sat May 23 08:00:02 2020
+572,Telangana,Jogulamba Gadwal,45,0,Sat May 23 08:00:02 2020
+573,Telangana,Kamareddy,12,0,Sat May 23 08:00:02 2020
+574,Telangana,Karimnagar,19,0,Sat May 23 08:00:02 2020
+575,Telangana,Khammam,8,0,Sat May 23 08:00:02 2020
+576,Telangana,Komaram Bheem,7,0,Sat May 23 08:00:02 2020
+577,Telangana,Mahabubabad,1,0,Sat May 23 08:00:02 2020
+578,Telangana,Mahabubnagar,11,0,Sat May 23 08:00:02 2020
+579,Telangana,Mancherial,1,0,Sat May 23 08:00:02 2020
+580,Telangana,Medak,5,0,Sat May 23 08:00:02 2020
+581,Telangana,Medchal Malkajgiri,25,0,Sat May 23 08:00:02 2020
+582,Telangana,Mulugu,2,0,Sat May 23 08:00:02 2020
+583,Telangana,Nagarkurnool,2,0,Sat May 23 08:00:02 2020
+584,Telangana,Nalgonda,17,0,Sat May 23 08:00:02 2020
+585,Telangana,Narayanpet,1,0,Sat May 23 08:00:02 2020
+586,Telangana,Nirmal,20,0,Sat May 23 08:00:02 2020
+587,Telangana,Nizamabad,61,0,Sat May 23 08:00:02 2020
+588,Telangana,Peddapalli,2,0,Sat May 23 08:00:02 2020
+589,Telangana,Rajanna Sircilla,3,0,Sat May 23 08:00:02 2020
+590,Telangana,Ranga Reddy,47,1,Sat May 23 08:00:02 2020
+591,Telangana,Sangareddy,9,0,Sat May 23 08:00:02 2020
+592,Telangana,Siddipet,1,0,Sat May 23 08:00:02 2020
+593,Telangana,Suryapet,83,0,Sat May 23 08:00:02 2020
+594,Telangana,Vikarabad,37,0,Sat May 23 08:00:02 2020
+595,Telangana,Wanaparthy,0,0,Sat May 23 08:00:02 2020
+596,Telangana,Warangal Rural,0,0,Sat May 23 08:00:02 2020
+597,Telangana,Warangal Urban,27,0,Sat May 23 08:00:02 2020
+598,Telangana,Yadadri Bhuvanagiri,0,0,Sat May 23 08:00:02 2020
+599,Telangana,Unknown,40,0,Sat May 23 08:00:02 2020
+600,Tamil Nadu,Railway Quarantine,5,0,Sat May 23 08:00:02 2020
+601,Tamil Nadu,Airport Quarantine,62,1,Sat May 23 08:00:02 2020
+602,Tamil Nadu,Other State,1,0,Sat May 23 08:00:02 2020
+603,Tamil Nadu,Ariyalur,355,0,Sat May 23 08:00:02 2020
+604,Tamil Nadu,Chengalpattu,691,40,Sat May 23 08:00:02 2020
+605,Tamil Nadu,Chennai,9370,569,Sat May 23 08:00:02 2020
+606,Tamil Nadu,Coimbatore,145,0,Sat May 23 08:00:02 2020
+607,Tamil Nadu,Cuddalore,421,0,Sat May 23 08:00:02 2020
+608,Tamil Nadu,Dharmapuri,5,0,Sat May 23 08:00:02 2020
+609,Tamil Nadu,Dindigul,133,1,Sat May 23 08:00:02 2020
+610,Tamil Nadu,Erode,71,1,Sat May 23 08:00:02 2020
+611,Tamil Nadu,Kallakurichi,121,1,Sat May 23 08:00:02 2020
+612,Tamil Nadu,Kancheepuram,246,13,Sat May 23 08:00:02 2020
+613,Tamil Nadu,Kanyakumari,49,0,Sat May 23 08:00:02 2020
+614,Tamil Nadu,Karur,80,0,Sat May 23 08:00:02 2020
+615,Tamil Nadu,Krishnagiri,22,1,Sat May 23 08:00:02 2020
+616,Tamil Nadu,Madurai,224,33,Sat May 23 08:00:02 2020
+617,Tamil Nadu,Nagapattinam,51,0,Sat May 23 08:00:02 2020
+618,Tamil Nadu,Namakkal,77,0,Sat May 23 08:00:02 2020
+619,Tamil Nadu,Nilgiris,14,0,Sat May 23 08:00:02 2020
+620,Tamil Nadu,Perambalur,139,0,Sat May 23 08:00:02 2020
+621,Tamil Nadu,Pudukkottai,19,3,Sat May 23 08:00:02 2020
+622,Tamil Nadu,Ramanathapuram,52,13,Sat May 23 08:00:02 2020
+623,Tamil Nadu,Ranipet,89,1,Sat May 23 08:00:02 2020
+624,Tamil Nadu,Salem,49,0,Sat May 23 08:00:02 2020
+625,Tamil Nadu,Sivaganga,28,0,Sat May 23 08:00:02 2020
+626,Tamil Nadu,Tenkasi,83,0,Sat May 23 08:00:02 2020
+627,Tamil Nadu,Thanjavur,80,0,Sat May 23 08:00:02 2020
+628,Tamil Nadu,Theni,101,5,Sat May 23 08:00:02 2020
+629,Tamil Nadu,Thiruvallur,675,39,Sat May 23 08:00:02 2020
+630,Tamil Nadu,Thiruvarur,35,3,Sat May 23 08:00:02 2020
+631,Tamil Nadu,Thoothukkudi,143,9,Sat May 23 08:00:02 2020
+632,Tamil Nadu,Tiruchirappalli,72,4,Sat May 23 08:00:02 2020
+633,Tamil Nadu,Tirunelveli,272,18,Sat May 23 08:00:02 2020
+634,Tamil Nadu,Tirupathur,30,0,Sat May 23 08:00:02 2020
+635,Tamil Nadu,Tiruppur,114,0,Sat May 23 08:00:02 2020
+636,Tamil Nadu,Tiruvannamalai,172,2,Sat May 23 08:00:02 2020
+637,Tamil Nadu,Vellore,39,3,Sat May 23 08:00:02 2020
+638,Tamil Nadu,Viluppuram,323,0,Sat May 23 08:00:02 2020
+639,Tamil Nadu,Virudhunagar,95,26,Sat May 23 08:00:02 2020
+640,Tripura,Dhalai,162,0,Sat May 23 08:00:02 2020
+641,Tripura,Gomati,2,0,Sat May 23 08:00:02 2020
+642,Tripura,Khowai,1,0,Sat May 23 08:00:02 2020
+643,Tripura,North Tripura,4,0,Sat May 23 08:00:02 2020
+644,Tripura,Sipahijala,2,0,Sat May 23 08:00:02 2020
+645,Tripura,South Tripura,0,0,Sat May 23 08:00:02 2020
+646,Tripura,Unokoti,0,0,Sat May 23 08:00:02 2020
+647,Tripura,West Tripura,0,0,Sat May 23 08:00:02 2020
+648,Tripura,Unknown,4,0,Sat May 23 08:00:02 2020
+649,Uttar Pradesh,Agra,839,-6,Sat May 23 08:00:02 2020
+650,Uttar Pradesh,Aligarh,115,5,Sat May 23 08:00:02 2020
+651,Uttar Pradesh,Ambedkar Nagar,31,0,Sat May 23 08:00:02 2020
+652,Uttar Pradesh,Amethi,31,0,Sat May 23 08:00:02 2020
+653,Uttar Pradesh,Amroha,43,4,Sat May 23 08:00:02 2020
+654,Uttar Pradesh,Auraiya,22,2,Sat May 23 08:00:02 2020
+655,Uttar Pradesh,Ayodhya,53,6,Sat May 23 08:00:02 2020
+656,Uttar Pradesh,Azamgarh,31,0,Sat May 23 08:00:02 2020
+657,Uttar Pradesh,Baghpat,27,0,Sat May 23 08:00:02 2020
+658,Uttar Pradesh,Bahraich,68,2,Sat May 23 08:00:02 2020
+659,Uttar Pradesh,Ballia,14,1,Sat May 23 08:00:02 2020
+660,Uttar Pradesh,Balrampur,34,2,Sat May 23 08:00:02 2020
+661,Uttar Pradesh,Banda,23,1,Sat May 23 08:00:02 2020
+662,Uttar Pradesh,Barabanki,133,0,Sat May 23 08:00:02 2020
+663,Uttar Pradesh,Bareilly,30,4,Sat May 23 08:00:02 2020
+664,Uttar Pradesh,Basti,120,0,Sat May 23 08:00:02 2020
+665,Uttar Pradesh,Bhadohi,14,3,Sat May 23 08:00:02 2020
+666,Uttar Pradesh,Bijnor,65,3,Sat May 23 08:00:02 2020
+667,Uttar Pradesh,Budaun,34,17,Sat May 23 08:00:02 2020
+668,Uttar Pradesh,Bulandshahr,103,0,Sat May 23 08:00:02 2020
+669,Uttar Pradesh,Chandauli,15,0,Sat May 23 08:00:02 2020
+670,Uttar Pradesh,Chitrakoot,20,1,Sat May 23 08:00:02 2020
+671,Uttar Pradesh,Deoria,30,0,Sat May 23 08:00:02 2020
+672,Uttar Pradesh,Etah,13,0,Sat May 23 08:00:02 2020
+673,Uttar Pradesh,Etawah,28,8,Sat May 23 08:00:02 2020
+674,Uttar Pradesh,Farrukhabad,22,0,Sat May 23 08:00:02 2020
+675,Uttar Pradesh,Fatehpur,33,4,Sat May 23 08:00:02 2020
+676,Uttar Pradesh,Firozabad,208,4,Sat May 23 08:00:02 2020
+677,Uttar Pradesh,Gautam Buddha Nagar,317,5,Sat May 23 08:00:02 2020
+678,Uttar Pradesh,Ghaziabad,214,6,Sat May 23 08:00:02 2020
+679,Uttar Pradesh,Ghazipur,75,14,Sat May 23 08:00:02 2020
+680,Uttar Pradesh,Gonda,39,3,Sat May 23 08:00:02 2020
+681,Uttar Pradesh,Gorakhpur,29,0,Sat May 23 08:00:02 2020
+682,Uttar Pradesh,Hamirpur,4,0,Sat May 23 08:00:02 2020
+683,Uttar Pradesh,Hapur,91,2,Sat May 23 08:00:02 2020
+684,Uttar Pradesh,Hardoi,23,1,Sat May 23 08:00:02 2020
+685,Uttar Pradesh,Hathras,21,1,Sat May 23 08:00:02 2020
+686,Uttar Pradesh,Jalaun,42,0,Sat May 23 08:00:02 2020
+687,Uttar Pradesh,Jaunpur,91,43,Sat May 23 08:00:02 2020
+688,Uttar Pradesh,Jhansi,30,0,Sat May 23 08:00:02 2020
+689,Uttar Pradesh,Kannauj,28,0,Sat May 23 08:00:02 2020
+690,Uttar Pradesh,Kanpur Dehat,8,1,Sat May 23 08:00:02 2020
+691,Uttar Pradesh,Kanpur Nagar,323,0,Sat May 23 08:00:02 2020
+692,Uttar Pradesh,Kasganj,13,0,Sat May 23 08:00:02 2020
+693,Uttar Pradesh,Kaushambi,44,-1,Sat May 23 08:00:02 2020
+694,Uttar Pradesh,Kushinagar,7,0,Sat May 23 08:00:02 2020
+695,Uttar Pradesh,Lakhimpur Kheri,48,7,Sat May 23 08:00:02 2020
+696,Uttar Pradesh,Lalitpur,1,0,Sat May 23 08:00:02 2020
+697,Uttar Pradesh,Lucknow,314,4,Sat May 23 08:00:02 2020
+698,Uttar Pradesh,Maharajganj,32,1,Sat May 23 08:00:02 2020
+699,Uttar Pradesh,Mahoba,3,0,Sat May 23 08:00:02 2020
+700,Uttar Pradesh,Mainpuri,25,1,Sat May 23 08:00:02 2020
+701,Uttar Pradesh,Mathura,60,1,Sat May 23 08:00:02 2020
+702,Uttar Pradesh,Mau,13,0,Sat May 23 08:00:02 2020
+703,Uttar Pradesh,Meerut,347,4,Sat May 23 08:00:02 2020
+704,Uttar Pradesh,Mirzapur,25,0,Sat May 23 08:00:02 2020
+705,Uttar Pradesh,Moradabad,175,2,Sat May 23 08:00:02 2020
+706,Uttar Pradesh,Muzaffarnagar,39,4,Sat May 23 08:00:02 2020
+707,Uttar Pradesh,Pilibhit,38,3,Sat May 23 08:00:02 2020
+708,Uttar Pradesh,Pratapgarh,59,2,Sat May 23 08:00:02 2020
+709,Uttar Pradesh,Prayagraj,65,7,Sat May 23 08:00:02 2020
+710,Uttar Pradesh,Rae Bareli,61,3,Sat May 23 08:00:02 2020
+711,Uttar Pradesh,Rampur,111,6,Sat May 23 08:00:02 2020
+712,Uttar Pradesh,Saharanpur,227,8,Sat May 23 08:00:02 2020
+713,Uttar Pradesh,Sambhal,57,0,Sat May 23 08:00:02 2020
+714,Uttar Pradesh,Sant Kabir Nagar,52,6,Sat May 23 08:00:02 2020
+715,Uttar Pradesh,Shahjahanpur,14,1,Sat May 23 08:00:02 2020
+716,Uttar Pradesh,Shamli,37,0,Sat May 23 08:00:02 2020
+717,Uttar Pradesh,Shrawasti,29,1,Sat May 23 08:00:02 2020
+718,Uttar Pradesh,Siddharthnagar,75,12,Sat May 23 08:00:02 2020
+719,Uttar Pradesh,Sitapur,39,5,Sat May 23 08:00:02 2020
+720,Uttar Pradesh,Sonbhadra,3,0,Sat May 23 08:00:02 2020
+721,Uttar Pradesh,Sultanpur,42,0,Sat May 23 08:00:02 2020
+722,Uttar Pradesh,Unnao,22,6,Sat May 23 08:00:02 2020
+723,Uttar Pradesh,Varanasi,124,0,Sat May 23 08:00:02 2020
+724,Uttarakhand,Almora,4,0,Sat May 23 08:00:02 2020
+725,Uttarakhand,Bageshwar,6,-5,Sat May 23 08:00:02 2020
+726,Uttarakhand,Chamoli,1,0,Sat May 23 08:00:02 2020
+727,Uttarakhand,Champawat,0,0,Sat May 23 08:00:02 2020
+728,Uttarakhand,Dehradun,54,7,Sat May 23 08:00:02 2020
+729,Uttarakhand,Haridwar,12,2,Sat May 23 08:00:02 2020
+730,Uttarakhand,Nainital,28,1,Sat May 23 08:00:02 2020
+731,Uttarakhand,Pauri Garhwal,4,0,Sat May 23 08:00:02 2020
+732,Uttarakhand,Pithoragarh,0,0,Sat May 23 08:00:02 2020
+733,Uttarakhand,Rudraprayag,0,0,Sat May 23 08:00:02 2020
+734,Uttarakhand,Tehri Garhwal,6,0,Sat May 23 08:00:02 2020
+735,Uttarakhand,Udham Singh Nagar,31,2,Sat May 23 08:00:02 2020
+736,Uttarakhand,Uttarkashi,7,1,Sat May 23 08:00:02 2020
+737,West Bengal,Alipurduar,0,0,Sat May 23 08:00:02 2020
+738,West Bengal,Bankura,0,0,Sat May 23 08:00:02 2020
+739,West Bengal,Birbhum,17,1,Sat May 23 08:00:02 2020
+740,West Bengal,Cooch Behar,0,0,Sat May 23 08:00:02 2020
+741,West Bengal,Dakshin Dinajpur,3,0,Sat May 23 08:00:02 2020
+742,West Bengal,Darjeeling,10,0,Sat May 23 08:00:02 2020
+743,West Bengal,Hooghly,170,13,Sat May 23 08:00:02 2020
+744,West Bengal,Howrah,732,74,Sat May 23 08:00:02 2020
+745,West Bengal,Jalpaiguri,4,0,Sat May 23 08:00:02 2020
+746,West Bengal,Jhargram,3,0,Sat May 23 08:00:02 2020
+747,West Bengal,Kalimpong,7,0,Sat May 23 08:00:02 2020
+748,West Bengal,Kolkata,1570,21,Sat May 23 08:00:02 2020
+749,West Bengal,Malda,48,2,Sat May 23 08:00:02 2020
+750,West Bengal,Murshidabad,28,12,Sat May 23 08:00:02 2020
+751,West Bengal,Nadia,19,2,Sat May 23 08:00:02 2020
+752,West Bengal,North 24 Parganas,437,7,Sat May 23 08:00:02 2020
+753,West Bengal,Other State,25,0,Sat May 23 08:00:02 2020
+754,West Bengal,Paschim Bardhaman,20,0,Sat May 23 08:00:02 2020
+755,West Bengal,Paschim Medinipur,26,0,Sat May 23 08:00:02 2020
+756,West Bengal,Purba Bardhaman,21,1,Sat May 23 08:00:02 2020
+757,West Bengal,Purba Medinipur,52,1,Sat May 23 08:00:02 2020
+758,West Bengal,Purulia,0,0,Sat May 23 08:00:02 2020
+759,West Bengal,South 24 Parganas,113,1,Sat May 23 08:00:02 2020
+760,West Bengal,Uttar Dinajpur,16,0,Sat May 23 08:00:02 2020
+761,West Bengal,Unknown,11,0,Sat May 23 08:00:02 2020
