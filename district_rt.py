@@ -11,14 +11,20 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 from airtable_getter import get_districts, write_to_airtable
+from configparser import ConfigParser
 
 from helperfuncs import prepare_cases_district, get_posteriors,\
     highest_density_interval, get_latest_file
 
+config = ConfigParser()
+config.read('config.ini')
+
+#Importing necessary environment variables
+datapath = config['data']['DataPath']
 
 # Setting up the filepaths - change this if you get an error
 try:
-    os.chdir('/home/tauro/projects/covid/data')
+    os.chdir(datapath)
     cwd = os.getcwd()
 except:
     cwd = os.getcwd()
