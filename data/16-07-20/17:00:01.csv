@@ -1,0 +1,774 @@
+,state,district,confirmed,delta,date
+0,State Unassigned,Unassigned,1435,-239,Thu Jul 16 17:00:01 2020
+1,Andaman and Nicobar Islands,Nicobars,0,0,Thu Jul 16 17:00:01 2020
+2,Andaman and Nicobar Islands,North and Middle Andaman,1,0,Thu Jul 16 17:00:01 2020
+3,Andaman and Nicobar Islands,South Andaman,51,0,Thu Jul 16 17:00:01 2020
+4,Andaman and Nicobar Islands,Unknown,124,0,Thu Jul 16 17:00:01 2020
+5,Andhra Pradesh,Foreign Evacuees,432,0,Thu Jul 16 17:00:01 2020
+6,Andhra Pradesh,Anantapur,3987,174,Thu Jul 16 17:00:01 2020
+7,Andhra Pradesh,Chittoor,3536,205,Thu Jul 16 17:00:01 2020
+8,Andhra Pradesh,East Godavari,3862,500,Thu Jul 16 17:00:01 2020
+9,Andhra Pradesh,Guntur,3963,139,Thu Jul 16 17:00:01 2020
+10,Andhra Pradesh,Krishna,2984,132,Thu Jul 16 17:00:01 2020
+11,Andhra Pradesh,Kurnool,4816,590,Thu Jul 16 17:00:01 2020
+12,Andhra Pradesh,Other State,2453,9,Thu Jul 16 17:00:01 2020
+13,Andhra Pradesh,Prakasam,1395,104,Thu Jul 16 17:00:01 2020
+14,Andhra Pradesh,S.P.S. Nellore,1590,126,Thu Jul 16 17:00:01 2020
+15,Andhra Pradesh,Srikakulam,1703,111,Thu Jul 16 17:00:01 2020
+16,Andhra Pradesh,Visakhapatnam,1693,81,Thu Jul 16 17:00:01 2020
+17,Andhra Pradesh,Vizianagaram,982,101,Thu Jul 16 17:00:01 2020
+18,Andhra Pradesh,West Godavari,2428,195,Thu Jul 16 17:00:01 2020
+19,Andhra Pradesh,Y.S.R. Kadapa,2220,126,Thu Jul 16 17:00:01 2020
+20,Arunachal Pradesh,Anjaw,4,0,Thu Jul 16 17:00:01 2020
+21,Arunachal Pradesh,Changlang,111,0,Thu Jul 16 17:00:01 2020
+22,Arunachal Pradesh,East Kameng,2,0,Thu Jul 16 17:00:01 2020
+23,Arunachal Pradesh,East Siang,22,0,Thu Jul 16 17:00:01 2020
+24,Arunachal Pradesh,Kamle,0,0,Thu Jul 16 17:00:01 2020
+25,Arunachal Pradesh,Kra Daadi,0,0,Thu Jul 16 17:00:01 2020
+26,Arunachal Pradesh,Kurung Kumey,0,0,Thu Jul 16 17:00:01 2020
+27,Arunachal Pradesh,Lepa Rada,10,0,Thu Jul 16 17:00:01 2020
+28,Arunachal Pradesh,Lohit,4,0,Thu Jul 16 17:00:01 2020
+29,Arunachal Pradesh,Longding,5,0,Thu Jul 16 17:00:01 2020
+30,Arunachal Pradesh,Lower Dibang Valley,5,0,Thu Jul 16 17:00:01 2020
+31,Arunachal Pradesh,Lower Siang,5,0,Thu Jul 16 17:00:01 2020
+32,Arunachal Pradesh,Lower Subansiri,12,0,Thu Jul 16 17:00:01 2020
+33,Arunachal Pradesh,Namsai,38,0,Thu Jul 16 17:00:01 2020
+34,Arunachal Pradesh,Pakke Kessang,1,0,Thu Jul 16 17:00:01 2020
+35,Arunachal Pradesh,Papum Pare,232,0,Thu Jul 16 17:00:01 2020
+36,Arunachal Pradesh,Shi Yomi,0,0,Thu Jul 16 17:00:01 2020
+37,Arunachal Pradesh,Siang,1,0,Thu Jul 16 17:00:01 2020
+38,Arunachal Pradesh,Tawang,1,0,Thu Jul 16 17:00:01 2020
+39,Arunachal Pradesh,Tirap,6,0,Thu Jul 16 17:00:01 2020
+40,Arunachal Pradesh,Upper Dibang Valley,0,0,Thu Jul 16 17:00:01 2020
+41,Arunachal Pradesh,Upper Siang,1,0,Thu Jul 16 17:00:01 2020
+42,Arunachal Pradesh,Upper Subansiri,1,0,Thu Jul 16 17:00:01 2020
+43,Arunachal Pradesh,West Kameng,28,0,Thu Jul 16 17:00:01 2020
+44,Arunachal Pradesh,West Siang,2,0,Thu Jul 16 17:00:01 2020
+45,Assam,Airport Quarantine,4,0,Thu Jul 16 17:00:01 2020
+46,Assam,Baksa,85,0,Thu Jul 16 17:00:01 2020
+47,Assam,Barpeta,467,0,Thu Jul 16 17:00:01 2020
+48,Assam,Biswanath,58,0,Thu Jul 16 17:00:01 2020
+49,Assam,Bongaigaon,155,0,Thu Jul 16 17:00:01 2020
+50,Assam,Cachar,351,0,Thu Jul 16 17:00:01 2020
+51,Assam,Charaideo,16,0,Thu Jul 16 17:00:01 2020
+52,Assam,Chirang,78,0,Thu Jul 16 17:00:01 2020
+53,Assam,Darrang,430,0,Thu Jul 16 17:00:01 2020
+54,Assam,Dhemaji,96,0,Thu Jul 16 17:00:01 2020
+55,Assam,Dhubri,490,0,Thu Jul 16 17:00:01 2020
+56,Assam,Dibrugarh,334,0,Thu Jul 16 17:00:01 2020
+57,Assam,Dima Hasao,136,0,Thu Jul 16 17:00:01 2020
+58,Assam,Goalpara,57,0,Thu Jul 16 17:00:01 2020
+59,Assam,Golaghat,616,0,Thu Jul 16 17:00:01 2020
+60,Assam,Hailakandi,540,0,Thu Jul 16 17:00:01 2020
+61,Assam,Hojai,267,0,Thu Jul 16 17:00:01 2020
+62,Assam,Jorhat,228,0,Thu Jul 16 17:00:01 2020
+63,Assam,Kamrup,215,0,Thu Jul 16 17:00:01 2020
+64,Assam,Kamrup Metropolitan,8832,0,Thu Jul 16 17:00:01 2020
+65,Assam,Karbi Anglong,223,0,Thu Jul 16 17:00:01 2020
+66,Assam,Karimganj,211,0,Thu Jul 16 17:00:01 2020
+67,Assam,Kokrajhar,86,0,Thu Jul 16 17:00:01 2020
+68,Assam,Lakhimpur,202,0,Thu Jul 16 17:00:01 2020
+69,Assam,Majuli,21,0,Thu Jul 16 17:00:01 2020
+70,Assam,Morigaon,211,0,Thu Jul 16 17:00:01 2020
+71,Assam,Nagaon,330,0,Thu Jul 16 17:00:01 2020
+72,Assam,Nalbari,145,0,Thu Jul 16 17:00:01 2020
+73,Assam,Other State,1,0,Thu Jul 16 17:00:01 2020
+74,Assam,Sivasagar,33,0,Thu Jul 16 17:00:01 2020
+75,Assam,Sonitpur,468,0,Thu Jul 16 17:00:01 2020
+76,Assam,South Salmara Mankachar,28,0,Thu Jul 16 17:00:01 2020
+77,Assam,Tinsukia,291,0,Thu Jul 16 17:00:01 2020
+78,Assam,Udalguri,236,0,Thu Jul 16 17:00:01 2020
+79,Assam,West Karbi Anglong,28,0,Thu Jul 16 17:00:01 2020
+80,Assam,Unknown,3786,0,Thu Jul 16 17:00:01 2020
+81,Bihar,Araria,213,0,Thu Jul 16 17:00:01 2020
+82,Bihar,Arwal,217,15,Thu Jul 16 17:00:01 2020
+83,Bihar,Aurangabad,350,2,Thu Jul 16 17:00:01 2020
+84,Bihar,Banka,335,15,Thu Jul 16 17:00:01 2020
+85,Bihar,Begusarai,1038,36,Thu Jul 16 17:00:01 2020
+86,Bihar,Bhagalpur,1314,55,Thu Jul 16 17:00:01 2020
+87,Bihar,Bhojpur,486,54,Thu Jul 16 17:00:01 2020
+88,Bihar,Buxar,374,22,Thu Jul 16 17:00:01 2020
+89,Bihar,Darbhanga,451,22,Thu Jul 16 17:00:01 2020
+90,Bihar,East Champaran,528,37,Thu Jul 16 17:00:01 2020
+91,Bihar,Gaya,607,42,Thu Jul 16 17:00:01 2020
+92,Bihar,Gopalganj,534,18,Thu Jul 16 17:00:01 2020
+93,Bihar,Jamui,295,59,Thu Jul 16 17:00:01 2020
+94,Bihar,Jehanabad,389,23,Thu Jul 16 17:00:01 2020
+95,Bihar,Kaimur,282,7,Thu Jul 16 17:00:01 2020
+96,Bihar,Katihar,541,8,Thu Jul 16 17:00:01 2020
+97,Bihar,Khagaria,575,21,Thu Jul 16 17:00:01 2020
+98,Bihar,Kishanganj,273,14,Thu Jul 16 17:00:01 2020
+99,Bihar,Lakhisarai,310,45,Thu Jul 16 17:00:01 2020
+100,Bihar,Madhepura,300,14,Thu Jul 16 17:00:01 2020
+101,Bihar,Madhubani,668,0,Thu Jul 16 17:00:01 2020
+102,Bihar,Munger,759,33,Thu Jul 16 17:00:01 2020
+103,Bihar,Muzaffarpur,968,68,Thu Jul 16 17:00:01 2020
+104,Bihar,Nalanda,789,93,Thu Jul 16 17:00:01 2020
+105,Bihar,Nawada,726,15,Thu Jul 16 17:00:01 2020
+106,Bihar,Patna,2880,379,Thu Jul 16 17:00:01 2020
+107,Bihar,Purnia,432,24,Thu Jul 16 17:00:01 2020
+108,Bihar,Rohtas,565,6,Thu Jul 16 17:00:01 2020
+109,Bihar,Saharsa,342,7,Thu Jul 16 17:00:01 2020
+110,Bihar,Samastipur,569,31,Thu Jul 16 17:00:01 2020
+111,Bihar,Saran,464,38,Thu Jul 16 17:00:01 2020
+112,Bihar,Sheikhpura,243,15,Thu Jul 16 17:00:01 2020
+113,Bihar,Sheohar,133,5,Thu Jul 16 17:00:01 2020
+114,Bihar,Sitamarhi,196,0,Thu Jul 16 17:00:01 2020
+115,Bihar,Siwan,919,63,Thu Jul 16 17:00:01 2020
+116,Bihar,Supaul,414,16,Thu Jul 16 17:00:01 2020
+117,Bihar,Vaishali,448,30,Thu Jul 16 17:00:01 2020
+118,Bihar,West Champaran,631,53,Thu Jul 16 17:00:01 2020
+119,Chandigarh,Chandigarh,619,0,Thu Jul 16 17:00:01 2020
+120,Chhattisgarh,Other State,3,0,Thu Jul 16 17:00:01 2020
+121,Chhattisgarh,Balod,68,0,Thu Jul 16 17:00:01 2020
+122,Chhattisgarh,Baloda Bazar,297,0,Thu Jul 16 17:00:01 2020
+123,Chhattisgarh,Balrampur,163,0,Thu Jul 16 17:00:01 2020
+124,Chhattisgarh,Bametara,91,0,Thu Jul 16 17:00:01 2020
+125,Chhattisgarh,Bastar,65,0,Thu Jul 16 17:00:01 2020
+126,Chhattisgarh,Bijapur,18,0,Thu Jul 16 17:00:01 2020
+127,Chhattisgarh,Bilaspur,318,0,Thu Jul 16 17:00:01 2020
+128,Chhattisgarh,Dakshin Bastar Dantewada,59,0,Thu Jul 16 17:00:01 2020
+129,Chhattisgarh,Dhamtari,24,0,Thu Jul 16 17:00:01 2020
+130,Chhattisgarh,Durg,247,0,Thu Jul 16 17:00:01 2020
+131,Chhattisgarh,Gariaband,60,0,Thu Jul 16 17:00:01 2020
+132,Chhattisgarh,Janjgir Champa,305,0,Thu Jul 16 17:00:01 2020
+133,Chhattisgarh,Jashpur,192,0,Thu Jul 16 17:00:01 2020
+134,Chhattisgarh,Kabeerdham,117,0,Thu Jul 16 17:00:01 2020
+135,Chhattisgarh,Kondagaon,14,0,Thu Jul 16 17:00:01 2020
+136,Chhattisgarh,Korba,345,0,Thu Jul 16 17:00:01 2020
+137,Chhattisgarh,Koriya,78,0,Thu Jul 16 17:00:01 2020
+138,Chhattisgarh,Mahasamund,92,0,Thu Jul 16 17:00:01 2020
+139,Chhattisgarh,Mungeli,132,0,Thu Jul 16 17:00:01 2020
+140,Chhattisgarh,Narayanpur,135,0,Thu Jul 16 17:00:01 2020
+141,Chhattisgarh,Raigarh,150,0,Thu Jul 16 17:00:01 2020
+142,Chhattisgarh,Raipur,918,0,Thu Jul 16 17:00:01 2020
+143,Chhattisgarh,Rajnandgaon,391,0,Thu Jul 16 17:00:01 2020
+144,Chhattisgarh,Sukma,25,0,Thu Jul 16 17:00:01 2020
+145,Chhattisgarh,Surajpur,32,0,Thu Jul 16 17:00:01 2020
+146,Chhattisgarh,Surguja,116,0,Thu Jul 16 17:00:01 2020
+147,Chhattisgarh,Uttar Bastar Kanker,92,0,Thu Jul 16 17:00:01 2020
+148,Chhattisgarh,Gaurela Pendra Marwahi,9,0,Thu Jul 16 17:00:01 2020
+149,Delhi,Central Delhi,184,0,Thu Jul 16 17:00:01 2020
+150,Delhi,East Delhi,38,0,Thu Jul 16 17:00:01 2020
+151,Delhi,New Delhi,37,0,Thu Jul 16 17:00:01 2020
+152,Delhi,North Delhi,60,0,Thu Jul 16 17:00:01 2020
+153,Delhi,North East Delhi,25,0,Thu Jul 16 17:00:01 2020
+154,Delhi,North West Delhi,32,0,Thu Jul 16 17:00:01 2020
+155,Delhi,Shahdara,48,0,Thu Jul 16 17:00:01 2020
+156,Delhi,South Delhi,70,0,Thu Jul 16 17:00:01 2020
+157,Delhi,South East Delhi,130,0,Thu Jul 16 17:00:01 2020
+158,Delhi,South West Delhi,42,0,Thu Jul 16 17:00:01 2020
+159,Delhi,West Delhi,122,0,Thu Jul 16 17:00:01 2020
+160,Delhi,Unknown,116205,0,Thu Jul 16 17:00:01 2020
+161,Dadra and Nagar Haveli and Daman and Diu,Other State,0,0,Thu Jul 16 17:00:01 2020
+162,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,244,0,Thu Jul 16 17:00:01 2020
+163,Dadra and Nagar Haveli and Daman and Diu,Daman,288,0,Thu Jul 16 17:00:01 2020
+164,Dadra and Nagar Haveli and Daman and Diu,Diu,26,0,Thu Jul 16 17:00:01 2020
+165,Goa,Other State,155,0,Thu Jul 16 17:00:01 2020
+166,Goa,North Goa,643,0,Thu Jul 16 17:00:01 2020
+167,Goa,South Goa,1482,0,Thu Jul 16 17:00:01 2020
+168,Goa,Unknown,671,0,Thu Jul 16 17:00:01 2020
+169,Gujarat,Other State,86,0,Thu Jul 16 17:00:01 2020
+170,Gujarat,Ahmedabad,23599,0,Thu Jul 16 17:00:01 2020
+171,Gujarat,Amreli,194,0,Thu Jul 16 17:00:01 2020
+172,Gujarat,Anand,325,0,Thu Jul 16 17:00:01 2020
+173,Gujarat,Aravalli,258,0,Thu Jul 16 17:00:01 2020
+174,Gujarat,Banaskantha,380,0,Thu Jul 16 17:00:01 2020
+175,Gujarat,Bharuch,472,0,Thu Jul 16 17:00:01 2020
+176,Gujarat,Bhavnagar,748,0,Thu Jul 16 17:00:01 2020
+177,Gujarat,Botad,129,0,Thu Jul 16 17:00:01 2020
+178,Gujarat,Chhota Udaipur,85,0,Thu Jul 16 17:00:01 2020
+179,Gujarat,Dahod,183,0,Thu Jul 16 17:00:01 2020
+180,Gujarat,Dang,7,0,Thu Jul 16 17:00:01 2020
+181,Gujarat,Devbhumi Dwarka,29,0,Thu Jul 16 17:00:01 2020
+182,Gujarat,Gandhinagar,974,0,Thu Jul 16 17:00:01 2020
+183,Gujarat,Gir Somnath,149,0,Thu Jul 16 17:00:01 2020
+184,Gujarat,Jamnagar,393,0,Thu Jul 16 17:00:01 2020
+185,Gujarat,Junagadh,426,0,Thu Jul 16 17:00:01 2020
+186,Gujarat,Kheda,359,0,Thu Jul 16 17:00:01 2020
+187,Gujarat,Kutch,273,0,Thu Jul 16 17:00:01 2020
+188,Gujarat,Mahisagar,195,0,Thu Jul 16 17:00:01 2020
+189,Gujarat,Mehsana,489,0,Thu Jul 16 17:00:01 2020
+190,Gujarat,Morbi,122,0,Thu Jul 16 17:00:01 2020
+191,Gujarat,Narmada,118,0,Thu Jul 16 17:00:01 2020
+192,Gujarat,Navsari,288,0,Thu Jul 16 17:00:01 2020
+193,Gujarat,Panchmahal,263,0,Thu Jul 16 17:00:01 2020
+194,Gujarat,Patan,304,0,Thu Jul 16 17:00:01 2020
+195,Gujarat,Porbandar,30,0,Thu Jul 16 17:00:01 2020
+196,Gujarat,Rajkot,767,0,Thu Jul 16 17:00:01 2020
+197,Gujarat,Sabarkantha,274,0,Thu Jul 16 17:00:01 2020
+198,Gujarat,Surat,8642,0,Thu Jul 16 17:00:01 2020
+199,Gujarat,Surendranagar,380,0,Thu Jul 16 17:00:01 2020
+200,Gujarat,Tapi,53,0,Thu Jul 16 17:00:01 2020
+201,Gujarat,Vadodara,3279,0,Thu Jul 16 17:00:01 2020
+202,Gujarat,Valsad,375,0,Thu Jul 16 17:00:01 2020
+203,Himachal Pradesh,Bilaspur,63,0,Thu Jul 16 17:00:01 2020
+204,Himachal Pradesh,Chamba,71,0,Thu Jul 16 17:00:01 2020
+205,Himachal Pradesh,Hamirpur,276,0,Thu Jul 16 17:00:01 2020
+206,Himachal Pradesh,Kangra,314,0,Thu Jul 16 17:00:01 2020
+207,Himachal Pradesh,Kinnaur,36,0,Thu Jul 16 17:00:01 2020
+208,Himachal Pradesh,Kullu,14,0,Thu Jul 16 17:00:01 2020
+209,Himachal Pradesh,Lahaul and Spiti,4,0,Thu Jul 16 17:00:01 2020
+210,Himachal Pradesh,Mandi,41,1,Thu Jul 16 17:00:01 2020
+211,Himachal Pradesh,Shimla,63,1,Thu Jul 16 17:00:01 2020
+212,Himachal Pradesh,Sirmaur,47,0,Thu Jul 16 17:00:01 2020
+213,Himachal Pradesh,Solan,268,0,Thu Jul 16 17:00:01 2020
+214,Himachal Pradesh,Una,146,0,Thu Jul 16 17:00:01 2020
+215,Haryana,Foreign Evacuees,21,0,Thu Jul 16 17:00:01 2020
+216,Haryana,Ambala,691,0,Thu Jul 16 17:00:01 2020
+217,Haryana,Bhiwani,689,0,Thu Jul 16 17:00:01 2020
+218,Haryana,Charkhi Dadri,101,0,Thu Jul 16 17:00:01 2020
+219,Haryana,Faridabad,5881,0,Thu Jul 16 17:00:01 2020
+220,Haryana,Fatehabad,178,0,Thu Jul 16 17:00:01 2020
+221,Haryana,Gurugram,7208,0,Thu Jul 16 17:00:01 2020
+222,Haryana,Hisar,509,0,Thu Jul 16 17:00:01 2020
+223,Haryana,Italians,14,0,Thu Jul 16 17:00:01 2020
+224,Haryana,Jhajjar,539,0,Thu Jul 16 17:00:01 2020
+225,Haryana,Jind,156,0,Thu Jul 16 17:00:01 2020
+226,Haryana,Kaithal,162,0,Thu Jul 16 17:00:01 2020
+227,Haryana,Karnal,563,0,Thu Jul 16 17:00:01 2020
+228,Haryana,Kurukshetra,215,0,Thu Jul 16 17:00:01 2020
+229,Haryana,Mahendragarh,519,0,Thu Jul 16 17:00:01 2020
+230,Haryana,Nuh,367,0,Thu Jul 16 17:00:01 2020
+231,Haryana,Palwal,555,0,Thu Jul 16 17:00:01 2020
+232,Haryana,Panchkula,179,0,Thu Jul 16 17:00:01 2020
+233,Haryana,Panipat,423,0,Thu Jul 16 17:00:01 2020
+234,Haryana,Rewari,735,0,Thu Jul 16 17:00:01 2020
+235,Haryana,Rohtak,1064,0,Thu Jul 16 17:00:01 2020
+236,Haryana,Sirsa,230,0,Thu Jul 16 17:00:01 2020
+237,Haryana,Sonipat,2170,0,Thu Jul 16 17:00:01 2020
+238,Haryana,Yamunanagar,137,0,Thu Jul 16 17:00:01 2020
+239,Jharkhand,Bokaro,93,0,Thu Jul 16 17:00:01 2020
+240,Jharkhand,Chatra,135,0,Thu Jul 16 17:00:01 2020
+241,Jharkhand,Deoghar,89,0,Thu Jul 16 17:00:01 2020
+242,Jharkhand,Dhanbad,323,3,Thu Jul 16 17:00:01 2020
+243,Jharkhand,Dumka,28,0,Thu Jul 16 17:00:01 2020
+244,Jharkhand,East Singhbhum,733,11,Thu Jul 16 17:00:01 2020
+245,Jharkhand,Garhwa,182,0,Thu Jul 16 17:00:01 2020
+246,Jharkhand,Giridih,171,0,Thu Jul 16 17:00:01 2020
+247,Jharkhand,Godda,31,0,Thu Jul 16 17:00:01 2020
+248,Jharkhand,Gumla,132,0,Thu Jul 16 17:00:01 2020
+249,Jharkhand,Hazaribagh,361,0,Thu Jul 16 17:00:01 2020
+250,Jharkhand,Jamtara,36,0,Thu Jul 16 17:00:01 2020
+251,Jharkhand,Khunti,37,0,Thu Jul 16 17:00:01 2020
+252,Jharkhand,Koderma,308,0,Thu Jul 16 17:00:01 2020
+253,Jharkhand,Latehar,141,0,Thu Jul 16 17:00:01 2020
+254,Jharkhand,Lohardaga,124,0,Thu Jul 16 17:00:01 2020
+255,Jharkhand,Pakur,104,0,Thu Jul 16 17:00:01 2020
+256,Jharkhand,Palamu,105,0,Thu Jul 16 17:00:01 2020
+257,Jharkhand,Ramgarh,228,0,Thu Jul 16 17:00:01 2020
+258,Jharkhand,Ranchi,565,0,Thu Jul 16 17:00:01 2020
+259,Jharkhand,Sahibganj,60,0,Thu Jul 16 17:00:01 2020
+260,Jharkhand,Saraikela-Kharsawan,111,0,Thu Jul 16 17:00:01 2020
+261,Jharkhand,Simdega,371,0,Thu Jul 16 17:00:01 2020
+262,Jharkhand,West Singhbhum,108,0,Thu Jul 16 17:00:01 2020
+263,Jammu and Kashmir,Anantnag,933,0,Thu Jul 16 17:00:01 2020
+264,Jammu and Kashmir,Bandipora,419,0,Thu Jul 16 17:00:01 2020
+265,Jammu and Kashmir,Baramulla,1381,0,Thu Jul 16 17:00:01 2020
+266,Jammu and Kashmir,Budgam,628,0,Thu Jul 16 17:00:01 2020
+267,Jammu and Kashmir,Doda,152,0,Thu Jul 16 17:00:01 2020
+268,Jammu and Kashmir,Ganderbal,211,0,Thu Jul 16 17:00:01 2020
+269,Jammu and Kashmir,Jammu,539,0,Thu Jul 16 17:00:01 2020
+270,Jammu and Kashmir,Kathua,326,0,Thu Jul 16 17:00:01 2020
+271,Jammu and Kashmir,Kishtwar,58,0,Thu Jul 16 17:00:01 2020
+272,Jammu and Kashmir,Kulgam,1076,0,Thu Jul 16 17:00:01 2020
+273,Jammu and Kashmir,Kupwara,815,0,Thu Jul 16 17:00:01 2020
+274,Jammu and Kashmir,Mirpur,0,0,Thu Jul 16 17:00:01 2020
+275,Jammu and Kashmir,Muzaffarabad,0,0,Thu Jul 16 17:00:01 2020
+276,Jammu and Kashmir,Pulwama,742,0,Thu Jul 16 17:00:01 2020
+277,Jammu and Kashmir,Punch,148,0,Thu Jul 16 17:00:01 2020
+278,Jammu and Kashmir,Rajouri,288,0,Thu Jul 16 17:00:01 2020
+279,Jammu and Kashmir,Ramban,277,0,Thu Jul 16 17:00:01 2020
+280,Jammu and Kashmir,Reasi,60,0,Thu Jul 16 17:00:01 2020
+281,Jammu and Kashmir,Samba,293,0,Thu Jul 16 17:00:01 2020
+282,Jammu and Kashmir,Shopiyan,930,0,Thu Jul 16 17:00:01 2020
+283,Jammu and Kashmir,Srinagar,2086,0,Thu Jul 16 17:00:01 2020
+284,Jammu and Kashmir,Udhampur,304,0,Thu Jul 16 17:00:01 2020
+285,Karnataka,Bagalkote,548,0,Thu Jul 16 17:00:01 2020
+286,Karnataka,Ballari,2023,0,Thu Jul 16 17:00:01 2020
+287,Karnataka,Belagavi,602,0,Thu Jul 16 17:00:01 2020
+288,Karnataka,Bengaluru Rural,409,0,Thu Jul 16 17:00:01 2020
+289,Karnataka,Bengaluru Urban,22942,0,Thu Jul 16 17:00:01 2020
+290,Karnataka,Bidar,1138,0,Thu Jul 16 17:00:01 2020
+291,Karnataka,Chamarajanagara,196,0,Thu Jul 16 17:00:01 2020
+292,Karnataka,Chikkaballapura,490,0,Thu Jul 16 17:00:01 2020
+293,Karnataka,Chikkamagaluru,170,0,Thu Jul 16 17:00:01 2020
+294,Karnataka,Chitradurga,133,0,Thu Jul 16 17:00:01 2020
+295,Karnataka,Dakshina Kannada,2520,0,Thu Jul 16 17:00:01 2020
+296,Karnataka,Davanagere,633,0,Thu Jul 16 17:00:01 2020
+297,Karnataka,Dharwad,1400,0,Thu Jul 16 17:00:01 2020
+298,Karnataka,Gadag,370,0,Thu Jul 16 17:00:01 2020
+299,Karnataka,Hassan,739,0,Thu Jul 16 17:00:01 2020
+300,Karnataka,Haveri,313,0,Thu Jul 16 17:00:01 2020
+301,Karnataka,Kalaburagi,2380,0,Thu Jul 16 17:00:01 2020
+302,Karnataka,Kodagu,218,0,Thu Jul 16 17:00:01 2020
+303,Karnataka,Kolar,332,0,Thu Jul 16 17:00:01 2020
+304,Karnataka,Koppal,357,0,Thu Jul 16 17:00:01 2020
+305,Karnataka,Mandya,787,0,Thu Jul 16 17:00:01 2020
+306,Karnataka,Mysuru,1190,0,Thu Jul 16 17:00:01 2020
+307,Karnataka,Other State,36,0,Thu Jul 16 17:00:01 2020
+308,Karnataka,Raichur,814,0,Thu Jul 16 17:00:01 2020
+309,Karnataka,Ramanagara,392,0,Thu Jul 16 17:00:01 2020
+310,Karnataka,Shivamogga,559,0,Thu Jul 16 17:00:01 2020
+311,Karnataka,Tumakuru,552,0,Thu Jul 16 17:00:01 2020
+312,Karnataka,Udupi,1787,0,Thu Jul 16 17:00:01 2020
+313,Karnataka,Uttara Kannada,746,0,Thu Jul 16 17:00:01 2020
+314,Karnataka,Vijayapura,976,0,Thu Jul 16 17:00:01 2020
+315,Karnataka,Yadgir,1501,0,Thu Jul 16 17:00:01 2020
+316,Karnataka,Unknown,0,0,Thu Jul 16 17:00:01 2020
+317,Kerala,Other State,0,0,Thu Jul 16 17:00:01 2020
+318,Kerala,Alappuzha,818,0,Thu Jul 16 17:00:01 2020
+319,Kerala,Ernakulam,664,0,Thu Jul 16 17:00:01 2020
+320,Kerala,Idukki,266,0,Thu Jul 16 17:00:01 2020
+321,Kerala,Kannur,799,0,Thu Jul 16 17:00:01 2020
+322,Kerala,Kasaragod,768,0,Thu Jul 16 17:00:01 2020
+323,Kerala,Kollam,563,0,Thu Jul 16 17:00:01 2020
+324,Kerala,Kottayam,389,0,Thu Jul 16 17:00:01 2020
+325,Kerala,Kozhikode,541,0,Thu Jul 16 17:00:01 2020
+326,Kerala,Malappuram,1113,0,Thu Jul 16 17:00:01 2020
+327,Kerala,Palakkad,947,0,Thu Jul 16 17:00:01 2020
+328,Kerala,Pathanamthitta,645,0,Thu Jul 16 17:00:01 2020
+329,Kerala,Thiruvananthapuram,1163,0,Thu Jul 16 17:00:01 2020
+330,Kerala,Thrissur,678,0,Thu Jul 16 17:00:01 2020
+331,Kerala,Wayanad,200,0,Thu Jul 16 17:00:01 2020
+332,Ladakh,Kargil,725,0,Thu Jul 16 17:00:01 2020
+333,Ladakh,Leh,417,0,Thu Jul 16 17:00:01 2020
+334,Lakshadweep,Lakshadweep,0,0,Thu Jul 16 17:00:01 2020
+335,Maharashtra,Ahmednagar,1029,0,Thu Jul 16 17:00:01 2020
+336,Maharashtra,Akola,1906,0,Thu Jul 16 17:00:01 2020
+337,Maharashtra,Amravati,989,0,Thu Jul 16 17:00:01 2020
+338,Maharashtra,Aurangabad,8821,0,Thu Jul 16 17:00:01 2020
+339,Maharashtra,Beed,248,0,Thu Jul 16 17:00:01 2020
+340,Maharashtra,Bhandara,175,0,Thu Jul 16 17:00:01 2020
+341,Maharashtra,Buldhana,434,0,Thu Jul 16 17:00:01 2020
+342,Maharashtra,Chandrapur,192,0,Thu Jul 16 17:00:01 2020
+343,Maharashtra,Dhule,1688,0,Thu Jul 16 17:00:01 2020
+344,Maharashtra,Gadchiroli,153,0,Thu Jul 16 17:00:01 2020
+345,Maharashtra,Gondia,220,0,Thu Jul 16 17:00:01 2020
+346,Maharashtra,Hingoli,368,0,Thu Jul 16 17:00:01 2020
+347,Maharashtra,Jalgaon,6576,0,Thu Jul 16 17:00:01 2020
+348,Maharashtra,Jalna,1089,0,Thu Jul 16 17:00:01 2020
+349,Maharashtra,Kolhapur,1385,0,Thu Jul 16 17:00:01 2020
+350,Maharashtra,Latur,798,0,Thu Jul 16 17:00:01 2020
+351,Maharashtra,Mumbai,96474,0,Thu Jul 16 17:00:01 2020
+352,Maharashtra,Mumbai Suburban,0,0,Thu Jul 16 17:00:01 2020
+353,Maharashtra,Nagpur,2252,0,Thu Jul 16 17:00:01 2020
+354,Maharashtra,Nanded,691,0,Thu Jul 16 17:00:01 2020
+355,Maharashtra,Nandurbar,309,0,Thu Jul 16 17:00:01 2020
+356,Maharashtra,Nashik,7932,0,Thu Jul 16 17:00:01 2020
+357,Maharashtra,Osmanabad,429,0,Thu Jul 16 17:00:01 2020
+358,Maharashtra,Other State,215,0,Thu Jul 16 17:00:01 2020
+359,Maharashtra,Palghar,10462,0,Thu Jul 16 17:00:01 2020
+360,Maharashtra,Parbhani,242,0,Thu Jul 16 17:00:01 2020
+361,Maharashtra,Pune,44202,0,Thu Jul 16 17:00:01 2020
+362,Maharashtra,Raigad,9604,0,Thu Jul 16 17:00:01 2020
+363,Maharashtra,Ratnagiri,971,0,Thu Jul 16 17:00:01 2020
+364,Maharashtra,Sangli,670,0,Thu Jul 16 17:00:01 2020
+365,Maharashtra,Satara,1984,0,Thu Jul 16 17:00:01 2020
+366,Maharashtra,Sindhudurg,262,0,Thu Jul 16 17:00:01 2020
+367,Maharashtra,Solapur,4707,0,Thu Jul 16 17:00:01 2020
+368,Maharashtra,Thane,67360,0,Thu Jul 16 17:00:01 2020
+369,Maharashtra,Wardha,44,0,Thu Jul 16 17:00:01 2020
+370,Maharashtra,Washim,283,0,Thu Jul 16 17:00:01 2020
+371,Maharashtra,Yavatmal,476,0,Thu Jul 16 17:00:01 2020
+372,Meghalaya,East Garo Hills,0,0,Thu Jul 16 17:00:01 2020
+373,Meghalaya,East Jaintia Hills,1,0,Thu Jul 16 17:00:01 2020
+374,Meghalaya,East Khasi Hills,136,0,Thu Jul 16 17:00:01 2020
+375,Meghalaya,North Garo Hills,1,0,Thu Jul 16 17:00:01 2020
+376,Meghalaya,Ribhoi,16,0,Thu Jul 16 17:00:01 2020
+377,Meghalaya,South Garo Hills,0,0,Thu Jul 16 17:00:01 2020
+378,Meghalaya,South West Garo Hills,7,0,Thu Jul 16 17:00:01 2020
+379,Meghalaya,South West Khasi Hills,0,0,Thu Jul 16 17:00:01 2020
+380,Meghalaya,West Garo Hills,8,0,Thu Jul 16 17:00:01 2020
+381,Meghalaya,West Jaintia Hills,5,0,Thu Jul 16 17:00:01 2020
+382,Meghalaya,West Khasi Hills,1,0,Thu Jul 16 17:00:01 2020
+383,Meghalaya,Unknown,162,0,Thu Jul 16 17:00:01 2020
+384,Manipur,Bishnupur,82,0,Thu Jul 16 17:00:01 2020
+385,Manipur,Chandel,39,0,Thu Jul 16 17:00:01 2020
+386,Manipur,Churachandpur,155,0,Thu Jul 16 17:00:01 2020
+387,Manipur,Imphal East,60,0,Thu Jul 16 17:00:01 2020
+388,Manipur,Imphal West,138,0,Thu Jul 16 17:00:01 2020
+389,Manipur,Jiribam,71,0,Thu Jul 16 17:00:01 2020
+390,Manipur,Kakching,108,0,Thu Jul 16 17:00:01 2020
+391,Manipur,Kamjong,127,0,Thu Jul 16 17:00:01 2020
+392,Manipur,Kangpokpi,171,0,Thu Jul 16 17:00:01 2020
+393,Manipur,Noney,25,0,Thu Jul 16 17:00:01 2020
+394,Manipur,Pherzawl,32,0,Thu Jul 16 17:00:01 2020
+395,Manipur,Senapati,181,0,Thu Jul 16 17:00:01 2020
+396,Manipur,Tamenglong,203,0,Thu Jul 16 17:00:01 2020
+397,Manipur,Tengnoupal,14,0,Thu Jul 16 17:00:01 2020
+398,Manipur,Thoubal,81,0,Thu Jul 16 17:00:01 2020
+399,Manipur,Ukhrul,213,0,Thu Jul 16 17:00:01 2020
+400,Manipur,Unknown,0,0,Thu Jul 16 17:00:01 2020
+401,Madhya Pradesh,Agar Malwa,41,0,Thu Jul 16 17:00:01 2020
+402,Madhya Pradesh,Alirajpur,33,0,Thu Jul 16 17:00:01 2020
+403,Madhya Pradesh,Anuppur,32,0,Thu Jul 16 17:00:01 2020
+404,Madhya Pradesh,Ashoknagar,66,0,Thu Jul 16 17:00:01 2020
+405,Madhya Pradesh,Balaghat,55,0,Thu Jul 16 17:00:01 2020
+406,Madhya Pradesh,Barwani,209,0,Thu Jul 16 17:00:01 2020
+407,Madhya Pradesh,Betul,137,0,Thu Jul 16 17:00:01 2020
+408,Madhya Pradesh,Bhind,385,0,Thu Jul 16 17:00:01 2020
+409,Madhya Pradesh,Bhopal,3782,0,Thu Jul 16 17:00:01 2020
+410,Madhya Pradesh,Burhanpur,432,0,Thu Jul 16 17:00:01 2020
+411,Madhya Pradesh,Chhatarpur,79,0,Thu Jul 16 17:00:01 2020
+412,Madhya Pradesh,Chhindwara,81,0,Thu Jul 16 17:00:01 2020
+413,Madhya Pradesh,Damoh,69,0,Thu Jul 16 17:00:01 2020
+414,Madhya Pradesh,Datia,98,0,Thu Jul 16 17:00:01 2020
+415,Madhya Pradesh,Dewas,283,0,Thu Jul 16 17:00:01 2020
+416,Madhya Pradesh,Dhar,219,0,Thu Jul 16 17:00:01 2020
+417,Madhya Pradesh,Dindori,31,0,Thu Jul 16 17:00:01 2020
+418,Madhya Pradesh,Guna,40,0,Thu Jul 16 17:00:01 2020
+419,Madhya Pradesh,Gwalior,1244,0,Thu Jul 16 17:00:01 2020
+420,Madhya Pradesh,Harda,99,0,Thu Jul 16 17:00:01 2020
+421,Madhya Pradesh,Hoshangabad,60,0,Thu Jul 16 17:00:01 2020
+422,Madhya Pradesh,Indore,5496,0,Thu Jul 16 17:00:01 2020
+423,Madhya Pradesh,Jabalpur,643,0,Thu Jul 16 17:00:01 2020
+424,Madhya Pradesh,Jhabua,55,0,Thu Jul 16 17:00:01 2020
+425,Madhya Pradesh,Katni,43,0,Thu Jul 16 17:00:01 2020
+426,Madhya Pradesh,Khandwa,454,0,Thu Jul 16 17:00:01 2020
+427,Madhya Pradesh,Khargone,417,0,Thu Jul 16 17:00:01 2020
+428,Madhya Pradesh,Mandla,10,0,Thu Jul 16 17:00:01 2020
+429,Madhya Pradesh,Mandsaur,233,0,Thu Jul 16 17:00:01 2020
+430,Madhya Pradesh,Morena,1142,0,Thu Jul 16 17:00:01 2020
+431,Madhya Pradesh,Narsinghpur,42,0,Thu Jul 16 17:00:01 2020
+432,Madhya Pradesh,Neemuch,509,0,Thu Jul 16 17:00:01 2020
+433,Madhya Pradesh,Niwari,22,0,Thu Jul 16 17:00:01 2020
+434,Madhya Pradesh,Other Region,0,0,Thu Jul 16 17:00:01 2020
+435,Madhya Pradesh,Panna,58,0,Thu Jul 16 17:00:01 2020
+436,Madhya Pradesh,Raisen,124,0,Thu Jul 16 17:00:01 2020
+437,Madhya Pradesh,Rajgarh,150,0,Thu Jul 16 17:00:01 2020
+438,Madhya Pradesh,Ratlam,240,0,Thu Jul 16 17:00:01 2020
+439,Madhya Pradesh,Rewa,89,0,Thu Jul 16 17:00:01 2020
+440,Madhya Pradesh,Sagar,471,0,Thu Jul 16 17:00:01 2020
+441,Madhya Pradesh,Satna,59,0,Thu Jul 16 17:00:01 2020
+442,Madhya Pradesh,Sehore,61,0,Thu Jul 16 17:00:01 2020
+443,Madhya Pradesh,Seoni,22,0,Thu Jul 16 17:00:01 2020
+444,Madhya Pradesh,Shahdol,46,0,Thu Jul 16 17:00:01 2020
+445,Madhya Pradesh,Shajapur,169,0,Thu Jul 16 17:00:01 2020
+446,Madhya Pradesh,Sheopur,128,0,Thu Jul 16 17:00:01 2020
+447,Madhya Pradesh,Shivpuri,181,0,Thu Jul 16 17:00:01 2020
+448,Madhya Pradesh,Sidhi,42,0,Thu Jul 16 17:00:01 2020
+449,Madhya Pradesh,Singrauli,38,0,Thu Jul 16 17:00:01 2020
+450,Madhya Pradesh,Tikamgarh,162,0,Thu Jul 16 17:00:01 2020
+451,Madhya Pradesh,Ujjain,921,0,Thu Jul 16 17:00:01 2020
+452,Madhya Pradesh,Umaria,30,0,Thu Jul 16 17:00:01 2020
+453,Madhya Pradesh,Vidisha,111,0,Thu Jul 16 17:00:01 2020
+454,Mizoram,Aizawl,106,14,Thu Jul 16 17:00:01 2020
+455,Mizoram,Champhai,10,0,Thu Jul 16 17:00:01 2020
+456,Mizoram,Hnahthial,0,0,Thu Jul 16 17:00:01 2020
+457,Mizoram,Khawzawl,3,0,Thu Jul 16 17:00:01 2020
+458,Mizoram,Kolasib,12,0,Thu Jul 16 17:00:01 2020
+459,Mizoram,Lawngtlai,21,9,Thu Jul 16 17:00:01 2020
+460,Mizoram,Lunglei,63,5,Thu Jul 16 17:00:01 2020
+461,Mizoram,Mamit,21,1,Thu Jul 16 17:00:01 2020
+462,Mizoram,Saiha,23,0,Thu Jul 16 17:00:01 2020
+463,Mizoram,Saitual,3,0,Thu Jul 16 17:00:01 2020
+464,Mizoram,Serchhip,5,0,Thu Jul 16 17:00:01 2020
+465,Nagaland,Others,46,0,Thu Jul 16 17:00:01 2020
+466,Nagaland,Dimapur,228,0,Thu Jul 16 17:00:01 2020
+467,Nagaland,Kiphire,4,0,Thu Jul 16 17:00:01 2020
+468,Nagaland,Kohima,110,0,Thu Jul 16 17:00:01 2020
+469,Nagaland,Longleng,4,0,Thu Jul 16 17:00:01 2020
+470,Nagaland,Mokokchung,5,0,Thu Jul 16 17:00:01 2020
+471,Nagaland,Mon,108,0,Thu Jul 16 17:00:01 2020
+472,Nagaland,Peren,312,0,Thu Jul 16 17:00:01 2020
+473,Nagaland,Phek,18,0,Thu Jul 16 17:00:01 2020
+474,Nagaland,Tuensang,49,0,Thu Jul 16 17:00:01 2020
+475,Nagaland,Wokha,11,0,Thu Jul 16 17:00:01 2020
+476,Nagaland,Zunheboto,7,0,Thu Jul 16 17:00:01 2020
+477,Nagaland,Unknown,0,0,Thu Jul 16 17:00:01 2020
+478,Odisha,Others,0,0,Thu Jul 16 17:00:01 2020
+479,Odisha,Angul,156,1,Thu Jul 16 17:00:01 2020
+480,Odisha,Balangir,273,3,Thu Jul 16 17:00:01 2020
+481,Odisha,Balasore,636,21,Thu Jul 16 17:00:01 2020
+482,Odisha,Bargarh,205,0,Thu Jul 16 17:00:01 2020
+483,Odisha,Bhadrak,304,7,Thu Jul 16 17:00:01 2020
+484,Odisha,Boudh,64,2,Thu Jul 16 17:00:01 2020
+485,Odisha,Cuttack,1114,38,Thu Jul 16 17:00:01 2020
+486,Odisha,Deogarh,66,0,Thu Jul 16 17:00:01 2020
+487,Odisha,Dhenkanal,106,0,Thu Jul 16 17:00:01 2020
+488,Odisha,Gajapati,643,0,Thu Jul 16 17:00:01 2020
+489,Odisha,Ganjam,4867,246,Thu Jul 16 17:00:01 2020
+490,Odisha,Jagatsinghpur,454,1,Thu Jul 16 17:00:01 2020
+491,Odisha,Jajpur,934,15,Thu Jul 16 17:00:01 2020
+492,Odisha,Jharsuguda,183,0,Thu Jul 16 17:00:01 2020
+493,Odisha,Kalahandi,85,2,Thu Jul 16 17:00:01 2020
+494,Odisha,Kandhamal,199,0,Thu Jul 16 17:00:01 2020
+495,Odisha,Kendrapara,329,11,Thu Jul 16 17:00:01 2020
+496,Odisha,Kendujhar,355,10,Thu Jul 16 17:00:01 2020
+497,Odisha,Khordha,1594,64,Thu Jul 16 17:00:01 2020
+498,Odisha,Koraput,194,4,Thu Jul 16 17:00:01 2020
+499,Odisha,Malkangiri,212,4,Thu Jul 16 17:00:01 2020
+500,Odisha,Mayurbhanj,411,14,Thu Jul 16 17:00:01 2020
+501,Odisha,Nabarangapur,133,4,Thu Jul 16 17:00:01 2020
+502,Odisha,Nayagarh,302,16,Thu Jul 16 17:00:01 2020
+503,Odisha,Nuapada,100,9,Thu Jul 16 17:00:01 2020
+504,Odisha,Puri,383,7,Thu Jul 16 17:00:01 2020
+505,Odisha,Rayagada,167,1,Thu Jul 16 17:00:01 2020
+506,Odisha,Sambalpur,129,4,Thu Jul 16 17:00:01 2020
+507,Odisha,Subarnapur,44,0,Thu Jul 16 17:00:01 2020
+508,Odisha,Sundargarh,750,10,Thu Jul 16 17:00:01 2020
+509,Punjab,Amritsar,1131,0,Thu Jul 16 17:00:01 2020
+510,Punjab,Barnala,79,0,Thu Jul 16 17:00:01 2020
+511,Punjab,Bathinda,154,0,Thu Jul 16 17:00:01 2020
+512,Punjab,Faridkot,175,0,Thu Jul 16 17:00:01 2020
+513,Punjab,Fatehgarh Sahib,178,0,Thu Jul 16 17:00:01 2020
+514,Punjab,Fazilka,114,0,Thu Jul 16 17:00:01 2020
+515,Punjab,Ferozepur,190,0,Thu Jul 16 17:00:01 2020
+516,Punjab,Gurdaspur,292,0,Thu Jul 16 17:00:01 2020
+517,Punjab,Hoshiarpur,207,0,Thu Jul 16 17:00:01 2020
+518,Punjab,Jalandhar,1437,0,Thu Jul 16 17:00:01 2020
+519,Punjab,Kapurthala,141,0,Thu Jul 16 17:00:01 2020
+520,Punjab,Ludhiana,1581,0,Thu Jul 16 17:00:01 2020
+521,Punjab,Mansa,64,0,Thu Jul 16 17:00:01 2020
+522,Punjab,Moga,153,0,Thu Jul 16 17:00:01 2020
+523,Punjab,Pathankot,263,0,Thu Jul 16 17:00:01 2020
+524,Punjab,Patiala,748,0,Thu Jul 16 17:00:01 2020
+525,Punjab,Rupnagar,143,0,Thu Jul 16 17:00:01 2020
+526,Punjab,S.A.S. Nagar,455,0,Thu Jul 16 17:00:01 2020
+527,Punjab,Sangrur,672,0,Thu Jul 16 17:00:01 2020
+528,Punjab,Shahid Bhagat Singh Nagar,242,0,Thu Jul 16 17:00:01 2020
+529,Punjab,Sri Muktsar Sahib,159,0,Thu Jul 16 17:00:01 2020
+530,Punjab,Tarn Taran,221,0,Thu Jul 16 17:00:01 2020
+531,Puducherry,Karaikal,111,12,Thu Jul 16 17:00:01 2020
+532,Puducherry,Mahe,21,0,Thu Jul 16 17:00:01 2020
+533,Puducherry,Puducherry,1559,128,Thu Jul 16 17:00:01 2020
+534,Puducherry,Yanam,52,7,Thu Jul 16 17:00:01 2020
+535,Rajasthan,Ajmer,831,0,Thu Jul 16 17:00:01 2020
+536,Rajasthan,Alwar,1497,45,Thu Jul 16 17:00:01 2020
+537,Rajasthan,Banswara,107,1,Thu Jul 16 17:00:01 2020
+538,Rajasthan,Baran,77,0,Thu Jul 16 17:00:01 2020
+539,Rajasthan,Barmer,766,0,Thu Jul 16 17:00:01 2020
+540,Rajasthan,Bharatpur,2004,0,Thu Jul 16 17:00:01 2020
+541,Rajasthan,Bhilwara,309,0,Thu Jul 16 17:00:01 2020
+542,Rajasthan,Bikaner,1112,46,Thu Jul 16 17:00:01 2020
+543,Rajasthan,BSF Camp,54,0,Thu Jul 16 17:00:01 2020
+544,Rajasthan,Bundi,31,1,Thu Jul 16 17:00:01 2020
+545,Rajasthan,Chittorgarh,216,0,Thu Jul 16 17:00:01 2020
+546,Rajasthan,Churu,453,0,Thu Jul 16 17:00:01 2020
+547,Rajasthan,Dausa,227,0,Thu Jul 16 17:00:01 2020
+548,Rajasthan,Dholpur,877,0,Thu Jul 16 17:00:01 2020
+549,Rajasthan,Dungarpur,496,0,Thu Jul 16 17:00:01 2020
+550,Rajasthan,Evacuees,61,0,Thu Jul 16 17:00:01 2020
+551,Rajasthan,Ganganagar,92,0,Thu Jul 16 17:00:01 2020
+552,Rajasthan,Hanumangarh,142,0,Thu Jul 16 17:00:01 2020
+553,Rajasthan,Italians,2,0,Thu Jul 16 17:00:01 2020
+554,Rajasthan,Jaipur,4127,30,Thu Jul 16 17:00:01 2020
+555,Rajasthan,Jaisalmer,120,0,Thu Jul 16 17:00:01 2020
+556,Rajasthan,Jalore,721,0,Thu Jul 16 17:00:01 2020
+557,Rajasthan,Jhalawar,385,0,Thu Jul 16 17:00:01 2020
+558,Rajasthan,Jhunjhunu,483,12,Thu Jul 16 17:00:01 2020
+559,Rajasthan,Jodhpur,4223,0,Thu Jul 16 17:00:01 2020
+560,Rajasthan,Karauli,161,1,Thu Jul 16 17:00:01 2020
+561,Rajasthan,Kota,890,0,Thu Jul 16 17:00:01 2020
+562,Rajasthan,Nagaur,1006,5,Thu Jul 16 17:00:01 2020
+563,Rajasthan,Other State,168,1,Thu Jul 16 17:00:01 2020
+564,Rajasthan,Pali,1692,0,Thu Jul 16 17:00:01 2020
+565,Rajasthan,Pratapgarh,152,1,Thu Jul 16 17:00:01 2020
+566,Rajasthan,Rajsamand,411,0,Thu Jul 16 17:00:01 2020
+567,Rajasthan,Sawai Madhopur,137,0,Thu Jul 16 17:00:01 2020
+568,Rajasthan,Sikar,716,0,Thu Jul 16 17:00:01 2020
+569,Rajasthan,Sirohi,700,0,Thu Jul 16 17:00:01 2020
+570,Rajasthan,Tonk,218,0,Thu Jul 16 17:00:01 2020
+571,Rajasthan,Udaipur,916,0,Thu Jul 16 17:00:01 2020
+572,Sikkim,East Sikkim,155,0,Thu Jul 16 17:00:01 2020
+573,Sikkim,North Sikkim,1,0,Thu Jul 16 17:00:01 2020
+574,Sikkim,South Sikkim,44,0,Thu Jul 16 17:00:01 2020
+575,Sikkim,West Sikkim,22,0,Thu Jul 16 17:00:01 2020
+576,Sikkim,Unknown,0,0,Thu Jul 16 17:00:01 2020
+577,Telangana,Foreign Evacuees,33,0,Thu Jul 16 17:00:01 2020
+578,Telangana,Other State,250,0,Thu Jul 16 17:00:01 2020
+579,Telangana,Adilabad,88,0,Thu Jul 16 17:00:01 2020
+580,Telangana,Bhadradri Kothagudem,102,0,Thu Jul 16 17:00:01 2020
+581,Telangana,Hyderabad,29111,0,Thu Jul 16 17:00:01 2020
+582,Telangana,Jagtial,52,0,Thu Jul 16 17:00:01 2020
+583,Telangana,Jangaon,122,0,Thu Jul 16 17:00:01 2020
+584,Telangana,Jayashankar Bhupalapally,58,0,Thu Jul 16 17:00:01 2020
+585,Telangana,Jogulamba Gadwal,99,0,Thu Jul 16 17:00:01 2020
+586,Telangana,Kamareddy,169,0,Thu Jul 16 17:00:01 2020
+587,Telangana,Karimnagar,424,0,Thu Jul 16 17:00:01 2020
+588,Telangana,Khammam,185,0,Thu Jul 16 17:00:01 2020
+589,Telangana,Komaram Bheem,34,0,Thu Jul 16 17:00:01 2020
+590,Telangana,Mahabubabad,85,0,Thu Jul 16 17:00:01 2020
+591,Telangana,Mahabubnagar,231,0,Thu Jul 16 17:00:01 2020
+592,Telangana,Mancherial,152,0,Thu Jul 16 17:00:01 2020
+593,Telangana,Medak,220,0,Thu Jul 16 17:00:01 2020
+594,Telangana,Medchal Malkajgiri,1745,0,Thu Jul 16 17:00:01 2020
+595,Telangana,Mulugu,46,0,Thu Jul 16 17:00:01 2020
+596,Telangana,Nagarkurnool,61,0,Thu Jul 16 17:00:01 2020
+597,Telangana,Nalgonda,397,0,Thu Jul 16 17:00:01 2020
+598,Telangana,Narayanpet,27,0,Thu Jul 16 17:00:01 2020
+599,Telangana,Nirmal,50,0,Thu Jul 16 17:00:01 2020
+600,Telangana,Nizamabad,251,0,Thu Jul 16 17:00:01 2020
+601,Telangana,Peddapalli,78,0,Thu Jul 16 17:00:01 2020
+602,Telangana,Rajanna Sircilla,129,0,Thu Jul 16 17:00:01 2020
+603,Telangana,Ranga Reddy,3052,0,Thu Jul 16 17:00:01 2020
+604,Telangana,Sangareddy,546,0,Thu Jul 16 17:00:01 2020
+605,Telangana,Siddipet,94,0,Thu Jul 16 17:00:01 2020
+606,Telangana,Suryapet,219,0,Thu Jul 16 17:00:01 2020
+607,Telangana,Vikarabad,122,0,Thu Jul 16 17:00:01 2020
+608,Telangana,Wanaparthy,56,0,Thu Jul 16 17:00:01 2020
+609,Telangana,Warangal Rural,181,0,Thu Jul 16 17:00:01 2020
+610,Telangana,Warangal Urban,350,0,Thu Jul 16 17:00:01 2020
+611,Telangana,Yadadri Bhuvanagiri,67,0,Thu Jul 16 17:00:01 2020
+612,Telangana,Unknown,456,0,Thu Jul 16 17:00:01 2020
+613,Tamil Nadu,Railway Quarantine,422,0,Thu Jul 16 17:00:01 2020
+614,Tamil Nadu,Airport Quarantine,1044,0,Thu Jul 16 17:00:01 2020
+615,Tamil Nadu,Other State,0,0,Thu Jul 16 17:00:01 2020
+616,Tamil Nadu,Ariyalur,585,0,Thu Jul 16 17:00:01 2020
+617,Tamil Nadu,Chengalpattu,8741,0,Thu Jul 16 17:00:01 2020
+618,Tamil Nadu,Chennai,80961,0,Thu Jul 16 17:00:01 2020
+619,Tamil Nadu,Coimbatore,1591,0,Thu Jul 16 17:00:01 2020
+620,Tamil Nadu,Cuddalore,1624,0,Thu Jul 16 17:00:01 2020
+621,Tamil Nadu,Dharmapuri,264,0,Thu Jul 16 17:00:01 2020
+622,Tamil Nadu,Dindigul,1066,0,Thu Jul 16 17:00:01 2020
+623,Tamil Nadu,Erode,460,0,Thu Jul 16 17:00:01 2020
+624,Tamil Nadu,Kallakurichi,1979,0,Thu Jul 16 17:00:01 2020
+625,Tamil Nadu,Kancheepuram,4255,0,Thu Jul 16 17:00:01 2020
+626,Tamil Nadu,Kanyakumari,1745,0,Thu Jul 16 17:00:01 2020
+627,Tamil Nadu,Karur,210,0,Thu Jul 16 17:00:01 2020
+628,Tamil Nadu,Krishnagiri,306,0,Thu Jul 16 17:00:01 2020
+629,Tamil Nadu,Madurai,7331,0,Thu Jul 16 17:00:01 2020
+630,Tamil Nadu,Nagapattinam,388,0,Thu Jul 16 17:00:01 2020
+631,Tamil Nadu,Namakkal,212,0,Thu Jul 16 17:00:01 2020
+632,Tamil Nadu,Nilgiris,277,0,Thu Jul 16 17:00:01 2020
+633,Tamil Nadu,Perambalur,181,0,Thu Jul 16 17:00:01 2020
+634,Tamil Nadu,Pudukkottai,780,0,Thu Jul 16 17:00:01 2020
+635,Tamil Nadu,Ramanathapuram,2076,0,Thu Jul 16 17:00:01 2020
+636,Tamil Nadu,Ranipet,1711,0,Thu Jul 16 17:00:01 2020
+637,Tamil Nadu,Salem,2053,0,Thu Jul 16 17:00:01 2020
+638,Tamil Nadu,Sivaganga,1103,0,Thu Jul 16 17:00:01 2020
+639,Tamil Nadu,Tenkasi,842,0,Thu Jul 16 17:00:01 2020
+640,Tamil Nadu,Thanjavur,809,0,Thu Jul 16 17:00:01 2020
+641,Tamil Nadu,Theni,1975,0,Thu Jul 16 17:00:01 2020
+642,Tamil Nadu,Thiruvallur,7573,0,Thu Jul 16 17:00:01 2020
+643,Tamil Nadu,Thiruvarur,795,0,Thu Jul 16 17:00:01 2020
+644,Tamil Nadu,Thoothukkudi,2766,0,Thu Jul 16 17:00:01 2020
+645,Tamil Nadu,Tiruchirappalli,1814,0,Thu Jul 16 17:00:01 2020
+646,Tamil Nadu,Tirunelveli,2098,0,Thu Jul 16 17:00:01 2020
+647,Tamil Nadu,Tirupathur,478,0,Thu Jul 16 17:00:01 2020
+648,Tamil Nadu,Tiruppur,342,0,Thu Jul 16 17:00:01 2020
+649,Tamil Nadu,Tiruvannamalai,3349,0,Thu Jul 16 17:00:01 2020
+650,Tamil Nadu,Vellore,3191,0,Thu Jul 16 17:00:01 2020
+651,Tamil Nadu,Viluppuram,1820,0,Thu Jul 16 17:00:01 2020
+652,Tamil Nadu,Virudhunagar,2603,0,Thu Jul 16 17:00:01 2020
+653,Tripura,Dhalai,296,0,Thu Jul 16 17:00:01 2020
+654,Tripura,Gomati,331,0,Thu Jul 16 17:00:01 2020
+655,Tripura,Khowai,219,0,Thu Jul 16 17:00:01 2020
+656,Tripura,North Tripura,115,0,Thu Jul 16 17:00:01 2020
+657,Tripura,Sipahijala,673,0,Thu Jul 16 17:00:01 2020
+658,Tripura,South Tripura,174,0,Thu Jul 16 17:00:01 2020
+659,Tripura,Unokoti,93,0,Thu Jul 16 17:00:01 2020
+660,Tripura,West Tripura,380,0,Thu Jul 16 17:00:01 2020
+661,Uttar Pradesh,Agra,1424,0,Thu Jul 16 17:00:01 2020
+662,Uttar Pradesh,Aligarh,808,0,Thu Jul 16 17:00:01 2020
+663,Uttar Pradesh,Ambedkar Nagar,145,0,Thu Jul 16 17:00:01 2020
+664,Uttar Pradesh,Amethi,319,0,Thu Jul 16 17:00:01 2020
+665,Uttar Pradesh,Amroha,239,0,Thu Jul 16 17:00:01 2020
+666,Uttar Pradesh,Auraiya,128,0,Thu Jul 16 17:00:01 2020
+667,Uttar Pradesh,Ayodhya,527,0,Thu Jul 16 17:00:01 2020
+668,Uttar Pradesh,Azamgarh,401,0,Thu Jul 16 17:00:01 2020
+669,Uttar Pradesh,Baghpat,474,0,Thu Jul 16 17:00:01 2020
+670,Uttar Pradesh,Bahraich,177,0,Thu Jul 16 17:00:01 2020
+671,Uttar Pradesh,Ballia,544,0,Thu Jul 16 17:00:01 2020
+672,Uttar Pradesh,Balrampur,118,0,Thu Jul 16 17:00:01 2020
+673,Uttar Pradesh,Banda,92,0,Thu Jul 16 17:00:01 2020
+674,Uttar Pradesh,Barabanki,645,0,Thu Jul 16 17:00:01 2020
+675,Uttar Pradesh,Bareilly,704,0,Thu Jul 16 17:00:01 2020
+676,Uttar Pradesh,Basti,460,0,Thu Jul 16 17:00:01 2020
+677,Uttar Pradesh,Bhadohi,228,0,Thu Jul 16 17:00:01 2020
+678,Uttar Pradesh,Bijnor,436,0,Thu Jul 16 17:00:01 2020
+679,Uttar Pradesh,Budaun,243,0,Thu Jul 16 17:00:01 2020
+680,Uttar Pradesh,Bulandshahr,963,0,Thu Jul 16 17:00:01 2020
+681,Uttar Pradesh,Chandauli,320,0,Thu Jul 16 17:00:01 2020
+682,Uttar Pradesh,Chitrakoot,109,0,Thu Jul 16 17:00:01 2020
+683,Uttar Pradesh,Deoria,495,0,Thu Jul 16 17:00:01 2020
+684,Uttar Pradesh,Etah,176,0,Thu Jul 16 17:00:01 2020
+685,Uttar Pradesh,Etawah,422,0,Thu Jul 16 17:00:01 2020
+686,Uttar Pradesh,Farrukhabad,291,0,Thu Jul 16 17:00:01 2020
+687,Uttar Pradesh,Fatehpur,245,0,Thu Jul 16 17:00:01 2020
+688,Uttar Pradesh,Firozabad,581,0,Thu Jul 16 17:00:01 2020
+689,Uttar Pradesh,Gautam Buddha Nagar,3719,0,Thu Jul 16 17:00:01 2020
+690,Uttar Pradesh,Ghaziabad,3600,0,Thu Jul 16 17:00:01 2020
+691,Uttar Pradesh,Ghazipur,426,0,Thu Jul 16 17:00:01 2020
+692,Uttar Pradesh,Gonda,242,0,Thu Jul 16 17:00:01 2020
+693,Uttar Pradesh,Gorakhpur,815,0,Thu Jul 16 17:00:01 2020
+694,Uttar Pradesh,Hamirpur,128,0,Thu Jul 16 17:00:01 2020
+695,Uttar Pradesh,Hapur,934,0,Thu Jul 16 17:00:01 2020
+696,Uttar Pradesh,Hardoi,396,0,Thu Jul 16 17:00:01 2020
+697,Uttar Pradesh,Hathras,218,0,Thu Jul 16 17:00:01 2020
+698,Uttar Pradesh,Jalaun,214,0,Thu Jul 16 17:00:01 2020
+699,Uttar Pradesh,Jaunpur,738,0,Thu Jul 16 17:00:01 2020
+700,Uttar Pradesh,Jhansi,803,0,Thu Jul 16 17:00:01 2020
+701,Uttar Pradesh,Kannauj,355,0,Thu Jul 16 17:00:01 2020
+702,Uttar Pradesh,Kanpur Dehat,89,0,Thu Jul 16 17:00:01 2020
+703,Uttar Pradesh,Kanpur Nagar,2000,0,Thu Jul 16 17:00:01 2020
+704,Uttar Pradesh,Kasganj,208,0,Thu Jul 16 17:00:01 2020
+705,Uttar Pradesh,Kaushambi,244,0,Thu Jul 16 17:00:01 2020
+706,Uttar Pradesh,Kushinagar,320,0,Thu Jul 16 17:00:01 2020
+707,Uttar Pradesh,Lakhimpur Kheri,192,0,Thu Jul 16 17:00:01 2020
+708,Uttar Pradesh,Lalitpur,62,0,Thu Jul 16 17:00:01 2020
+709,Uttar Pradesh,Lucknow,2927,0,Thu Jul 16 17:00:01 2020
+710,Uttar Pradesh,Maharajganj,296,0,Thu Jul 16 17:00:01 2020
+711,Uttar Pradesh,Mahoba,98,0,Thu Jul 16 17:00:01 2020
+712,Uttar Pradesh,Mainpuri,372,0,Thu Jul 16 17:00:01 2020
+713,Uttar Pradesh,Mathura,560,0,Thu Jul 16 17:00:01 2020
+714,Uttar Pradesh,Mau,292,0,Thu Jul 16 17:00:01 2020
+715,Uttar Pradesh,Meerut,1661,0,Thu Jul 16 17:00:01 2020
+716,Uttar Pradesh,Mirzapur,266,0,Thu Jul 16 17:00:01 2020
+717,Uttar Pradesh,Moradabad,825,0,Thu Jul 16 17:00:01 2020
+718,Uttar Pradesh,Muzaffarnagar,477,0,Thu Jul 16 17:00:01 2020
+719,Uttar Pradesh,Pilibhit,190,0,Thu Jul 16 17:00:01 2020
+720,Uttar Pradesh,Pratapgarh,151,0,Thu Jul 16 17:00:01 2020
+721,Uttar Pradesh,Prayagraj,691,0,Thu Jul 16 17:00:01 2020
+722,Uttar Pradesh,Rae Bareli,199,0,Thu Jul 16 17:00:01 2020
+723,Uttar Pradesh,Rampur,467,0,Thu Jul 16 17:00:01 2020
+724,Uttar Pradesh,Saharanpur,586,0,Thu Jul 16 17:00:01 2020
+725,Uttar Pradesh,Sambhal,638,0,Thu Jul 16 17:00:01 2020
+726,Uttar Pradesh,Sant Kabir Nagar,465,0,Thu Jul 16 17:00:01 2020
+727,Uttar Pradesh,Shahjahanpur,247,0,Thu Jul 16 17:00:01 2020
+728,Uttar Pradesh,Shamli,229,0,Thu Jul 16 17:00:01 2020
+729,Uttar Pradesh,Shrawasti,96,0,Thu Jul 16 17:00:01 2020
+730,Uttar Pradesh,Siddharthnagar,332,0,Thu Jul 16 17:00:01 2020
+731,Uttar Pradesh,Sitapur,108,0,Thu Jul 16 17:00:01 2020
+732,Uttar Pradesh,Sonbhadra,141,0,Thu Jul 16 17:00:01 2020
+733,Uttar Pradesh,Sultanpur,275,0,Thu Jul 16 17:00:01 2020
+734,Uttar Pradesh,Unnao,360,0,Thu Jul 16 17:00:01 2020
+735,Uttar Pradesh,Varanasi,1017,0,Thu Jul 16 17:00:01 2020
+736,Uttarakhand,Almora,203,0,Thu Jul 16 17:00:01 2020
+737,Uttarakhand,Bageshwar,95,0,Thu Jul 16 17:00:01 2020
+738,Uttarakhand,Chamoli,78,0,Thu Jul 16 17:00:01 2020
+739,Uttarakhand,Champawat,72,0,Thu Jul 16 17:00:01 2020
+740,Uttarakhand,Dehradun,936,0,Thu Jul 16 17:00:01 2020
+741,Uttarakhand,Haridwar,404,0,Thu Jul 16 17:00:01 2020
+742,Uttarakhand,Nainital,607,0,Thu Jul 16 17:00:01 2020
+743,Uttarakhand,Pauri Garhwal,173,0,Thu Jul 16 17:00:01 2020
+744,Uttarakhand,Pithoragarh,77,0,Thu Jul 16 17:00:01 2020
+745,Uttarakhand,Rudraprayag,67,0,Thu Jul 16 17:00:01 2020
+746,Uttarakhand,Tehri Garhwal,437,0,Thu Jul 16 17:00:01 2020
+747,Uttarakhand,Udham Singh Nagar,534,0,Thu Jul 16 17:00:01 2020
+748,Uttarakhand,Uttarkashi,102,0,Thu Jul 16 17:00:01 2020
+749,West Bengal,Alipurduar,207,0,Thu Jul 16 17:00:01 2020
+750,West Bengal,Bankura,334,0,Thu Jul 16 17:00:01 2020
+751,West Bengal,Birbhum,341,0,Thu Jul 16 17:00:01 2020
+752,West Bengal,Cooch Behar,365,0,Thu Jul 16 17:00:01 2020
+753,West Bengal,Dakshin Dinajpur,455,0,Thu Jul 16 17:00:01 2020
+754,West Bengal,Darjeeling,1015,0,Thu Jul 16 17:00:01 2020
+755,West Bengal,Hooghly,1687,0,Thu Jul 16 17:00:01 2020
+756,West Bengal,Howrah,4390,0,Thu Jul 16 17:00:01 2020
+757,West Bengal,Jalpaiguri,594,0,Thu Jul 16 17:00:01 2020
+758,West Bengal,Jhargram,25,0,Thu Jul 16 17:00:01 2020
+759,West Bengal,Kalimpong,59,0,Thu Jul 16 17:00:01 2020
+760,West Bengal,Kolkata,10975,0,Thu Jul 16 17:00:01 2020
+761,West Bengal,Malda,1384,0,Thu Jul 16 17:00:01 2020
+762,West Bengal,Murshidabad,402,0,Thu Jul 16 17:00:01 2020
+763,West Bengal,Nadia,455,0,Thu Jul 16 17:00:01 2020
+764,West Bengal,North 24 Parganas,6632,0,Thu Jul 16 17:00:01 2020
+765,West Bengal,Other State,66,0,Thu Jul 16 17:00:01 2020
+766,West Bengal,Paschim Bardhaman,261,0,Thu Jul 16 17:00:01 2020
+767,West Bengal,Paschim Medinipur,591,0,Thu Jul 16 17:00:01 2020
+768,West Bengal,Purba Bardhaman,284,0,Thu Jul 16 17:00:01 2020
+769,West Bengal,Purba Medinipur,665,0,Thu Jul 16 17:00:01 2020
+770,West Bengal,Purulia,118,0,Thu Jul 16 17:00:01 2020
+771,West Bengal,South 24 Parganas,2640,0,Thu Jul 16 17:00:01 2020
+772,West Bengal,Uttar Dinajpur,482,0,Thu Jul 16 17:00:01 2020
